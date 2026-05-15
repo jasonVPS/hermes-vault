@@ -14,7 +14,22 @@ Aktueller Zustand. Aktualisierst du nach jeder Strukturänderung.
 Nach jedem neuen Ordner, jeder Verschiebung, jeder Archivierung: Tree aktualisieren. Ein-Zeilen-Erklärung pro Top-Level-Ordner halten, damit der Zweck sofort klar ist.
 
 ## Tree
-[Tree-Output Top-Level + Subordner mit 1-Zeilen-Erklärung]
+```
+_meta/
+  ├── skills/          # Automatisch gepflegte Skill-Dateien (Workflows, Regeln)
+  ├── errors/          # Fehler-Log mit strukturellen Lösungen
+  ├── index/           # MOCs, Orphans, Struktur-Live-Status
+  └── reviews/         # Wöchentliche / monatliche Reviews
+```
+
+## Tree
+```
+_meta/
+  ├── skills/          # Automatisch gepflegte Skill-Dateien (Workflows, Regeln)
+  ├── errors/          # Fehler-Log mit strukturellen Lösungen
+  ├── index/           # MOCs, Orphans, Struktur-Live-Status
+  └── reviews/         # Wöchentliche / monatliche Reviews
+```
 
 ## Letzte Änderung
-[Datum + was wurde geändert]
+2026-05-16 — _meta/skills/ Ordner angelegt, youtube-capture.md als erster Skill

@@ -20,7 +20,10 @@ tags: [meta]
 - Lobhudelei vor Korrekturen ist verboten
 
 ## Interessen / Themen
-[DEINE-THEMEN]
+- Tech: Hermes Agent, Obsidian, Multi-Agent-Systeme, Discord-Integration
+- Workflow: Terminal-first, autonomes Handeln, Git-basierter Sync
+- Ziel: "Zweites Gehirn" auf höchstem Niveau mit Agent-Kurator
+- Interesse an: Artem Zhutovs Hermes+Obsidian+Discord Setup (YouTube-Video)
 
 ## Arbeitsweise
 - Hermes im Terminal

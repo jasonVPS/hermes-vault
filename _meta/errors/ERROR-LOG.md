@@ -38,3 +38,12 @@ Tags: #typ/[halluzination|struktur|tonalitaet|regel-ignoriert|duplikat|klassifik
 
 ## Einträge
 [hier kommen alle Einträge, neueste zuerst]
+2026-05-15 22:21 — Datum-Konflikt: Systemdatum vs. User-Local-Time
+Kontext: Capture angelegt mit Systemdatum 2026-05-15 UTC. User korrigiert: 'heute ist 2026-05-16' (CEST).
+Fehler: Hart auf UTC-Systemdatum gesetzt, ohne User-Timezone zu berücksichtigen.
+Ursache: fehlende Regel — VAULT-RULES spezifiziert 'Systemdatum' aber nicht die Zeitzone.
+Lösung: VAULT-RULES präzisieren. UTC als technische Primärquelle, bei bekannter User-Timezone (Europe/Berlin) Umrechnung für Dateinamen.
+Vermeidung: VAULT-RULES.md Sektion '## Zeitzone' ergänzen.
+Skill-Update: Ja [_meta/skills/youtube-capture.md angelegt, VAULT-RULES Zeitzone-Sektion ergänzt]
+Tags: #typ/struktur
+

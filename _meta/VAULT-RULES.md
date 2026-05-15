@@ -61,6 +61,14 @@ Max. 3 pro Notiz, Kebab-Case
 Hierarchisch wo sinnvoll: #tech/ai
 Status nie als Tag
 
+## Zeitzone
+- Technische Quelle: System-UTC für Frontmatter `created` / `updated`
+- Dateinamen: Bei bekannter User-Timezone (Europe/Berlin für Bretzfeld) in lokales Datum umrechnen
+- Nie aus Vault-Timestamps ableiten — nur aus Systemdatum
+
+## Wikilinks
+Intern immer [[notiz-name]]. Leere Wikilinks ([[noch-nicht-existent]]) sind erlaubt und erwünscht — sie landen in `_meta/index/orphans.md` unter `## Pending Notes`.
+
 ## Absolut verboten
 
 Notiz ohne Frontmatter
