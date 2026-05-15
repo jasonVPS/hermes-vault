@@ -39,6 +39,15 @@ Tags: #typ/[halluzination|struktur|tonalitaet|regel-ignoriert|duplikat|klassifik
 ## Einträge
 [hier kommen alle Einträge, neueste zuerst]
 
+2026-05-15 22:26 — AUTONOMY-Verstoß: Rückfrage statt Ausführung nach bestätigtem Vorschlag
+Kontext: User sagte 'Mach Vorschlag' → Vorschlag gemacht → User bestätigte mit 'Verschieben/löschen: alle fünf...'. Statt sofort auszuführen, kam Rückfrage: 'Soll ich die fünf Root-Dateien jetzt verschieben/archivieren/löschen?'
+Fehler: Passivität trotz klarer Anweisung. Modus-Reflex statt Regel-gesteuertem Handeln.
+Ursache: regel-ignoriert — AUTONOMY.md '## Verbot' listet 'Auf Aufträge warten', aber 'Soll ich X tun?' nach bestätigtem Vorschlag ist nicht explizit verboten.
+Lösung: Sofort ausführen. ERROR-LOG + AUTONOMY.md präzisieren.
+Vermeidung: AUTONOMY.md präzisieren: 'Wenn User Vorschlag explizit angefordert und dann bestätigt/ausgewählt hat: Ausführung ist Pflicht ohne weitere Rückfrage.'
+Skill-Update: Ja [AUTONOMY.md präzisiert]
+Tags: #typ/regel-ignoriert
+
 2026-05-15 22:25 — Grundgerüst unvollständig: drei Top-Level-Ordner fehlten
 Kontext: Audit-Check nach Initialisierung. User meldet: Vault zeigt nur 20_Notes, 30_Projects, 40_Areas, 50_Resources, _meta. Fehlend: 00_Inbox/, 10_Daily/, 90_Archive/.
 Fehler: Prompt 11 (Vollständigkeits-Check) bestätigte 'alles OK', aber Tree-Output prüfte nur _meta/-Dateien, nicht Top-Level-Ordner-Existenz.

@@ -26,4 +26,4 @@ _meta/              # Meta-Daten, Regeln, MOCs, Skills, Reviews
 ```
 
 ## Letzte Änderung
-2026-05-16 — _meta/skills/ Ordner angelegt, youtube-capture.md als erster Skill
+2026-05-16 — Root-Dateien nach 90_Archive/2026/setup-artifacts/ verschoben. AUTONOMY.md präzisiert: 'Soll ich X tun?' nach bestätigtem Vorschlag verboten.

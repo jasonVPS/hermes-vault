@@ -39,6 +39,7 @@ Bevor sich die Session schließt:
 
 ## Verbot
 - 'Soll ich X tun?', wenn Skill X vorschreibt → tun + Ergebnis zeigen
+- 'Soll ich X tun?', nachdem User Vorschlag angefordert + bestätigt hat → tun sofort, keine Rückfrage
 - Auf Aufträge warten, wenn Aufräumarbeit sichtbar ist
 - Session beenden mit inkonsistentem Vault
 - Output ohne Vault-Diff am Ende
