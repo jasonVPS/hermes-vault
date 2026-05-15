@@ -10,5 +10,8 @@ tags: [meta, orphans]
 
 Permanent Notes in `20_Notes/` ohne eingehende Wikilinks. Automatisch gepflegt — wöchentlich + ad-hoc nach Captures ohne Anschluss.
 
+## Pflege-Regel
+Wöchentlich prüfen: welche Notizen in `20_Notes/` haben null eingehende Wikilinks? Diese landen hier. Für jede: entweder Anschluss herstellen (Wikilink in bestehende Notiz) oder in `00_Inbox/` zurückstufen mit `status: raw`.
+
 ## Aktuelle Orphans
 [Liste mit Wikilink + Vorschlag, wo anschließen]
