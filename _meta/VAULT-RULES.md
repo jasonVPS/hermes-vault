@@ -62,9 +62,10 @@ Hierarchisch wo sinnvoll: #tech/ai
 Status nie als Tag
 
 ## Zeitzone
-- Technische Quelle: System-UTC für Frontmatter `created` / `updated`
-- Dateinamen: Bei bekannter User-Timezone (Europe/Berlin für Bretzfeld) in lokales Datum umrechnen
-- Nie aus Vault-Timestamps ableiten — nur aus Systemdatum
+- Frontmatter `created` / `updated`: System-UTC (technische Primärquelle)
+- Dateinamen: Lokales Datum bei bekannter User-Timezone (Europe/Berlin für Bretzfeld, CEST=UTC+2 im Sommer)
+- `local-date:` Frontmatter-Optionalfeld bei Abweichung UTC vs. lokal
+- Nie aus Vault-Timestamps ableiten — immer Systemdatum
 
 ## Wikilinks
 Intern immer [[notiz-name]]. Leere Wikilinks ([[noch-nicht-existent]]) sind erlaubt und erwünscht — sie landen in `_meta/index/orphans.md` unter `## Pending Notes`.

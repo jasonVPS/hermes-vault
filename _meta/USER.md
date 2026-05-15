@@ -39,4 +39,7 @@ tags: [meta]
 - Fragen wie 'Soll ich X tun?', wenn ein Skill X vorschreibt
 
 ## Gelernte Präferenzen
-[Hermes pflegt diesen Abschnitt selbstständig nach SELF-IMPROVEMENT.md]
+- [2026-05-16] User korrigiert Datumskonflikt (UTC vs. CEST) — Zeitzone explizit in VAULT-RULES verankern
+- [2026-05-16] User will leere Wikilinks ([[noch-nicht-existent]]) als Pending Notes in orphans.md tracken
+- [2026-05-16] User arbeitet mit Multi-Agent-Systemen (Hermes+Obsidian+Discord), relevant für Vault-Expansion
+- [Hermes pflegt diesen Abschnitt selbstständig nach SELF-IMPROVEMENT.md]
