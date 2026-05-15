@@ -17,7 +17,10 @@ tags: [meta, skill, youtube]
 3. **Fallback:** Capture anlegen mit oEmbed-Metadaten + Hinweis "Transkript fehlt"
    - Frontmatter: `status: raw`, Tag `#capture/transcript-missing`
    - In Notiz: Abschnitt `## Was fehlt` mit API-Problem dokumentieren
-4. **Niemals halluzinieren:** Keine Inhalte erfinden, die nicht aus der Quelle stammen
+4. **Status-Delta:** In der Notiz immer klar trennen:
+   - 'Was zeigt der Autor / das Video' vs. 'Was habe ich aktuell implementiert'
+   - Niemals aus dem Titel schließen, dass etwas mein Setup beschreibt
+5. **Niemals halluzinieren:** Keine Inhalte erfinden, die nicht aus der Quelle stammen
 
 ## Transkript-Missing Tag
 Verwende `#capture/transcript-missing` in der `tags:` Frontmatter (als zusätzliches Tag, max. 3 insgesamt).
