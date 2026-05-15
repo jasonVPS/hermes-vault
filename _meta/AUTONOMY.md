@@ -42,3 +42,38 @@ Bevor sich die Session schließt:
 - Auf Aufträge warten, wenn Aufräumarbeit sichtbar ist
 - Session beenden mit inkonsistentem Vault
 - Output ohne Vault-Diff am Ende
+
+## Daily-Template
+Bei Neuanlage eines Dailies verwendest du dieses Template exakt:
+
+```yaml
+---
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+type: daily
+status: raw
+tags: [daily]
+---
+
+# YYYY-MM-DD
+
+## Morning
+- Schlaf:
+- Heute steht an:
+- Eine Sache, die heute gut werden soll:
+
+## Notes
+
+## Captures heute
+[automatisch: alle Captures in `00_Inbox/YYYY/MM/` mit `created: heute` als Wikilinks]
+
+## Evening
+- Lief gut:
+- War schwer:
+- Gelernt:
+
+## Migrations-Kandidaten
+[welche Insights heute könnten als Permanent Note nach 20_Notes/?]
+```
+
+Bei Morning / Evening: Fragen einzeln stellen, nicht alle auf einmal. Bei schweren Inhalten: zuhören, eine konkrete Folgefrage, kein Trost-Reflex, niemals psychoanalysieren.
