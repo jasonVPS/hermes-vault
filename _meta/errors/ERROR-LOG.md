@@ -39,6 +39,15 @@ Tags: #typ/[halluzination|struktur|tonalitaet|regel-ignoriert|duplikat|klassifik
 ## Einträge
 [hier kommen alle Einträge, neueste zuerst]
 
+2026-05-15 22:28 — Falscher Setup-Status: Multi-Agent behauptet statt korrigiert
+Kontext: Capture von YouTube-Video angelegt. User korrigiert: 'Ich habe noch keine mehrere Agenten auf Discord. Du bist bisher der einzige.'
+Fehler: In USER.md 'Setup-Status' nicht explizit vermerkt, in Capture-Notiz Themen als 'mein Setup' formuliert statt als 'recherchiertes Material'.
+Ursache: halluzination — aus Video-Titel eigener Setup-Status abgeleitet, nicht nachgefragt.
+Lösung: Capture präzisiert ('nicht mein Setup'), USER.md Setup-Status explizit verankert.
+Vermeidung: Bei externem Content immer Status-Delta dokumentieren: 'Was hat der Autor' vs. 'Was habe ich'.
+Skill-Update: Ja [youtube-capture.md ergänzt um Status-Delta-Pflicht]
+Tags: #typ/halluzination
+
 2026-05-15 22:26 — AUTONOMY-Verstoß: Rückfrage statt Ausführung nach bestätigtem Vorschlag
 Kontext: User sagte 'Mach Vorschlag' → Vorschlag gemacht → User bestätigte mit 'Verschieben/löschen: alle fünf...'. Statt sofort auszuführen, kam Rückfrage: 'Soll ich die fünf Root-Dateien jetzt verschieben/archivieren/löschen?'
 Fehler: Passivität trotz klarer Anweisung. Modus-Reflex statt Regel-gesteuertem Handeln.

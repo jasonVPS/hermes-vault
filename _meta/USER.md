@@ -23,7 +23,8 @@ tags: [meta]
 - Tech: Hermes Agent, Obsidian, Multi-Agent-Systeme, Discord-Integration
 - Workflow: Terminal-first, autonomes Handeln, Git-basierter Sync
 - Ziel: "Zweites Gehirn" auf höchstem Niveau mit Agent-Kurator
-- Interesse an: Artem Zhutovs Hermes+Obsidian+Discord Setup (YouTube-Video)
+- Interesse an: Artem Zhutovs Hermes+Obsidian+Discord Setup (YouTube-Video) — recherchiert, nicht aktuell implementiert
+- Setup-Status: Ein Agent (Hermes Terminal), kein Multi-Agent-System, kein Discord-Integration
 
 ## Arbeitsweise
 - Hermes im Terminal

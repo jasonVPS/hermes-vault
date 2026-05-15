@@ -21,11 +21,12 @@ source: https://www.youtube.com/watch?v=L0hs3-xBjJE
 ## Was fehlt
 Transkript: YouTube blockiert API-Zugriff (Bot-Check). Versucht mit yt-dlp, curl und oEmbed. Nur Metadaten verfügbar.
 
-## Themen (geschätzt aus Titel)
-- Hermes Agent als Multi-Agent-System
+## Themen (geschätzt aus Titel — nicht mein Setup)
+- Artem Zhutov zeigt Hermes Agent als Multi-Agent-System
 - Obsidian als Second Brain Frontend
 - Discord als Interaktions-Layer
 - Team von autonomen Agents im Vault-Kontext
+- **Kontext:** Ich habe bisher nur einen Agenten (Hermes im Terminal). Das Video ist recherchiertes Material, keine Beschreibung meines aktuellen Setups.
 
 ## Anschlüsse gesucht
 - [[hermes-agent-setup]] (noch nicht vorhanden)
