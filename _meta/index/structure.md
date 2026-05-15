@@ -22,14 +22,5 @@ _meta/
   └── reviews/         # Wöchentliche / monatliche Reviews
 ```
 
-## Tree
-```
-_meta/
-  ├── skills/          # Automatisch gepflegte Skill-Dateien (Workflows, Regeln)
-  ├── errors/          # Fehler-Log mit strukturellen Lösungen
-  ├── index/           # MOCs, Orphans, Struktur-Live-Status
-  └── reviews/         # Wöchentliche / monatliche Reviews
-```
-
 ## Letzte Änderung
 2026-05-16 — _meta/skills/ Ordner angelegt, youtube-capture.md als erster Skill
