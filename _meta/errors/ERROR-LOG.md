@@ -38,6 +38,15 @@ Tags: #typ/[halluzination|struktur|tonalitaet|regel-ignoriert|duplikat|klassifik
 
 ## Einträge
 [hier kommen alle Einträge, neueste zuerst]
+
+2026-05-15 22:25 — Grundgerüst unvollständig: drei Top-Level-Ordner fehlten
+Kontext: Audit-Check nach Initialisierung. User meldet: Vault zeigt nur 20_Notes, 30_Projects, 40_Areas, 50_Resources, _meta. Fehlend: 00_Inbox/, 10_Daily/, 90_Archive/.
+Fehler: Prompt 11 (Vollständigkeits-Check) bestätigte 'alles OK', aber Tree-Output prüfte nur _meta/-Dateien, nicht Top-Level-Ordner-Existenz.
+Ursache: struktur — Verifizierung zu oberflächlich, nur Dateien gezählt, nicht Ordner-Struktur gegen Soll-Vorlage.
+Lösung: Fehlende Ordner nachgeholt (00_Inbox/2026/05, 10_Daily/2026/05, 90_Archive/2026). structure.md Tree aktualisiert.
+Vermeidung: Nach jedem Setup-Schritt Tree-Output gegen Soll-Struktur verifizieren, nicht nur bestätigen. Explicit diff zu Prompt-Vorgabe.
+Skill-Update: Nein (Regel in VAULT-RULES.md bereits vorhanden, nicht angewendet)
+Tags: #typ/struktur
 2026-05-15 22:21 — Datum-Konflikt: Systemdatum vs. User-Local-Time
 Kontext: Capture angelegt mit Systemdatum 2026-05-15 UTC. User korrigiert: 'heute ist 2026-05-16' (CEST).
 Fehler: Hart auf UTC-Systemdatum gesetzt, ohne User-Timezone zu berücksichtigen.
