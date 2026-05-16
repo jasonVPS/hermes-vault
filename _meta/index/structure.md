@@ -22,7 +22,7 @@ Nach jedem neuen Ordner, jeder Verschiebung, jeder Archivierung: Tree aktualisie
 40_Areas/           # Lebensbereiche, dauerhaft relevant
 50_Resources/       # Referenzmaterial, Templates, Skills
 90_Archive/         # Abgeschlossene Projekte, alte Notizen (YYYY/)
-_meta/              # Meta-Daten, Regeln, MOCs, Skills, Reviews
+_meta/              # Meta-Daten, Regeln, MOCs, Skill-Workflows, Reviews
 ```
 
 ## Letzte Änderung

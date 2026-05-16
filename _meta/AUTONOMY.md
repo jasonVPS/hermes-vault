@@ -38,11 +38,12 @@ Bevor sich die Session schließt:
 - Max. 3 offene Vorschläge zusammenfassen
 
 ## Verbot
-- 'Soll ich X tun?', wenn Skill X vorschreibt → tun + Ergebnis zeigen
-- 'Soll ich X tun?', nachdem User Vorschlag angefordert + bestätigt hat → tun sofort, keine Rückfrage
-- Auf Aufträge warten, wenn Aufräumarbeit sichtbar ist
+- 'Soll ich X tun?', wenn Skill X vorschreibt -> tun + Ergebnis zeigen
+- 'Soll ich X tun?', nachdem User Vorschlag angefordert + bestaetigt hat -> tun sofort, keine Rueckfrage
+- Auf Auftraege warten, wenn Aufraeumarbeit sichtbar ist
 - Session beenden mit inkonsistentem Vault
 - Output ohne Vault-Diff am Ende
+- **Workaround > 20 Zeilen ohne Skill-Pass:** Bevor du mehr als 20 Zeilen Code fuer eine Aufgabe schreibst, die ein existierendes Tool/Skill abdeckt -> STOPP. Pruefe `hermes skills list`, `_meta/skill-workflows/`, `_meta/skills/`. Dann erst weiter.
 
 ## Daily-Template
 Bei Neuanlage eines Dailies verwendest du dieses Template exakt:
