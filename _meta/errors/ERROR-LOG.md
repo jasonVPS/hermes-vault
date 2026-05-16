@@ -28,11 +28,13 @@ Tags: #typ/[halluzination|struktur|tonalitaet|regel-ignoriert|duplikat|klassifik
 4. Monatlich Cluster-Analyse → `_meta/reviews/YYYY/MM/`
 
 ## Statistik (Hermes pflegt am Ende dieser Datei)
-- Einträge total: 0
-- Einträge letzte 7 Tage: 0
-- Einträge letzte 30 Tage: 0
-- Top-3-Tags (30 Tage): -
-- Behobene Cluster (Regel eingeführt): 0
+- Einträge total: 4
+- Einträge letzte 7 Tage: 4
+- Einträge letzte 30 Tage: 4
+- Top-3-Tags (30 Tage): #typ/struktur (2), #typ/halluzination (1), #typ/regel-ignoriert (1)
+- Behobene Cluster (Regel eingeführt): 2
+  - AUTONOMY.md Workaround-STOPP
+  - _meta/skills → skill-workflows Umbenennung
 
 ---
 
