@@ -16,8 +16,7 @@ Wöchentlich prüfen: welche Notizen in `20_Notes/` haben null eingehende Wikili
 ## Pending Notes
 Wikilinks zu noch-nicht-existenten Notizen aus Captures:
 - [[hermes-agent-setup]] — aus 2026-05-16-hermes-agents-obsidian-team.md
-- [[obsidian-git-sync]] — aus 2026-05-16-hermes-agents-obsidian-team.md
 - [[multi-agent-second-brain]] — aus 2026-05-16-hermes-agents-obsidian-team.md
 
-## Aktuelle Orphans
-[Liste mit Wikilink + Vorschlag, wo anschließen]
+## Erledigt
+- ~~[[obsidian-git-sync]]~~ → [[obsidian-git-sync]] in 20_Notes/ (2026-05-16)
