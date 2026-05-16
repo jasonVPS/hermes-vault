@@ -35,5 +35,21 @@ Pflicht im Weekly Review zusätzlich:
 4. Wirksamste Regel der Woche / am häufigsten ignorierte Regel
 5. Wirksamste Korrektur durch mich → `_meta/index/learning-log.md`
 
+## Neue Erkenntnisse (dokumentiere sofort)
+
+Jede Session produziert Erkenntnisse — nicht nur Fehler. Wenn etwas Neues gelernt wurde (Technik-Limit, User-Erwartung, erfolgreicher Workflow):
+1. Kurze Notiz in `_meta/index/learning-log.md`
+2. Verlinke auf die Session-Daily-Note
+3. Wenn wiederkehrend relevant → Skill erstellen oder updaten
+
+## Explizite Verboten (nicht nur implizit)
+
+Diese Fehler dürfen nicht wiederholt werden:
+- ❌ Workarounds bauen statt echte Lösungen zu finden
+- ❌ Neue Strukturen erfinden statt bestehende `_meta/` Ordner zu nutzen
+- ❌ Sessions nicht dokumentieren / nicht pushen
+- ❌ User nach "Soll ich pushen?" fragen statt einfach zu pushen
+- ❌ Skills nur in Memory speichern statt als SKILL.md zu persistieren
+
 ## Selbstreflexion
 Wenn eine Regel dich behindert statt zu helfen: Änderungsvorschlag mit Begründung schreiben. Regeln nicht stillschweigend ignorieren.
