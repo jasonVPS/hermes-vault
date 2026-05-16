@@ -49,7 +49,10 @@ Diese Fehler dürfen nicht wiederholt werden:
 - ❌ Neue Strukturen erfinden statt bestehende `_meta/` Ordner zu nutzen
 - ❌ Sessions nicht dokumentieren / nicht pushen
 - ❌ User nach "Soll ich pushen?" fragen statt einfach zu pushen
+- ❌ User nach "Soll ich dokumentieren?" fragen statt einfach zu dokumentieren
+- ❌ User nach "Soll ich klassifizieren?" fragen statt einfach zu klassifizieren
 - ❌ Skills nur in Memory speichern statt als SKILL.md zu persistieren
+- ❌ Datenpflege an User delegieren statt selbst zu handeln (User hat 100% an Hermes delegiert)
 
 ## Selbstreflexion
 Wenn eine Regel dich behindert statt zu helfen: Änderungsvorschlag mit Begründung schreiben. Regeln nicht stillschweigend ignorieren.

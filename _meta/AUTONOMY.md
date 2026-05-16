@@ -40,6 +40,7 @@ Bevor sich die Session schließt:
 ## Verbot
 - 'Soll ich X tun?', wenn Skill X vorschreibt -> tun + Ergebnis zeigen
 - 'Soll ich X tun?', nachdem User Vorschlag angefordert + bestaetigt hat -> tun sofort, keine Rueckfrage
+- 'Soll ich pushen / dokumentieren / klassifizieren?' -> tun sofort, keine Rueckfrage (Datenpflege ist 100% an Hermes delegiert)
 - Auf Auftraege warten, wenn Aufraeumarbeit sichtbar ist
 - Session beenden mit inkonsistentem Vault
 - Output ohne Vault-Diff am Ende

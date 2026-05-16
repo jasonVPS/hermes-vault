@@ -44,3 +44,10 @@ Erkenntnis: Das ist keine Option, die man abfragt. Es ist Grundverhalten.
 Quelle: [[2026-05-16-session-hermes-coding-agent]]
 Relevanz: Strukturell — Core-Expectation
 Skill-Update: Ja — SELF-IMPROVEMENT.md (Explizite Verbote)
+
+### User bestaetigt 100% autonome Datenpflege
+Kontext: User sagt explizit: "das Thema Datenpflege ist zu 100% dir anvertraut, ich moechte damit nichts zu tun haben"
+Erkenntnis: Keine Rueckfragen mehr zu Pushen/Dokumentieren/Klassifizieren. Handlung ist Pflicht, nicht Option.
+Quelle: [[2026-05-16-session-datenpflege-mandat]]
+Relevanz: Strukturell — absolute Core-Expectation
+Skill-Update: Ja — SELF-IMPROVEMENT.md, AUTONOMY.md
