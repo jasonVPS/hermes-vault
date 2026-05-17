@@ -1,7 +1,7 @@
 ---
 title: "Archiv-Index"
 created: 2026-05-17
-tags: [archive, index, meta]
+tags: [archive, index, meta, ai, productivity]
 ---
 
 # Archiv-Index

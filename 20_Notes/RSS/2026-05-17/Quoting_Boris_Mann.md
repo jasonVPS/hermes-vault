@@ -4,7 +4,7 @@ source: "Simon Willison"
 url: "https://simonwillison.net/2026/May/13/boris-mann/#atom-everything"
 published: "2026-05-13"
 scanned: "2026-05-17"
-tags: [rss, simon_willison, quote]
+tags: [rss, simon_willison, quote, dev, security]
 type: quote
 ---
 

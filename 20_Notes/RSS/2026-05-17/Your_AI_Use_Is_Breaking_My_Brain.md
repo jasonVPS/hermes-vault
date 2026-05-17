@@ -4,7 +4,7 @@ source: "Simon Willison"
 url: "https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything"
 published: "2026-05-11"
 scanned: "2026-05-17"
-tags: [rss, simon_willison]
+tags: [rss, simon_willison, ai, security]
 ---
 
 # Your AI Use Is Breaking My Brain
@@ -22,3 +22,7 @@ tags: [rss, simon_willison]
 ## Notizen
 
 -
+## Siehe auch
+- [[40_Areas/ai-news-index|Ai News Index]]
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

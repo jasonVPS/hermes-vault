@@ -3,7 +3,7 @@ created: 2026-05-16
 updated: 2026-05-16
 type: moc
 status: permanent
-tags: [meta, structure]
+tags: [meta, structure, ai, productivity, security]
 ---
 
 # Vault Structure (Live)
@@ -27,3 +27,8 @@ _meta/              # Meta-Daten, Regeln, MOCs, Skill-Workflows, Reviews
 
 ## Letzte Änderung
 2026-05-16 — Root-Dateien nach 90_Archive/2026/setup-artifacts/ verschoben. AUTONOMY.md präzisiert: 'Soll ich X tun?' nach bestätigtem Vorschlag verboten.
+## Siehe auch
+- [[40_Areas/ai-news-index|Ai News Index]]
+- [[40_Areas/productivity-index|Productivity News Index]]
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

@@ -3,7 +3,7 @@ created: 2026-05-16
 updated: 2026-05-16
 type: reference
 status: permanent
-tags: [meta, rules]
+tags: [meta, rules, ai, finance, health, learning, productivity, security]
 ---
 
 # VAULT-RULES

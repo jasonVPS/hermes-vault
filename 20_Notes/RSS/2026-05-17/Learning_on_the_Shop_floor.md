@@ -4,7 +4,7 @@ source: "Simon Willison"
 url: "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything"
 published: "2026-05-11"
 scanned: "2026-05-17"
-tags: [rss, simon_willison]
+tags: [rss, simon_willison, learning, security]
 ---
 
 # Learning on the Shop floor
@@ -22,3 +22,7 @@ tags: [rss, simon_willison]
 ## Notizen
 
 -
+## Siehe auch
+- [[40_Areas/learning-index|Learning News Index]]
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

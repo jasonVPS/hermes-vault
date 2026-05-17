@@ -3,7 +3,7 @@ created: 2026-05-16
 updated: 2026-05-16
 type: moc
 status: permanent
-tags: [meta, orphans]
+tags: [meta, orphans, ai]
 ---
 
 # Orphans

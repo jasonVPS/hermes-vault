@@ -3,7 +3,7 @@ created: 2026-05-17
 updated: 2026-05-17
 type: reference
 status: permanent
-tags: [meta, linking, strategy]
+tags: [meta, linking, strategy, ai, dev, finance, health, learning, productivity, security]
 ---
 
 # Lazy Linking Strategie

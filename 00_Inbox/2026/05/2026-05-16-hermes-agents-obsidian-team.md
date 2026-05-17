@@ -3,7 +3,7 @@ created: 2026-05-16
 updated: 2026-05-16
 type: capture
 status: raw
-tags: [hermes, obsidian, ai-agent]
+tags: [hermes, obsidian, ai-agent, ai, dev, security]
 source: https://www.youtube.com/watch?v=L0hs3-xBjJE
 ---
 
@@ -35,3 +35,8 @@ Transkript: YouTube blockiert API-Zugriff (Bot-Check). Versucht mit yt-dlp, curl
 
 ## Nächster Schritt
 Transkript manuell beschaffen oder Video ansehen und Key-Insights in Permanent Note überführen.
+## Siehe auch
+- [[40_Areas/ai-news-index|Ai News Index]]
+- [[40_Areas/dev-news-index|Dev News Index]]
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

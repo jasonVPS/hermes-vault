@@ -4,7 +4,7 @@ source: "Hacker News"
 url: "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html"
 published: "2026-05-11"
 scanned: "2026-05-17"
-tags: [rss, hacker_news]
+tags: [rss, hacker_news, ai, security]
 ---
 
 # Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads
@@ -22,3 +22,7 @@ tags: [rss, hacker_news]
 ## Notizen
 
 -
+## Siehe auch
+- [[40_Areas/ai-news-index|Ai News Index]]
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

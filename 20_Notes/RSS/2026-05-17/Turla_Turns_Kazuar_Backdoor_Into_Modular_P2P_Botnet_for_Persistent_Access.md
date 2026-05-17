@@ -4,7 +4,7 @@ source: "Hacker News"
 url: "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html"
 published: "2026-05-15"
 scanned: "2026-05-17"
-tags: [rss, hacker_news]
+tags: [rss, hacker_news, security]
 ---
 
 # Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access
@@ -22,3 +22,6 @@ tags: [rss, hacker_news]
 ## Notizen
 
 -
+## Siehe auch
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

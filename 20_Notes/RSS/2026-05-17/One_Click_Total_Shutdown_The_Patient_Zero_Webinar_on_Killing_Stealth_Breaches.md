@@ -4,7 +4,7 @@ source: "Hacker News"
 url: "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html"
 published: "2026-05-08"
 scanned: "2026-05-17"
-tags: [rss, hacker_news]
+tags: [rss, hacker_news, security]
 ---
 
 # One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches
@@ -22,3 +22,6 @@ tags: [rss, hacker_news]
 ## Notizen
 
 -
+## Siehe auch
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

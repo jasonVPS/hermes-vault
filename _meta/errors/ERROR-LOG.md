@@ -3,7 +3,7 @@ created: 2026-05-16
 updated: 2026-05-16
 type: reference
 status: permanent
-tags: [meta, errors]
+tags: [meta, errors, ai, dev, productivity, security]
 ---
 
 # ERROR LOG

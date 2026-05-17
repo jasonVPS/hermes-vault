@@ -4,7 +4,7 @@ source: "Simon Willison"
 url: "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything"
 published: "2026-05-13"
 scanned: "2026-05-17"
-tags: [rss, simon_willison]
+tags: [rss, simon_willison, security]
 ---
 
 # Welcome to the Datasette blog
@@ -22,3 +22,6 @@ tags: [rss, simon_willison]
 ## Notizen
 
 -
+## Siehe auch
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

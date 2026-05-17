@@ -4,7 +4,7 @@ source: "One Useful Thing"
 url: "https://www.oneusefulthing.org/p/the-recent-history-of-ai-in-32-otters"
 published: "2025-06-01"
 scanned: "2026-05-17"
-tags: [rss, one_useful_thing]
+tags: [rss, one_useful_thing, ai, security]
 ---
 
 # The recent history of AI in 32 otters
@@ -22,3 +22,7 @@ tags: [rss, one_useful_thing]
 ## Notizen
 
 -
+## Siehe auch
+- [[40_Areas/ai-news-index|Ai News Index]]
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

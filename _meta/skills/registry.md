@@ -3,7 +3,7 @@ created: 2026-05-16
 updated: 2026-05-16
 type: reference
 status: permanent
-tags: [meta, skills, registry]
+tags: [meta, skills, registry, ai, dev, finance, learning, productivity, security]
 ---
 
 # Skills Registry

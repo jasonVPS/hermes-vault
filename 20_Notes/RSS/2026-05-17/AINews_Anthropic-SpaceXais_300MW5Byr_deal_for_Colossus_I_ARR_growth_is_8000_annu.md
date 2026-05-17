@@ -4,7 +4,7 @@ source: "Latent Space"
 url: "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr"
 published: "2026-05-07"
 scanned: "2026-05-17"
-tags: [rss, latent_space]
+tags: [rss, latent_space, ai, security]
 ---
 
 # [AINews] Anthropic-SpaceXai's 300MW/$5B/yr deal for Colossus I, ARR growth is 8000% annualized
@@ -22,3 +22,7 @@ tags: [rss, latent_space]
 ## Notizen
 
 -
+## Siehe auch
+- [[40_Areas/ai-news-index|Ai News Index]]
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

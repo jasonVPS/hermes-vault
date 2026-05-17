@@ -4,7 +4,7 @@ source: "Latent Space"
 url: "https://www.latent.space/p/ainews-thinking-machines-native-interaction"
 published: "2026-05-12"
 scanned: "2026-05-17"
-tags: [rss, latent_space]
+tags: [rss, latent_space, ai, productivity, security]
 ---
 
 # [AINews] Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD
@@ -22,3 +22,8 @@ tags: [rss, latent_space]
 ## Notizen
 
 -
+## Siehe auch
+- [[40_Areas/ai-news-index|Ai News Index]]
+- [[40_Areas/productivity-index|Productivity News Index]]
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

@@ -4,7 +4,7 @@ source: "Latent Space"
 url: "https://www.latent.space/p/ainews-the-end-of-finetuning"
 published: "2026-05-13"
 scanned: "2026-05-17"
-tags: [rss, latent_space]
+tags: [rss, latent_space, ai, security]
 ---
 
 # [AINews] The End of Finetuning
@@ -22,3 +22,7 @@ tags: [rss, latent_space]
 ## Notizen
 
 -
+## Siehe auch
+- [[40_Areas/ai-news-index|Ai News Index]]
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

@@ -4,7 +4,7 @@ source: "Hacker News"
 url: "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html"
 published: "2026-05-13"
 scanned: "2026-05-17"
-tags: [rss, hacker_news]
+tags: [rss, hacker_news, security]
 ---
 
 # Android Adds Intrusion Logging for Sophisticated Spyware Forensics
@@ -22,3 +22,6 @@ tags: [rss, hacker_news]
 ## Notizen
 
 -
+## Siehe auch
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

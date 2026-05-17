@@ -3,7 +3,7 @@ created: 2026-05-16
 updated: 2026-05-16
 type: note
 status: permanent
-tags: [obsidian, git, sync]
+tags: [obsidian, git, sync, ai, dev, productivity]
 ---
 
 # Obsidian Git Sync

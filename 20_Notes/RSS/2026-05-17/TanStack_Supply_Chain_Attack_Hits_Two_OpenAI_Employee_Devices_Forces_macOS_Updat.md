@@ -4,7 +4,7 @@ source: "Hacker News"
 url: "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html"
 published: "2026-05-15"
 scanned: "2026-05-17"
-tags: [rss, hacker_news]
+tags: [rss, hacker_news, ai, dev, security]
 ---
 
 # TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates
@@ -22,3 +22,8 @@ tags: [rss, hacker_news]
 ## Notizen
 
 -
+## Siehe auch
+- [[40_Areas/ai-news-index|Ai News Index]]
+- [[40_Areas/dev-news-index|Dev News Index]]
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

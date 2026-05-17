@@ -4,7 +4,7 @@ source: "Latent Space"
 url: "https://www.latent.space/p/ainews-the-other-vs-the-utility"
 published: "2026-05-04"
 scanned: "2026-05-17"
-tags: [rss, latent_space]
+tags: [rss, latent_space, ai, security]
 ---
 
 # [AINews] The Other vs The Utility
@@ -22,3 +22,7 @@ tags: [rss, latent_space]
 ## Notizen
 
 -
+## Siehe auch
+- [[40_Areas/ai-news-index|Ai News Index]]
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

@@ -4,7 +4,7 @@ source: "Simon Willison"
 url: "https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything"
 published: "2026-05-11"
 scanned: "2026-05-17"
-tags: [rss, simon_willison]
+tags: [rss, simon_willison, ai, dev, security]
 ---
 
 # Using LLM in the shebang line of a script
@@ -22,3 +22,8 @@ tags: [rss, simon_willison]
 ## Notizen
 
 -
+## Siehe auch
+- [[40_Areas/ai-news-index|Ai News Index]]
+- [[40_Areas/dev-news-index|Dev News Index]]
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

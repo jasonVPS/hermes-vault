@@ -4,7 +4,7 @@ source: "One Useful Thing"
 url: "https://www.oneusefulthing.org/p/the-bitter-lesson-versus-the-garbage"
 published: "2025-07-28"
 scanned: "2026-05-17"
-tags: [rss, one_useful_thing]
+tags: [rss, one_useful_thing, security]
 ---
 
 # The Bitter Lesson versus The Garbage Can
@@ -22,3 +22,6 @@ tags: [rss, one_useful_thing]
 ## Notizen
 
 -
+## Siehe auch
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

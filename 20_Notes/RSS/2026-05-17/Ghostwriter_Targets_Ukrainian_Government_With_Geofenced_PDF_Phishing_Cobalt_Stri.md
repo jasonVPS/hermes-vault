@@ -4,7 +4,7 @@ source: "Hacker News"
 url: "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html"
 published: "2026-05-14"
 scanned: "2026-05-17"
-tags: [rss, hacker_news]
+tags: [rss, hacker_news, ai, security]
 ---
 
 # Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike
@@ -22,3 +22,7 @@ tags: [rss, hacker_news]
 ## Notizen
 
 -
+## Siehe auch
+- [[40_Areas/ai-news-index|Ai News Index]]
+- [[40_Areas/security-news-index|Security News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

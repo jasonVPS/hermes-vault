@@ -3,7 +3,7 @@ created: 2026-05-16
 updated: 2026-05-16
 type: reference
 status: permanent
-tags: [meta, structure]
+tags: [meta, structure, dev, productivity]
 ---
 
 # EXPANSION RULES
@@ -57,3 +57,7 @@ Pfad: `_meta/skills/[zweck].md`. Diff zeigen, dann anlegen.
 
 ## Pflicht
 Nach jeder Strukturänderung: `_meta/index/structure.md` aktualisieren.
+## Siehe auch
+- [[40_Areas/dev-news-index|Dev News Index]]
+- [[40_Areas/productivity-index|Productivity News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]
