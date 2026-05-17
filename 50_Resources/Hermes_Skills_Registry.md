@@ -88,7 +88,7 @@ Aktualisiert: 2026-05-17
 | Skill | Zweck |
 |-------|-------|
 | arxiv | arXiv Paper Suche |
-| blogwatcher | RSS/Atom Feed Monitoring |
+| **blogwatcher** | RSS/Atom Feed Monitoring (aktiv: AI-News-Feeds → Vault) |
 | llm-wiki | LLM Knowledge Base |
 | polymarket | Polymarket Queries |
 
