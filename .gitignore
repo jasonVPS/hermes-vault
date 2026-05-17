@@ -1,0 +1,16 @@
+# Ignoriere lokale Obsidian-Caches und Historie, aber NICHT die Settings
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.obsidian/themes/*.css
+.obsidian/snippets
+.obsidian/hotkeys.json
+.obsidian/app.json
+.obsidian/types.json
+.obsidian/appearance.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins.json
+.obsidian/core-plugins-migration.json
+.obsidian/backlink.json
+.obsidian/graph-positions.json
+# Wir BEHALTEN graph.json bei → sync-Settings
