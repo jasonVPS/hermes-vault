@@ -9,6 +9,7 @@ Aktualisiert: 2026-05-17
 | **find-skills** | — | enabled | Skills Discovery von [skills.sh](https://skills.sh/) | Vercel Labs (GitHub) |
 | **auto-session-log** | productivity | enabled | Automatische Session-Dokumentation in Obsidian | Selbst erstellt |
 | **frontend-design** | creative | enabled | Produktionsreife Frontend-Interfaces, vermeidet generische AI-Ästhetik | anthropics/skills (skills.sh) |
+| **ui-ux-pro-max** | creative | enabled | UI/UX Design-Intelligenz: 50+ Styles, 161 Paletten, 57 Fonts, 99 UX Guidelines | nextlevelbuilder/ui-ux-pro-max-skill (skills.sh) |
 
 ## Builtin Skills (vorinstalliert)
 
@@ -93,6 +94,7 @@ Aktualisiert: 2026-05-17
 | Skill | Quelle | Install-Count | Risk |
 |-------|--------|---------------|------|
 | **frontend-design** | anthropics/skills | 100K+ | Low (Safe) |
+| **ui-ux-pro-max** | nextlevelbuilder/ui-ux-pro-max-skill | 1K–10K | Low (Snyk), Caution (Gen) |
 
 ## Todo: Skills suchen & installieren
 
