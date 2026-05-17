@@ -11,6 +11,7 @@ Aktualisiert: 2026-05-17
 | **frontend-design** | creative | enabled | Produktionsreife Frontend-Interfaces, vermeidet generische AI-Ästhetik | anthropics/skills (skills.sh) |
 | **ui-ux-pro-max** | creative | enabled | UI/UX Design-Intelligenz: 50+ Styles, 161 Paletten, 57 Fonts, 99 UX Guidelines | nextlevelbuilder/ui-ux-pro-max-skill (skills.sh) |
 | **baoyu-youtube-transcript** | media | enabled | YouTube-Transkripte ziehen + Timestamps + Summaries ins Vault | jimliu/baoyu-skills (skills.sh) |
+| **devops-engineer** | devops | enabled | CI/CD, Docker, GitHub Actions, Deployments automatisiert | jeffallan/claude-skills (skills.sh) |
 
 ## Builtin Skills (vorinstalliert)
 
@@ -97,12 +98,13 @@ Aktualisiert: 2026-05-17
 | **frontend-design** | anthropics/skills | 100K+ | Low (Safe) |
 | **ui-ux-pro-max** | nextlevelbuilder/ui-ux-pro-max-skill | 1K–10K | Low (Snyk), Caution (Gen) |
 | **baoyu-youtube-transcript** | jimliu/baoyu-skills | 1K+ | Med (Gen, Snyk) |
+| **devops-engineer** | jeffallan/claude-skills | 4.9K | Safe (Low Risk) |
 
 ## Todo: Skills suchen & installieren
 
 - [x] YouTube-Transkription Skill von skills.sh (`baoyu-youtube-transcript`)
+- [x] DevOps/Deployment Skills (`devops-engineer`)
 - [ ] Testing/QA Skills
-- [ ] DevOps/Deployment Skills
 - [ ] Weitere Productivity Skills
 
 ## Skill-Verwaltung
