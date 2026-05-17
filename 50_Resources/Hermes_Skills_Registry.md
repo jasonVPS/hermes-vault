@@ -10,7 +10,6 @@ Aktualisiert: 2026-05-17
 | **auto-session-log** | productivity | enabled | Automatische Session-Dokumentation in Obsidian | Selbst erstellt |
 | **frontend-design** | creative | enabled | Produktionsreife Frontend-Interfaces, vermeidet generische AI-Ästhetik | anthropics/skills (skills.sh) |
 | **ui-ux-pro-max** | creative | enabled | UI/UX Design-Intelligenz: 50+ Styles, 161 Paletten, 57 Fonts, 99 UX Guidelines | nextlevelbuilder/ui-ux-pro-max-skill (skills.sh) |
-| **multi-agent-orchestration** | autonomous-ai-agents | enabled | Subagenten parallel spawnen, Arbeit verteilen, Coordinator-Worker-Pattern | qodex-ai/ai-agent-skills (skills.sh) |
 
 ## Builtin Skills (vorinstalliert)
 
@@ -96,7 +95,6 @@ Aktualisiert: 2026-05-17
 |-------|--------|---------------|------|
 | **frontend-design** | anthropics/skills | 100K+ | Low (Safe) |
 | **ui-ux-pro-max** | nextlevelbuilder/ui-ux-pro-max-skill | 1K–10K | Low (Snyk), Caution (Gen) |
-| **multi-agent-orchestration** | qodex-ai/ai-agent-skills | 1.4K | Low (Snyk), Caution (Gen) |
 
 ## Todo: Skills suchen & installieren
 
