@@ -3,7 +3,8 @@
 .obsidian/cache
 .obsidian/plugins/*/data.json
 .obsidian/themes/*.css
-.obsidian/snippets
+.obsidian/snippets/*.css
+!.obsidian/snippets/graph-colors.css
 .obsidian/hotkeys.json
 .obsidian/app.json
 .obsidian/types.json

@@ -1,0 +1,27 @@
+/* Graph Colors for PARA Structure */
+/* Aktivieren unter: Settings → Appearance → CSS Snippets → graph-colors */
+
+/* Ordner-Farben (Nodes) */
+.graph-view.color-fill-00_Inbox { fill: #4a4a4a; }
+.graph-view.color-fill-10_Daily { fill: #c0392b; }
+.graph-view.color-fill-20_Notes { fill: #2980b9; }
+.graph-view.color-fill-30_Projects { fill: #f39c12; }
+.graph-view.color-fill-40_Areas { fill: #27ae60; }
+.graph-view.color-fill-50_Resources { fill: #8e44ad; }
+.graph-view.color-fill-90_Archive { fill: #616a73; }
+.graph-view.color-fill-_meta { fill: #f1c40f; }
+
+/* Tag-Farben (Nodes) */
+.graph-view.color-fill.tag-rss { fill: #00bcd4; }
+.graph-view.color-fill.tag-meta { fill: #ffeb3b; }
+.graph-view.color-fill.tag-ai { fill: #00e676; }
+.graph-view.color-fill.tag-security { fill: #ff1744; }
+.graph-view.color-fill.tag-dev { fill: #7c4dff; }
+.graph-view.color-fill.tag-quote { fill: #ffd700; }
+.graph-view.color-fill.tag-index { fill: #ff9100; }
+
+/* Verbundene Nodes: stärker hervorgehoben */
+.graph-view.color-line { stroke: #555; stroke-opacity: 0.4; }
+
+/* Hintergrund dunkel (Dark Mode Kompatibel) */
+.graph-view.color-fill-highlight { fill: #fff; }
