@@ -42,3 +42,7 @@ Bidirektionale Synchronisation zwischen lokalem Obsidian (Windows PC) und VPS (D
 - **Push rejected** → `git pull origin main --rebase && git push origin main`
 - **SSH Permission denied** → Key muss in `/root/.ssh/`, nicht `/opt/data/home/.ssh/`
 - **Konflikt** → `git checkout --theirs .obsidian/sync-stats.json` (neuer gewinnt)
+
+## Siehe auch
+- [[_meta/index/MOC|Master of Ceremonies]]
+- [[_meta/index/structure|Vault-Struktur]]

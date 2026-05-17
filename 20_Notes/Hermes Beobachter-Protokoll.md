@@ -27,3 +27,6 @@ Wenn Jason sagt "merk dir das" oder "trag das ein", ist das kein Wunsch — sond
 - [ ] Struktur für laufende Protokolle definieren (daily vs. thematisch)
 - [ ] Template für Observation-Log-Einträge erstellen
 - [ ] Prüfen, ob Cronjob für Git-Sync aktiv ist
+
+## Siehe auch
+- [[_meta/index/MOC|Master of Ceremonies]]

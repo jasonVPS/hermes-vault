@@ -24,3 +24,7 @@ tags: [meta, skill, youtube]
 
 ## Transkript-Missing Tag
 Verwende `#capture/transcript-missing` in der `tags:` Frontmatter (als zusätzliches Tag, max. 3 insgesamt).
+
+## Siehe auch
+- [[_meta/index/MOC|Master of Ceremonies]]
+- [[_meta/index/structure|Vault-Struktur]]

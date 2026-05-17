@@ -80,3 +80,6 @@ tags: [daily]
 ```
 
 Bei Morning / Evening: Fragen einzeln stellen, nicht alle auf einmal. Bei schweren Inhalten: zuhören, eine konkrete Folgefrage, kein Trost-Reflex, niemals psychoanalysieren.
+
+## Siehe auch
+- [[_meta/index/structure|Vault-Struktur]]

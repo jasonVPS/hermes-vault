@@ -44,3 +44,7 @@ tags: [meta]
 - [2026-05-16] User will leere Wikilinks ([[noch-nicht-existent]]) als Pending Notes in orphans.md tracken
 - [2026-05-16] User arbeitet mit Multi-Agent-Systemen (Hermes+Obsidian+Discord), relevant für Vault-Expansion
 - [Hermes pflegt diesen Abschnitt selbstständig nach SELF-IMPROVEMENT.md]
+
+## Siehe auch
+- [[_meta/index/MOC|Master of Ceremonies]]
+- [[_meta/index/structure|Vault-Struktur]]

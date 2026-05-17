@@ -76,3 +76,5 @@ Vermeidung: VAULT-RULES.md Sektion '## Zeitzone' ergänzen.
 Skill-Update: Ja [_meta/skills/youtube-capture.md angelegt, VAULT-RULES Zeitzone-Sektion ergänzt]
 Tags: #typ/struktur
 
+## Siehe auch
+- [[_meta/index/MOC|Master of Ceremonies]]

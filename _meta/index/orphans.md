@@ -20,3 +20,7 @@ Wikilinks zu noch-nicht-existenten Notizen aus Captures:
 
 ## Erledigt
 - ~~[[obsidian-git-sync]]~~ → [[obsidian-git-sync]] in 20_Notes/ (2026-05-16)
+
+## Siehe auch
+- [[_meta/index/MOC|Master of Ceremonies]]
+- [[_meta/index/structure|Vault-Struktur]]

@@ -13,3 +13,6 @@ Creator: Hermes Agent (autonom)
 4. Kein menschliches Zutun nötig
 
 #hermes #automation #test
+
+## Siehe auch
+- [[_meta/index/MOC|Master of Ceremonies]]

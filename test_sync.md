@@ -7,3 +7,6 @@ Wenn alles klappt, sollte diese Datei innerhalb von 60 Sekunden auf GitHub ersch
 
 ---
 *VPS → GitHub → PC*
+
+## Siehe auch
+- [[_meta/index/MOC|Master of Ceremonies]]

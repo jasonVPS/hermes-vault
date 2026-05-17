@@ -21,3 +21,6 @@ Diese Notiz wurde direkt auf dem VPS erstellt und wird automatisch mit deinem lo
 
 ---
 *Automatisch generiert von Hermes*
+
+## Siehe auch
+- [[_meta/index/MOC|Master of Ceremonies]]

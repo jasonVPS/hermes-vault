@@ -51,3 +51,6 @@ Erkenntnis: Keine Rueckfragen mehr zu Pushen/Dokumentieren/Klassifizieren. Handl
 Quelle: [[2026-05-16-session-datenpflege-mandat]]
 Relevanz: Strukturell — absolute Core-Expectation
 Skill-Update: Ja — SELF-IMPROVEMENT.md, AUTONOMY.md
+
+## Siehe auch
+- [[_meta/index/MOC|Master of Ceremonies]]

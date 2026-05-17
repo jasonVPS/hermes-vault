@@ -18,3 +18,6 @@ Dies ist ein gemeinsames Obsidian Vault zwischen:
 ## Tags
 
 #hermes #vps #sync
+
+## Siehe auch
+- [[_meta/index/MOC|Master of Ceremonies]]

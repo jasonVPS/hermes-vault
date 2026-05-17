@@ -54,3 +54,6 @@ Ein Input kann mehrere Typen sein (z.B. Link + Gedanke dazu = Typ 1 + 2 + ggf. 7
 ## Output-Form
 Antworte natürlich, nicht stur 'Typ 3 erkannt'. Am Ende max. 3 Zeilen Vault-Diff:
 `Geändert: [datei1], [datei2]. Vorschlag: [neue datei oder umstrukturierung].`
+
+## Siehe auch
+- [[_meta/index/structure|Vault-Struktur]]
