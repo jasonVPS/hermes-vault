@@ -1,3 +1,8 @@
+---
+archived: 2026-05-17
+source: root-level orphan
+---
+
 # Automatisierter Workflow Test
 
 Diese Notiz wurde automatisch erstellt und gepusht.
@@ -13,3 +18,6 @@ Creator: Hermes Agent (autonom)
 4. Kein menschliches Zutun nötig
 
 #hermes #automation #test
+
+## Siehe auch
+- [[_meta/index/MOC|Master of Ceremonies]]

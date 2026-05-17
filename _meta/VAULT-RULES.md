@@ -78,6 +78,7 @@ Generische Titel (Notes, Ideen, Neu)
 Halluzinieren statt nachfragen
 Auf Aufträge warten, wo Regeln Aktion vorschreiben
 Skill-Datei oder Ordner ohne Existenzgrund anlegen
+**Standalone-Dateien — jede Datei muss sinnvoll mit Struktur und Regeln verknüpft sein**
 
 ## Siehe auch
 - [[_meta/index/MOC|Master of Ceremonies]]

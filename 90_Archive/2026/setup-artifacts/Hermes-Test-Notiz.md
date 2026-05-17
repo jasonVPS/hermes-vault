@@ -1,4 +1,9 @@
 ---
+archived: 2026-05-17
+source: root-level orphan
+---
+
+---
 title: "Hermes Test Notiz"
 date: 2026-05-15T21:31:00+00:00
 source: "VPS via Hermes Agent"
@@ -21,3 +26,6 @@ Diese Notiz wurde direkt auf dem VPS erstellt und wird automatisch mit deinem lo
 
 ---
 *Automatisch generiert von Hermes*
+
+## Siehe auch
+- [[_meta/index/MOC|Master of Ceremonies]]

@@ -24,3 +24,7 @@ Wikilinks zu noch-nicht-existenten Notizen aus Captures:
 ## Siehe auch
 - [[_meta/index/MOC|Master of Ceremonies]]
 - [[_meta/index/structure|Vault-Struktur]]
+
+
+## Gelöste Orphans
+- 2026-05-17: 6 Root-Level-Test-Dateien archiviert, 22 _meta/Dateien verlinkt, 3 Index-Notizen erstellt

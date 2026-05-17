@@ -1,3 +1,8 @@
+---
+archived: 2026-05-17
+source: root-level orphan
+---
+
 # Echtzeit-Sync Test
 
 Diese Datei wurde auf dem VPS von Hermes erstellt.
@@ -7,3 +12,6 @@ Wenn alles klappt, sollte diese Datei innerhalb von 60 Sekunden auf GitHub ersch
 
 ---
 *VPS → GitHub → PC*
+
+## Siehe auch
+- [[_meta/index/MOC|Master of Ceremonies]]
