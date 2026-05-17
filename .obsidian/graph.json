@@ -1,0 +1,107 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:00_Inbox",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:10_Daily",
+      "color": {
+        "a": 1,
+        "rgb": 16225054
+      }
+    },
+    {
+      "query": "path:20_Notes",
+      "color": {
+        "a": 1,
+        "rgb": 4366591
+      }
+    },
+    {
+      "query": "path:30_Projects",
+      "color": {
+        "a": 1,
+        "rgb": 16733696
+      }
+    },
+    {
+      "query": "path:40_Areas",
+      "color": {
+        "a": 1,
+        "rgb": 65331
+      }
+    },
+    {
+      "query": "path:50_Resources",
+      "color": {
+        "a": 1,
+        "rgb": 13536045
+      }
+    },
+    {
+      "query": "path:90_Archive",
+      "color": {
+        "a": 1,
+        "rgb": 7566167
+      }
+    },
+    {
+      "query": "path:_meta",
+      "color": {
+        "a": 1,
+        "rgb": 16750892
+      }
+    },
+    {
+      "query": "tag:#rss",
+      "color": {
+        "a": 1,
+        "rgb": 43775
+      }
+    },
+    {
+      "query": "tag:#meta",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "tag:#index",
+      "color": {
+        "a": 1,
+        "rgb": 16750848
+      }
+    },
+    {
+      "query": "tag:#quote",
+      "color": {
+        "a": 1,
+        "rgb": 16204552
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.15,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.845,
+  "close": false
+}
