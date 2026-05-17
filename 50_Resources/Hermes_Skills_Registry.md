@@ -1,13 +1,14 @@
 # Hermes Skills Registry
 
-Aktualisiert: 2026-05-16
+Aktualisiert: 2026-05-17
 
 ## Custom Skills (selbst erstellt/importiert)
 
 | Skill | Kategorie | Status | Zweck | Quelle |
 |-------|-----------|--------|-------|--------|
-| **find-skills** | — | ✅ enabled | Skills Discovery von [skills.sh](https://skills.sh/) | Vercel Labs (GitHub) |
-| **auto-session-log** | productivity | ✅ enabled | Automatische Session-Dokumentation in Obsidian | Selbst erstellt |
+| **find-skills** | — | enabled | Skills Discovery von [skills.sh](https://skills.sh/) | Vercel Labs (GitHub) |
+| **auto-session-log** | productivity | enabled | Automatische Session-Dokumentation in Obsidian | Selbst erstellt |
+| **frontend-design** | creative | enabled | Produktionsreife Frontend-Interfaces, vermeidet generische AI-Ästhetik | anthropics/skills (skills.sh) |
 
 ## Builtin Skills (vorinstalliert)
 
@@ -26,6 +27,7 @@ Aktualisiert: 2026-05-16
 | ascii-art | ASCII Art Generator |
 | comfyui | Bild/Video Generierung |
 | excalidraw | Handgezeichnete Diagramme |
+| **frontend-design** | Produktionsreife Frontend-Interfaces (importiert) |
 | manim-video | Mathe-Animationen |
 | p5js | Generative Kunst |
 | pixel-art | Pixel Art mit Paletten |
@@ -88,7 +90,9 @@ Aktualisiert: 2026-05-16
 
 ## Importierte Skills (Hub)
 
-Keine aktuell — alle Skills sind entweder builtin oder manuell erstellt.
+| Skill | Quelle | Install-Count | Risk |
+|-------|--------|---------------|------|
+| **frontend-design** | anthropics/skills | 100K+ | Low (Safe) |
 
 ## Todo: Skills suchen & installieren
 
