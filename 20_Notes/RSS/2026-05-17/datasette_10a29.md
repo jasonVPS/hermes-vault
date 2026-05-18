@@ -17,7 +17,10 @@ tags: [rss, simon_willison, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Release
+    
+    datasette 1.0a29
+    — An open source multi-tool for exploring and publishing data
 
 ## Notizen
 

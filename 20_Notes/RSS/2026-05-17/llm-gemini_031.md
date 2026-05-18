@@ -17,7 +17,10 @@ tags: [rss, simon_willison, ai, dev, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Release
+    
+    llm-gemini 0.31
+    — LLM plugin to access Google's Gemini family of models
 
 ## Notizen
 

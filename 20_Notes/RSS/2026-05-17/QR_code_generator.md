@@ -17,7 +17,10 @@ tags: [rss, simon_willison, dev, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Tool
+    
+    QR code generator
+    — Generate QR codes from any URL or text with customizable styling options. This tool supports multiple design styles including square and liquid patterns, adjustable sizes, custom colors, and optional borders. The generated QR codes can be downloaded as PNG files or copied directly to your clipboard for immediate use.
 
 ## Notizen
 

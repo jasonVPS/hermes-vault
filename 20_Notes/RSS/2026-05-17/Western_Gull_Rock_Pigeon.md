@@ -17,7 +17,9 @@ tags: [rss, simon_willison, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Sighting
+    7:42 AM – 7:47 AM
+    — Western Gull, Rock Pigeon, in Los Angeles Area (custom), CA, US
 
 ## Notizen
 

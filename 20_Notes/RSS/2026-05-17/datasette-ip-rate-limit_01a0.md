@@ -17,7 +17,10 @@ tags: [rss, simon_willison, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Release
+    
+    datasette-ip-rate-limit 0.1a0
+    — Rate limit Datasette requests by client IP address
 
 ## Notizen
 

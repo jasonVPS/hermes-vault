@@ -17,7 +17,10 @@ tags: [rss, simon_willison, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Release
+    
+    inaturalist-clumper 0.1
+    — Group iNaturalist sightings into clumps
 
 ## Notizen
 

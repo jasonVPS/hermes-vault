@@ -17,7 +17,10 @@ tags: [rss, simon_willison, ai, dev, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+TIL
+    
+    Using LLM in the shebang line of a script
+    — This comment on Hacker News inspired me to investigate patterns for using my LLM CLI tool in a shebang line:
 
 ## Notizen
 

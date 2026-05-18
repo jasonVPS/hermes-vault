@@ -17,7 +17,10 @@ tags: [rss, simon_willison, ai, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Release
+    
+    datasette-llm-limits 0.1a0
+    — Plugin for configuring periodic limits on LLM usage in Datasette
 
 ## Notizen
 
