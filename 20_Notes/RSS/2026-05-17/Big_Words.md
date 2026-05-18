@@ -17,7 +17,10 @@ tags: [rss, simon_willison, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Tool
+    
+    Big Words
+    — Display and customize large text with real-time formatting options including fonts, colors, gradients, and effects. Double-click or double-tap the display area to open the settings panel and adjust text content, styling, and background appearance. Share your creations by saving the customized URL with all your settings encoded as query parameters.
 
 ## Notizen
 

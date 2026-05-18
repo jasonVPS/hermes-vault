@@ -17,7 +17,10 @@ tags: [rss, simon_willison, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Tool
+    
+    CSP Allow-list Experiment
+    — Experiment with Content Security Policy (CSP) allow-lists by editing HTML code in the left panel and observing how network requests are handled in the sandboxed preview on the right. Add trusted origins to the connect-src allow-list, and the application will prompt you to approve blocked requests from the sandbox, automatically updating your CSP configuration. This tool helps developers understand how CSP policies control resource loading and test dynamic allow-list management in real-time.
 
 ## Notizen
 

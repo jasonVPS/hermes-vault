@@ -17,7 +17,9 @@ tags: [rss, hacker_news, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+AI Is Reshaping Every Attack Surface. Train for What's Next
+
+SANSFIRE 2026 in D.C. brings 50+ courses, AI-focused sessions, and NetWars. July 13–18. Save $500.
 
 ## Notizen
 
