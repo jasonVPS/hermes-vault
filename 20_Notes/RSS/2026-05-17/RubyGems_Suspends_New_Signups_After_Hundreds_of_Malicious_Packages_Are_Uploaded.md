@@ -17,7 +17,7 @@ tags: [rss, hacker_news, dev, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a "major malicious attack." "We're dealing with a major malicious attack on RubyGems right now," Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. "Signups are paused for the time being.
 
 ## Notizen
 

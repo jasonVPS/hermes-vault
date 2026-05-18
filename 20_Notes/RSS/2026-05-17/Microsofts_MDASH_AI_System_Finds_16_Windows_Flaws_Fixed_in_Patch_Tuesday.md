@@ -17,7 +17,7 @@ tags: [rss, hacker_news, ai, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private preview. MDASH, short for multi-model agentic scanning harness, is designed as a model-agnostic system that uses bespoke AI agents for different vulnerability
 
 ## Notizen
 

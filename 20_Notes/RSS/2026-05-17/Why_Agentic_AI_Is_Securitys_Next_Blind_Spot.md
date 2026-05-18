@@ -17,7 +17,7 @@ tags: [rss, hacker_news, ai, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions — most likely without meaningful involvement from the security team. The industry conversation has largely framed this as a question of policy: allow it, restrict it, or monitor it? However, that framing misses the point. The more urgent
 
 ## Notizen
 

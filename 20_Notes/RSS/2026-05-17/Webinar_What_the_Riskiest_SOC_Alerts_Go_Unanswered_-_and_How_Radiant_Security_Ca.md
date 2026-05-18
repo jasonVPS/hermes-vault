@@ -17,7 +17,7 @@ tags: [rss, hacker_news, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Why do the Riskiest SOC Alerts Go Unanswered? Security operations teams are drowning in alerts. But the real problem isn't always alert volume; it's the blind spots. The most dangerous alerts are the ones no one is investigating. A recent report from The Hacker News examined why certain high-risk alert categories - WAF, DLP, OT/IoT, dark web intelligence, and supply chain signals- consistently
 
 ## Notizen
 

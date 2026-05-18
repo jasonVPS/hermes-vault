@@ -17,7 +17,7 @@ tags: [rss, hacker_news, ai, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The affected npm packages have been modified to include an obfuscated JavaScript file ("router_init.js") that's designed to profile the execution
 
 ## Notizen
 

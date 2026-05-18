@@ -17,7 +17,7 @@ tags: [rss, hacker_news, dev, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence. The vulnerabilities, collectively dubbed Claw Chain by Cyera, can permit an attacker to establish a foothold, expose sensitive data, and plant backdoors. A brief description of the flaws is below -
 
 ## Notizen
 

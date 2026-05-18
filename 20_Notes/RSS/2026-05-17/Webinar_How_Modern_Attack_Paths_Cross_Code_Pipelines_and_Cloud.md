@@ -17,7 +17,7 @@ tags: [rss, hacker_news, dev, productivity, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+TL;DR: Stop chasing thousands of "toast" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a "Lethal Chain" to your data—and how to break it. Register for the Strategic Briefing Here. Most security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them. The real danger? While
 
 ## Notizen
 

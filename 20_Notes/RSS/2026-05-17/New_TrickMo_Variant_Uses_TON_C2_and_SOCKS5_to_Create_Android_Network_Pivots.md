@@ -17,7 +17,7 @@ tags: [rss, hacker_news, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2). The new variant, observed by ThreatFabric between January and February 2026, has been observed actively targeting banking and cryptocurrency wallet users in France, Italy, and Austria. "TrickMo relies on a runtime-loaded APK (dex.module),
 
 ## Notizen
 

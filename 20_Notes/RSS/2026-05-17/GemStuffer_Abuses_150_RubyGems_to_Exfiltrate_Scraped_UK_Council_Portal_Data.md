@@ -17,7 +17,7 @@ tags: [rss, hacker_news, dev, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution. "The packages do not appear designed for mass developer compromise," Socket said. "Many have little or no download activity, and the payloads are repetitive,
 
 ## Notizen
 

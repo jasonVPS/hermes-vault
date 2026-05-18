@@ -17,7 +17,7 @@ tags: [rss, hacker_news, dev, finance, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes, same lazy access paths, same “how the hell is this still open” feeling. One report this week basically reads like a guy tripped over root access by accident and decided to stay
 
 ## Notizen
 

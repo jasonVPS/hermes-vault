@@ -17,7 +17,7 @@ tags: [rss, hacker_news, ai, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine. Active since at least 2016, Ghostwriter has been linked to both cyber espionage and influence operations targeting neighboring countries, particularly Ukraine. It's also tracked under the monikers FrostyNeighbor, PUSHCHA, Storm-0257, TA445, UAC‑0057
 
 ## Notizen
 

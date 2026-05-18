@@ -17,7 +17,7 @@ tags: [rss, hacker_news, ai, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The project, named Open-OSS/privacy-filter, masqueraded as its legitimate counterpart released by OpenAI late last month (openai/privacy-filter), including copying the entire description
 
 ## Notizen
 

@@ -17,7 +17,7 @@ tags: [rss, hacker_news, dev, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Cybersecurity researchers are sounding the alarm about what has been described as "malicious activity" in newly published versions of node-ipc. According to Socket and StepSecurity, three different versions of the npm package have been confirmed as malicious - node-ipc@9.1.6 node-ipc@9.2.3 node-ipc@12.0.1 "Early analysis indicates that node-ipc@9.1.6, node-ipc@9.2.3, and node-ipc@12.0.1
 
 ## Notizen
 

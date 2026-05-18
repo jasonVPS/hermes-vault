@@ -17,7 +17,7 @@ tags: [rss, hacker_news, dev, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Grafana has disclosed that an "unauthorized party" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase. "Our investigation has determined that no customer data or personal information was accessed during this incident, and we have found no evidence of impact to customer systems or operations," Grafana said in a series of
 
 ## Notizen
 

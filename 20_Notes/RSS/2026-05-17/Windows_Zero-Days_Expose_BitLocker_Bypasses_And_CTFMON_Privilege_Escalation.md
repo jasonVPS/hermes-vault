@@ -17,7 +17,7 @@ tags: [rss, hacker_news, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON). The security defects have been codenamed YellowKey and GreenPlasma, respectively, by the researcher, who goes by the online aliases Chaotic Eclipse
 
 ## Notizen
 

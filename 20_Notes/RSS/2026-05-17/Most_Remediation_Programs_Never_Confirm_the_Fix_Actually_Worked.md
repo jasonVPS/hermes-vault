@@ -17,7 +17,7 @@ tags: [rss, hacker_news, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed. Mandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negative seven days. The Verizon 2025 DBIR puts median time to remediate edge device vulnerabilities at 32 days. These numbers have understandably driven the industry toward a clear
 
 ## Notizen
 

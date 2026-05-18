@@ -17,7 +17,7 @@ tags: [rss, hacker_news, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of Advanced Protection Mode, enables "persistent and privacy-preserving forensics logging to allow for investigation of devices in the event of a suspected compromise," the company said. The feature, it
 
 ## Notizen
 

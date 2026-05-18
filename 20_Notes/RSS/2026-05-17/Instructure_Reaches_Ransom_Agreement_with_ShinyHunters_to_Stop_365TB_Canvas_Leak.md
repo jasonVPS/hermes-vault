@@ -17,7 +17,7 @@ tags: [rss, hacker_news, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+American educational technology company Instructure, the parent company of Canvas, said it reached an "agreement" with a decentralized cybercrime extortion group after it breached its network and threatened to leak stolen information from thousands of schools and universities. In an update shared on Monday, the Utah-based firm said it "reached an agreement with the unauthorized actor involved in
 
 ## Notizen
 

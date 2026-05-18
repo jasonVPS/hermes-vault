@@ -17,7 +17,7 @@ tags: [rss, hacker_news, ai, dev, security]
 
 ## Zusammenfassung
 
-(TODO: Hermes ergänzt automatisch)
+OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or modified in an unauthorized manner. "Upon identification of the malicious activity, we worked quickly to investigate, contain, and take steps to
 
 ## Notizen
 
