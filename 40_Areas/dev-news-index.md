@@ -1,7 +1,7 @@
 ---
 title: "Developer-News & Tools"
 created: 2026-05-17
-tags: [area, index, ai, dev, finance, learning, productivity, security]
+tags: [ai, area, dev, finance, index, learning, productivity, security]
 ---
 
 # Developer-News & Tools

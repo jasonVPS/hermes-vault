@@ -1,3 +1,7 @@
+---
+tags: [ai, dev, productivity]
+---
+
 # Hermes Skills Registry
 
 Aktualisiert: 2026-05-17
@@ -125,3 +129,6 @@ hermes skills install <id>
 # Skills updaten
 hermes skills update
 ```
+
+## Siehe auch
+- [[_meta/index/MOC|Master of Ceremonies]]

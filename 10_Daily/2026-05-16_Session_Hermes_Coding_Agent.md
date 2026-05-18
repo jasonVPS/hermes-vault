@@ -1,3 +1,7 @@
+---
+tags: [ai, dev, productivity]
+---
+
 # 2026-05-16 — Session: Hermes Coding Agent Orchestrierung
 
 ## Ziel
@@ -51,3 +55,6 @@ Claude Code über `ollama launch claude --model kimi-k2.6:cloud` zu orchestriere
 ## Reflexion
 **Fehler:** Ich habe diese Session nicht in Echtzeit dokumentiert. Stattdessen erst jetzt am Ende. Das ist ein Systemfehler — Hermes sollte automatisch nach jedem Tool-Aufruf, jedem Erfolg und jedem Fehler Notizen machen.
 **Lösung:** Automatische Session-Logs in den Vault schreiben — entweder via Cron alle 10 Minuten oder nach jedem bedeutsamen Ereignis.
+
+## Siehe auch
+- [[_meta/index/MOC|Master of Ceremonies]]

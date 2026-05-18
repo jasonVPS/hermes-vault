@@ -1,7 +1,7 @@
 ---
 type: template
-tags: [template, daily]
 status: permanent
+tags: [daily, meta, tech, template]
 ---
 
 # {{date:YYYY-MM-DD}}
@@ -17,4 +17,7 @@ status: permanent
 
 ## Links
 - [[10_Daily/{{date:YYYY}}/{{date:MM}}|Monat]]
+- [[_meta/index/MOC|Master of Ceremonies]]
+
+## Siehe auch
 - [[_meta/index/MOC|Master of Ceremonies]]

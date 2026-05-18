@@ -3,7 +3,7 @@ created: 2026-05-17
 updated: 2026-05-17
 type: project
 status: active
-tags: [project, vault, automation]
+tags: [automation, productivity, project, tech, vault]
 ---
 
 # Projekt: Vault-Automatisierung
@@ -40,3 +40,5 @@ tags: [project, vault, automation]
 - [[40_Areas/ai-news-index]]
 - [[_meta/VAULT-RULES]]
 - [[_meta/AUTONOMY]]
+- [[_meta/index/MOC|Master of Ceremonies]]
+

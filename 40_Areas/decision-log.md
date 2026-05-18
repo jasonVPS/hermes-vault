@@ -3,7 +3,7 @@ created: 2026-05-17
 updated: 2026-05-17
 type: area
 status: permanent
-tags: [meta, decisions, log]
+tags: [decisions, log, meta, productivity]
 ---
 
 # Decision Log
@@ -31,3 +31,5 @@ tags: [meta, decisions, log]
 - [[_meta/VAULT-RULES]]
 - [[_meta/LINKING-STRATEGY]]
 - [[_meta/AUTONOMY]]
+- [[_meta/index/MOC|Master of Ceremonies]]
+

@@ -1,7 +1,7 @@
 ---
 type: template
-tags: [template, capture]
 status: permanent
+tags: [capture, meta, tech, template]
 ---
 
 # {{title}}

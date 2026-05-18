@@ -1,7 +1,7 @@
 ---
 title: "AI-News & Entwicklungen"
 created: 2026-05-17
-tags: [area, index, ai, dev, health, security]
+tags: [ai, area, dev, health, index, security]
 ---
 
 # AI-News & Entwicklungen

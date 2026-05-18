@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity-News"
 created: 2026-05-17
-tags: [area, index, ai, dev, productivity, security]
+tags: [ai, area, dev, index, productivity, security]
 ---
 
 # Cybersecurity-News

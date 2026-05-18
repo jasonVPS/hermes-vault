@@ -1,3 +1,7 @@
+---
+tags: [meta, tech]
+---
+
 # Erste Notiz aus Hermes
 
 Diese Notiz wurde automatisch vom Hermes-Agent auf dem VPS erstellt.

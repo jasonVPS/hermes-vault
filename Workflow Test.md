@@ -1,3 +1,7 @@
+---
+tags: [meta, productivity, tech]
+---
+
 # Automatisierter Workflow Test
 
 Diese Notiz wurde automatisch erstellt und gepusht.

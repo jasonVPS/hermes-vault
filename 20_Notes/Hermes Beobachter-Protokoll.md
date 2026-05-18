@@ -1,3 +1,7 @@
+---
+tags: [meta, productivity]
+---
+
 # Hermes Beobachter-Protokoll
 
 ## Meta

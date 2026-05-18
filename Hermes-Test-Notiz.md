@@ -2,6 +2,7 @@
 title: "Hermes Test Notiz"
 date: 2026-05-15T21:31:00+00:00
 source: "VPS via Hermes Agent"
+tags: [meta, tech]
 ---
 
 # Hallo aus dem VPS

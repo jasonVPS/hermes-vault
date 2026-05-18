@@ -1,3 +1,7 @@
+---
+tags: [tech, meta]
+---
+
 # Echtzeit-Sync Test
 
 Diese Datei wurde auf dem VPS von Hermes erstellt.

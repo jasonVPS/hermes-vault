@@ -1,14 +1,14 @@
 ---
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-05-18
 type: index
 status: permanent
-tags: [index, area]
+tags: [area, index, productivity]
 ---
 
 # Productivity Index
 
-> Auto-generated index. Updated: 2026-05-17 17:43
+> Auto-generated index. Updated: 2026-05-18 06:03
 
 ## Einträge
 
@@ -31,7 +31,9 @@ tags: [index, area]
 - [[20_Notes/RSS/2026-05-17/Webinar_How_Modern_Attack_Paths_Cross_Code_Pipelines_and_Cloud.md|[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud]]
 - [[20_Notes/RSS/2026-05-17/AINews_Thinking_Machines_Native_Interaction_Models_-_TML-Interaction-Small_276B-.md|[AINews] Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD]]
 - [[20_Notes/RSS/2026-05-17/Quoting_New_York_Times_Editors_Note.md|Quoting New York Times Editors’ Note]]
+- [[20_Notes/RSS/2026-05-18/Quoting_New_York_Times_Editors_Note.md|Quoting New York Times Editors’ Note]]
 - [[20_Notes/RSS/2026-05-17/AINews_GPT-Realtime-2_-Translate_and_-Whisper_new_SOTA_realtime_voice_APIs.md|[AINews] GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs]]
+- [[20_Notes/RSS/2026-05-18/AINews_GPT-Realtime-2_-Translate_and_-Whisper_new_SOTA_realtime_voice_APIs.md|[AINews] GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs]]
 ## Siehe auch
 - [[_meta/index/MOC|Master of Ceremonies]]
 - [[_meta/LINKING-STRATEGY|Lazy Linking Strategie]]
