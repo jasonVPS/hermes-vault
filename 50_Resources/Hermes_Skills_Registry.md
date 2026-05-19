@@ -4,12 +4,13 @@ tags: [ai, dev, productivity]
 
 # Hermes Skills Registry
 
-Aktualisiert: 2026-05-17
+Aktualisiert: 2026-05-19
 
 ## Custom Skills (selbst erstellt/importiert)
 
 | Skill | Kategorie | Status | Zweck | Quelle |
 |-------|-----------|--------|-------|--------|
+| **dogfood** | — | enabled | Exploratory QA von Web-Apps | Selbst erstellt |
 | **find-skills** | — | enabled | Skills Discovery von [skills.sh](https://skills.sh/) | Vercel Labs (GitHub) |
 | **auto-session-log** | productivity | enabled | Automatische Session-Dokumentation in Obsidian | Selbst erstellt |
 | **frontend-design** | creative | enabled | Produktionsreife Frontend-Interfaces, vermeidet generische AI-Ästhetik | anthropics/skills (skills.sh) |
@@ -17,6 +18,7 @@ Aktualisiert: 2026-05-17
 | **baoyu-youtube-transcript** | media | enabled | YouTube-Transkripte ziehen + Timestamps + Summaries ins Vault | jimliu/baoyu-skills (skills.sh) |
 | **devops-engineer** | devops | enabled | CI/CD, Docker, GitHub Actions, Deployments automatisiert | jeffallan/claude-skills (skills.sh) |
 | **research** | research | enabled | Automatische Web-Recherche, Content Discovery, AI-Tool-Marktplatz-Monitoring | kenneth-liao/ai-launchpad-marketplace (skills.sh) |
+| **yuanbao** | social | enabled | Yuanbao (元宝) Group-Management: @mentions, Queries | Selbst erstellt |
 
 ## Builtin Skills (vorinstalliert)
 
@@ -95,6 +97,16 @@ Aktualisiert: 2026-05-17
 | **blogwatcher** | RSS/Atom Feed Monitoring (aktiv: AI-News-Feeds → Vault) |
 | llm-wiki | LLM Knowledge Base |
 | polymarket | Polymarket Queries |
+
+## Scripts
+
+| Script | Zweck | Standort |
+|--------|-------|----------|
+| `vault-bootstrap.bat` | Windows: Git Identity, Pull, Push-Test | `_meta/scripts/vault-bootstrap.bat` |
+| `vault-bootstrap.sh` | Linux/macOS: Git Identity, Pull, Push-Test | `_meta/scripts/vault-bootstrap.sh` |
+| `setup-check.sh` | Self-healing: Tools prüfen + reinstallieren | `~/.hermes/scripts/setup-check.sh` |
+| `daily-health-check.py` | Daily: Cron/Vault/Git Diagnose | `~/.hermes/scripts/daily-health-check.py` |
+| `update-skills-registry.py` | Skills Registry auto-patchen | `~/.hermes/scripts/update-skills-registry.py` |
 
 ## Importierte Skills (Hub)
 
