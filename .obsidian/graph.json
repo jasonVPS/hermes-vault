@@ -2,106 +2,92 @@
   "collapse-filter": true,
   "search": "",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:00_Inbox",
+      "query": "path:00_Inbox  ",
       "color": {
         "a": 1,
         "rgb": 16777215
       }
     },
     {
-      "query": "path:10_Daily",
+      "query": "path:10_Daily  ",
       "color": {
         "a": 1,
-        "rgb": 16225054
+        "rgb": 14715730
       }
     },
     {
-      "query": "path:20_Notes",
+      "query": "path:20_Notes  ",
       "color": {
         "a": 1,
-        "rgb": 4366591
+        "rgb": 5404128
       }
     },
     {
-      "query": "path:30_Projects",
+      "query": "path:30_Projects  ",
       "color": {
         "a": 1,
-        "rgb": 16733696
+        "rgb": 14732626
       }
     },
     {
-      "query": "path:40_Areas",
+      "query": "path:40_Areas  ",
       "color": {
         "a": 1,
-        "rgb": 65331
+        "rgb": 3128402
       }
     },
     {
-      "query": "path:50_Resources",
+      "query": "path:50_Resources  ",
       "color": {
         "a": 1,
-        "rgb": 13536045
+        "rgb": 9905335
       }
     },
     {
-      "query": "path:90_Archive",
+      "query": "path:90_Archive  ",
       "color": {
         "a": 1,
-        "rgb": 7566167
+        "rgb": 5723991
       }
     },
     {
-      "query": "path:_meta",
+      "query": "path:_meta  ",
       "color": {
         "a": 1,
-        "rgb": 16750892
+        "rgb": 13383736
       }
     },
     {
-      "query": "tag:#rss",
+      "query": "tag:#rss  ",
       "color": {
         "a": 1,
-        "rgb": 43775
-      }
-    },
-    {
-      "query": "tag:#meta",
-      "color": {
-        "a": 1,
-        "rgb": 16776960
-      }
-    },
-    {
-      "query": "tag:#index",
-      "color": {
-        "a": 1,
-        "rgb": 16750848
+        "rgb": 16687070
       }
     },
     {
       "query": "tag:#quote",
       "color": {
         "a": 1,
-        "rgb": 16204552
+        "rgb": 0
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.15,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 0.993229166666667,
+  "lineSizeMultiplier": 0.40625,
   "collapse-forces": false,
-  "centerStrength": 0.5,
-  "repelStrength": 12,
-  "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.845,
-  "close": false
+  "centerStrength": 0.1875,
+  "repelStrength": 9.79166666666667,
+  "linkStrength": 0.552083333333333,
+  "linkDistance": 267,
+  "scale": 0.04231590268975911,
+  "close": true
 }
