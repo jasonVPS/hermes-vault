@@ -7,13 +7,13 @@ tags: [system, vault, graph]
 # Vault Knowledge Graph -- 2026-05-20
 
 ## Stats
-- Total Notes: 974
-- Total Links: 1302
+- Total Notes: 977
+- Total Links: 1305
 - Broken Links: 216
 - Orphan Notes: 0
 
 ## Top Hub Notes
-1. [[10_Daily/vault-graph_2026-05-20]] -- 11 out, 2 in
+1. [[10_Daily/vault-graph_2026-05-20]] -- 12 out, 2 in
 2. [[00_Inbox/2026/05/2026-05-16-hermes-agents-obsidian-team]] -- 5 out, 2 in
 3. [[20_Notes/RSS/2026-05-17/AINews_Agents_for_Everything_Else_Codex_for_Knowledge_Work_Claude_for_Creative_W]] -- 4 out, 1 in
 4. [[20_Notes/RSS/2026-05-17/AINews_GPT-Realtime-2_-Translate_and_-Whisper_new_SOTA_realtime_voice_APIs]] -- 4 out, 1 in
@@ -35,16 +35,16 @@ tags: [system, vault, graph]
 - [[00_Inbox/2026/05/2026-05-16-hermes-agents-obsidian-team]] -> `hermes-agent-setup` (not found)
 
 ## Top Tags
-- #rss: 913 notes
-- #ai: 742 notes
-- #m: 537 notes
-- #social: 537 notes
-- #twitter: 537 notes
-- #x: 537 notes
+- #rss: 915 notes
+- #ai: 744 notes
+- #m: 539 notes
+- #social: 539 notes
+- #twitter: 539 notes
+- #x: 539 notes
 - #dev: 256 notes
 - #capture: 250 notes
 - #security: 179 notes
 - #tech: 108 notes
 
 ---
-*Auto-generated at 19:51:51*
+*Auto-generated at 20:20:59*
