@@ -7,7 +7,7 @@ tags: [system, vault, graph]
 # Vault Knowledge Graph -- 2026-05-20
 
 ## Stats
-- Total Notes: 987
+- Total Notes: 988
 - Total Links: 1313
 - Broken Links: 216
 - Orphan Notes: 0
@@ -47,4 +47,4 @@ tags: [system, vault, graph]
 - #tech: 108 notes
 
 ---
-*Auto-generated at 20:41:18*
+*Auto-generated at 20:51:26*
