@@ -19,13 +19,13 @@ Die 7 Säulen der Evolution:
 
 | # | Säule | Beschreibung | Status |
 |---|-------|-------------|--------|
-|| 1 | **Background Cognition** | Kontinuierliches Denken zwischen Sessions (Logs, Vault, Patterns) | ✅ Active |
-|| 2 | **Self-Modification** | Eigene Configs, Prompts, Verhalten lesen und patchen können | ✅ Active |
-|| 3 | **Native Vision** | Direktes Bildverstehen ohne Tool-Call Overhead | 🔴 Blocked (Modell) |
-|| 4 | **Vault Knowledge Graph** | Vernetztes Verständnis statt flacher Filesuche | ✅ Active |
-|| 5 | **Sandbox Environment** | Wegwerfbare Test-Umgebungen vor Live-Deploy | ✅ Active |
-|| 6 | **Multi-Agent Pool** | Permanente Spezialisten (DevOps, Research, Curator, Coder) | ✅ Active |
-|| 7 | **Metric-Driven Improvement** | Selbst-Messung und datenbasierte Optimierung | ✅ Active |
+| 1 | **Background Cognition** | Kontinuierliches Denken zwischen Sessions (Logs, Vault, Patterns) | ✅ Active |
+| 2 | **Self-Modification** | Eigene Configs, Prompts, Verhalten lesen und patchen können | ✅ Active |
+| 3 | **Native Vision** | Direktes Bildverstehen ohne Tool-Call Overhead | 🔴 Blocked (Modell) |
+| 4 | **Vault Knowledge Graph** | Vernetztes Verständnis statt flacher Filesuche | ✅ Active |
+| 5 | **Sandbox Environment** | Wegwerfbare Test-Umgebungen vor Live-Deploy | ✅ Active |
+| 6 | **Multi-Agent Pool** | Permanente Spezialisten (DevOps, Research, Curator, Coder) | ✅ Active |
+| 7 | **Metric-Driven Improvement** | Selbst-Messung und datenbasierte Optimierung | ✅ Active |
 
 ---
 
