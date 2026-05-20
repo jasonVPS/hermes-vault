@@ -4,7 +4,9 @@ tags: [ai, dev, productivity]
 
 # Hermes Skills Registry
 
-Aktualisiert: 2026-05-19
+Aktualisiert: 2026-05-20
+
+> **Hinweis:** Alle Skills (Builtin + Custom) sind konsolidiert unter `/opt/data/skills/`. Custom Skills aus `~/.hermes/skills/` wurden migriert.
 
 ## Custom Skills (selbst erstellt/importiert)
 
@@ -19,6 +21,7 @@ Aktualisiert: 2026-05-19
 | **devops-engineer** | devops | enabled | CI/CD, Docker, GitHub Actions, Deployments automatisiert | jeffallan/claude-skills (skills.sh) |
 | **research** | research | enabled | Automatische Web-Recherche, Content Discovery, AI-Tool-Marktplatz-Monitoring | kenneth-liao/ai-launchpad-marketplace (skills.sh) |
 | **yuanbao** | social | enabled | Yuanbao (元宝) Group-Management: @mentions, Queries | Selbst erstellt |
+| **multi-agent-orchestration** | devops | enabled | Multi-Agent-Workflows orchestrieren und delegieren | skills.sh |
 
 ## Builtin Skills (vorinstalliert)
 

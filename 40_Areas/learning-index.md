@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-19
+updated: 2026-05-20
 type: index
 status: permanent
 tags: [area, index, learning]
@@ -8,7 +8,7 @@ tags: [area, index, learning]
 
 # Learning Index
 
-> Auto-generated index. Updated: 2026-05-19 06:01
+> Auto-generated index. Updated: 2026-05-20 06:01
 
 ## Einträge
 

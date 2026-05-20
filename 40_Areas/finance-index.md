@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-19
+updated: 2026-05-20
 type: index
 status: permanent
 tags: [area, finance, index]
@@ -8,10 +8,11 @@ tags: [area, finance, index]
 
 # Finance Index
 
-> Auto-generated index. Updated: 2026-05-19 06:01
+> Auto-generated index. Updated: 2026-05-20 06:01
 
 ## Einträge
 
+- [[20_Notes/RSS/2026-05-20/GitHub_Investigating_TeamPCP_Claimed_Breach_of_4000_Internal_Repositories.md|GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories]]
 - [[_meta/LINKING-STRATEGY.md|LINKING-STRATEGY]]
 - [[40_Areas/dev-news-index.md|Developer-News & Tools]]
 - [[_meta/VAULT-RULES.md|VAULT-RULES]]

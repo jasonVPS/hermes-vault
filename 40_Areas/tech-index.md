@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-19
+updated: 2026-05-20
 type: index
 status: permanent
 tags: [area, index, tech]
@@ -8,10 +8,15 @@ tags: [area, index, tech]
 
 # Tech Index
 
-> Auto-generated index. Updated: 2026-05-19 06:01
+> Auto-generated index. Updated: 2026-05-20 06:01
 
 ## Einträge
 
+- [[20_Notes/RSS/2026-05-20/What_launched_at_Google_IO_2026_30-minute_day_1_recap.md|What launched at Google I/O 2026 (30-minute day 1 recap)]]
+- [[20_Notes/RSS/2026-05-20/IO_2026.md|I/O 2026]]
+- [[20_Notes/RSS/2026-05-20/New_ways_to_create_and_get_things_done_in_Google_Workspace.md|New ways to create and get things done in Google Workspace]]
+- [[20_Notes/RSS/2026-05-20/Personal_Day.md|Personal Day]]
+- [[20_Notes/RSS/2026-05-20/The_Lenny_and_Friends_Summit_is_back.md|The Lenny and Friends Summit is back!]]
 - [[20_Notes/RSS/2026-05-19/NVIDIA_CEO_Jensen_Huang_at_Dell_Technologies_World_Demand_Is_Going_Parabolic_Utt.md|NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’]]
 - [[20_Notes/RSS/2026-05-19/The_Next_War_Is_Already_Here_The_West_Isnt_Ready__Yaroslav_Azhnyuk_The_Fourth_La.md|The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion]]
 - [[20_Notes/RSS/2026-05-19/Glaucous-winged_Gull_Brown_Pelican_Snowy_Egret_Canada_Goose.md|Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose]]
