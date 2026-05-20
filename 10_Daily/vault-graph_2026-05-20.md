@@ -7,8 +7,8 @@ tags: [system, vault, graph]
 # Vault Knowledge Graph -- 2026-05-20
 
 ## Stats
-- Total Notes: 1004
-- Total Links: 1320
+- Total Notes: 1005
+- Total Links: 1321
 - Broken Links: 216
 - Orphan Notes: 0
 
@@ -35,16 +35,16 @@ tags: [system, vault, graph]
 - [[00_Inbox/2026/05/2026-05-16-hermes-agents-obsidian-team]] -> `hermes-agent-setup` (not found)
 
 ## Top Tags
-- #rss: 930 notes
-- #ai: 759 notes
-- #m: 554 notes
-- #social: 554 notes
-- #twitter: 554 notes
-- #x: 554 notes
+- #rss: 931 notes
+- #ai: 760 notes
+- #m: 555 notes
+- #social: 555 notes
+- #twitter: 555 notes
+- #x: 555 notes
 - #dev: 256 notes
 - #capture: 250 notes
 - #security: 179 notes
 - #tech: 108 notes
 
 ---
-*Auto-generated at 23:10:37*
+*Auto-generated at 23:40:55*
