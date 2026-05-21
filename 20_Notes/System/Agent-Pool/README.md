@@ -1,7 +1,7 @@
 ---
 title: "Multi-Agent Specialist Pool"
 date: "2026-05-20"
-tags: [system, agents, multi-agent, meta]
+tags: [system, meta, tech, agents, multi-agent]
 ---
 
 # Multi-Agent Specialist Pool
@@ -89,3 +89,7 @@ Total: **13 agents** active
 - [[self-introspect_2026-05-20|Latest Self-Introspection Report]]
 - [[metrics_2026-05-20|Latest Metrics Report]]
 - [[vault-graph_2026-05-20|Latest Vault Graph]]
+
+## Siehe auch
+
+- [[_meta/index/MOC|Master of Ceremonies]]

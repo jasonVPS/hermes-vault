@@ -1,7 +1,7 @@
 ---
 title: "Self-Introspection Report 2026-05-20"
 date: "2026-05-20"
-tags: [system, self-modification, meta]
+tags: [meta, self-modification, system, tech]
 ---
 
 # Self-Introspection Report -- 2026-05-20
@@ -118,3 +118,7 @@ No changes detected since last run.
 
 ---
 *Auto-generated at 23:50:33*
+
+## Siehe auch
+
+- [[_meta/index/MOC|Master of Ceremonies]]

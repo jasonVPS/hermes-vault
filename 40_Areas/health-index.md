@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-20
+updated: 2026-05-21
 type: index
 status: permanent
 tags: [area, health, index]
@@ -8,10 +8,11 @@ tags: [area, health, index]
 
 # Health Index
 
-> Auto-generated index. Updated: 2026-05-20 06:01
+> Auto-generated index. Updated: 2026-05-21 06:00
 
 ## Einträge
 
+- [[20_Notes/RSS/2026-05-21/Sami_Inkinen_of_Virta_Health__Reversing_Type_2_Diabetes_Rowing_2750_Miles_and_Le.md|Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People (#866)]]
 - [[_meta/LINKING-STRATEGY.md|LINKING-STRATEGY]]
 - [[40_Areas/ai-news-index.md|AI-News & Entwicklungen]]
 - [[_meta/VAULT-RULES.md|VAULT-RULES]]
