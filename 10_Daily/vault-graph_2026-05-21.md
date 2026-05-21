@@ -7,20 +7,21 @@ tags: [system, vault, graph]
 # Vault Knowledge Graph -- 2026-05-21
 
 ## Stats
-- Total Notes: 1007
-- Total Links: 1322
+- Total Notes: 1017
+- Total Links: 1338
 - Broken Links: 216
-- Orphan Notes: 0
+- Orphan Notes: 2
 
 ## Top Hub Notes
-1. [[10_Daily/vault-graph_2026-05-20]] -- 12 out, 2 in
-2. [[00_Inbox/2026/05/2026-05-16-hermes-agents-obsidian-team]] -- 5 out, 2 in
-3. [[20_Notes/RSS/2026-05-17/AINews_Agents_for_Everything_Else_Codex_for_Knowledge_Work_Claude_for_Creative_W]] -- 4 out, 1 in
-4. [[20_Notes/RSS/2026-05-17/AINews_GPT-Realtime-2_-Translate_and_-Whisper_new_SOTA_realtime_voice_APIs]] -- 4 out, 1 in
-5. [[20_Notes/RSS/2026-05-20/GitHub_Investigating_TeamPCP_Claimed_Breach_of_4000_Internal_Repositories]] -- 4 out, 1 in
+1. [[10_Daily/vault-graph_2026-05-20]] -- 12 out, 3 in
+2. [[10_Daily/vault-graph_2026-05-21]] -- 12 out, 0 in
+3. [[00_Inbox/2026/05/2026-05-16-hermes-agents-obsidian-team]] -- 5 out, 3 in
+4. [[20_Notes/RSS/2026-05-17/AINews_Agents_for_Everything_Else_Codex_for_Knowledge_Work_Claude_for_Creative_W]] -- 4 out, 2 in
+5. [[20_Notes/RSS/2026-05-17/AINews_GPT-Realtime-2_-Translate_and_-Whisper_new_SOTA_realtime_voice_APIs]] -- 4 out, 2 in
 
 ## Orphan Notes
-- None
+- [[20_Notes/System/metrics_2026-05-21]]
+- [[20_Notes/System/self-introspect_2026-05-21]]
 
 ## Broken Links
 - [[10_Daily/reflection_2026-05-20_19-30]] -> `...` (not found)
@@ -35,16 +36,16 @@ tags: [system, vault, graph]
 - [[00_Inbox/2026/05/2026-05-16-hermes-agents-obsidian-team]] -> `hermes-agent-setup` (not found)
 
 ## Top Tags
-- #rss: 932 notes
-- #ai: 761 notes
-- #m: 556 notes
-- #social: 556 notes
-- #twitter: 556 notes
-- #x: 556 notes
-- #dev: 256 notes
-- #capture: 250 notes
-- #security: 179 notes
-- #tech: 108 notes
+- #rss: 936 notes
+- #ai: 765 notes
+- #m: 560 notes
+- #social: 560 notes
+- #twitter: 560 notes
+- #x: 560 notes
+- #dev: 258 notes
+- #capture: 251 notes
+- #security: 180 notes
+- #tech: 109 notes
 
 ---
-*Auto-generated at 00:01:15*
+*Auto-generated at 00:41:12*
