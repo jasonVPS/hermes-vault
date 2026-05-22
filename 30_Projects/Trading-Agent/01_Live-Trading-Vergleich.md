@@ -5,18 +5,18 @@
 
 ---
 
-## Executive Summary: Krypto Live
+### Krypto Live
 
 | Plattform | API Kosten | Spot Fees | Futures Fees | KYC | SEPA | EUR-Paare | Empfehlung |
 |-----------|------------|-----------|--------------|-----|------|-----------|------------|
-| **Binance** | **0€** | 0.1% / 0.1% | 0.02% / 0.05% | Ja | Ja* | ✅ 15+ | **#1 KRYPTO** |
-| **Bybit** | **0€** | 0.1% / 0.1% | 0.005% / 0.055% | Ja | Ja* | ✅ 10+ | **#1 FUTURES** |
-| **Kraken** | **0€** | 0.16% / 0.26% | 0.00% / 0.10%** | Ja | ✅ Fidor Bank | ✅ 30+ | **#1 EUR** |
-| **KuCoin** | **0€** | 0.1% / 0.1% | 0.02% / 0.06% | Ja | Nein | ✅ 10+ | ALTCOINS |
+| **Hyperliquid** ⭐ | **0€** | 0.02% / 0.03% | **0.01% / 0.035%** + Rebate | **Nein** | ❌ | ❌ | **#1 PERPS** |
+| **Binance** | **0€** | 0.1% / 0.1% | 0.02% / 0.05% | Ja | Third-Party | ⚠️ Stable | **#1 SPOT** |
+| **Bybit** | **0€** | 0.1% / 0.1% | 0.005% / 0.055% | Ja | ❌ | ✅ 10+ | BACKUP |
+| **Kraken** | **0€** | 0.16% / 0.26% | 0.00% / 0.10%** | Ja | ✅ Fidor Bank | ✅ 30+ | EUR FIAT |
+| **KuCoin** | **0€** | 0.1% / 0.1% | 0.02% / 0.06% | Ja | ❌ | ✅ 10+ | ALTCOINS |
 | **Coinbase** | **0€** | 0.4% / 0.6% | - | Ja | Ja | ✅ | TEUER |
 
-*Via Third-Party-Provider
-** ab $10M Volumen, sonst 0.02% / 0.05%
+\*\* ab $10M Volumen, sonst 0.02% / 0.05%
 
 ---
 
@@ -62,13 +62,45 @@ VIP 1 ab 50 BTC 30-Tage-Vol: -20% Maker/Taker
 
 ---
 
-### Krypto: Bybit (Empfohlener Futures-Broker)
+### Krypto: Hyperliquid ⭐ EMPFOHLEN PERPS
 
-**Warum für Futures:**
-- Tiefste Maker-Fee: 0.005% (essentiell für Maker-Strategien)
-- Top #2 Liquidität für Perpetuals
+**Warum #1 für Perps:**
+- **NIEDRIGSTE FEES WELTWEIT:** 0.01% Maker / 0.035% Taker
+- **Maker REBATE:** -0.001% (man bekommt Geld pro Limit-Order!)
+- Kein KYC nötig
+- Non-custodial (du hältst die Keys)
+- 230+ Perp-Paare (mehr als Binance)
+- API Latency = schnellste in der Branche
+- Keine API-Kosten
+
+**Kosten:**
+```
+Perp Maker/Taker:  0.01% / 0.035%
+Maker Rebate:     -0.001%
+Spot Maker/Taker: 0.02% / 0.03%
+```
+
+**API:**
+- REST/WebSocket: `https://api.hyperliquid.xyz/`
+- Python SDK: `hyperliquid-python-sdk`
+- Authentication: Wallet-Signatur (kein API Key)
+
+**Nachteile:**
+- Keine Paper/Demo-Umgebung (nur Mainnet)
+- Kein Fiat On/Off-Ramp
+- Nur USDC als Collateral
+- Smart Contract Risk
+- Weniger Liquidität bei kleinen Coins vs Binance
+
+---
+
+### Krypto: Bybit (Futures-Backup)
+
+**Warum Backup:**
+- Fallback falls Hyperliquid Probleme hat
+- Echte Demo-Umgebung (Bybit Demo)
 - Unified Trading Account (UTA)
-- Option Trading
+- Hohe Liquidität
 
 **Kosten:**
 ```
@@ -78,9 +110,9 @@ Option Fees: 0.03% / 0.03%
 ```
 
 **Nachteile:**
+- KYC verpflichtend
+- Custodial
 - Keine SEPA
-- KYC verpflichtend seit 2024
-- Weniger Spot-Paare als Binance
 
 ---
 
