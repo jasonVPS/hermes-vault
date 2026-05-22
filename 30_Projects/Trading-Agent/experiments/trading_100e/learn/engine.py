@@ -172,15 +172,15 @@ class LearningEngine:
             if len(last_3) == 3 and all(x < 0 for x in last_3):
                 params['base_risk_pct'] = min(0.01, params['base_risk_pct'])
                 params['sl_atr_mult'] = min(3.0, params['sl_atr_mult'] + 0.5)
-                changed.append(('EMERGENCY: 3 losses', 'HALF'))
+        changed.append(('base_risk_pct', params['base_risk_pct']))
         
-        # Record mutation
+        # Record mutation - ensure JSON serializable
         self.policy['mutations'].append({
             'ts': datetime.utcnow().isoformat(),
-            'win': is_win,
-            'changes': changed,
-            'pnl': tr['pnl_abs'],
-            'score': tr['setup_score']
+            'win': bool(is_win),
+            'changes': [(str(k), float(v) if isinstance(v, (int, float)) else v) for k, v in changed],
+            'pnl': float(tr['pnl_abs']),
+            'score': int(tr['setup_score'])
         })
     
     def _emergency_halt(self):

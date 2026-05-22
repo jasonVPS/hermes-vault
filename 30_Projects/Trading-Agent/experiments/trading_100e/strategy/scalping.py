@@ -76,24 +76,14 @@ class ScalpingStrategy:
     """
     
     def __init__(self, params=None):
-        self.p = params or {
-            'ema_fast': 9,
-            'ema_slow': 21,
-            'ema_trend': 200,
-            'rsi_period': 14,
-            'volume_avg': 20,
-            'atr_period': 14,
-            'sl_atr_mult': 1.5,
-            'tp1_r': 1.0,
-            'tp2_r': 2.0,
-            'tp3_r': 3.5,
-            'base_risk_pct': 0.01,
-            'rsi_long_thresh': 40,
-            'rsi_short_thresh': 60,
-            'vol_mult': 1.3,
-            'max_hold_bars': 32,  # 8h @ 15m
-            'break_even_buffer': 0.001,  # 0.1%
+        defaults = {
+            'ema_fast': 9, 'ema_slow': 21, 'ema_trend': 200,
+            'rsi_period': 14, 'atr_period': 14, 'volume_avg': 20,
+            'sl_atr_mult': 1.5, 'tp1_r': 1.0, 'tp2_r': 2.0, 'tp3_r': 3.5,
+            'base_risk_pct': 0.01, 'rsi_long_thresh': 40, 'rsi_short_thresh': 60,
+            'vol_mult': 1.3, 'max_hold_bars': 32, 'break_even_buffer': 0.001,
         }
+        self.p = {**defaults, **(params or {})}
     
     def atr(self, series_high, series_low, series_close, period=14):
         prev_close = series_close.shift(1)
