@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-21
+updated: 2026-05-22
 type: index
 status: permanent
 tags: [area, finance, index]
@@ -8,10 +8,11 @@ tags: [area, finance, index]
 
 # Finance Index
 
-> Auto-generated index. Updated: 2026-05-21 06:00
+> Auto-generated index. Updated: 2026-05-22 06:00
 
 ## Einträge
 
+- [[20_Notes/RSS/2026-05-22/FTC_to_Require_Cox_Media_Group_Two_Other_Firms_to_Pay_Nearly_1_Million_to_Settle.md|FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service]]
 - [[20_Notes/RSS/2026-05-21/Were_announcing_new_community_investments_in_Missouri.md|We’re announcing new community investments in Missouri.]]
 - [[20_Notes/RSS/2026-05-20/GitHub_Investigating_TeamPCP_Claimed_Breach_of_4000_Internal_Repositories.md|GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories]]
 - [[_meta/LINKING-STRATEGY.md|LINKING-STRATEGY]]
