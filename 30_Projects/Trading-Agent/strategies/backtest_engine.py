@@ -20,6 +20,7 @@ import numpy as np
 from dataclasses import dataclass
 from typing import List, Dict, Optional
 from enum import Enum
+from abc import ABC, abstractmethod
 import sqlite3
 from datetime import datetime
 
@@ -46,7 +47,7 @@ class Trade:
     pnl: float
     pnl_pct: float
     max_drawdown: float
-    reason: str  # 'tp' | 'sl' | 'signal'
+    reason: Optional[str]  # 'tp' | 'sl' | 'signal'
 
 
 class Strategy(ABC):
