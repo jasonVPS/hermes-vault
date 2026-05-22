@@ -1,7 +1,7 @@
 ---
 title: "Self-Introspection Report 2026-05-22"
 date: "2026-05-22"
-tags: [system, self-modification, meta]
+tags: [system, self-modification, meta], dev
 ---
 
 # Self-Introspection Report -- 2026-05-22
@@ -119,3 +119,6 @@ tags: [system, self-modification, meta]
 
 ---
 *Auto-generated at 05:00:56*
+
+## Siehe auch
+- [[40_Areas/dev-news-index.md|Dev-News Index]]

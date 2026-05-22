@@ -1,7 +1,7 @@
 ---
 title: "Vault Knowledge Graph 2026-05-22"
 date: "2026-05-22"
-tags: [system, vault, graph]
+tags: [system, vault, graph], dev
 ---
 
 # Vault Knowledge Graph -- 2026-05-22
@@ -48,3 +48,6 @@ tags: [system, vault, graph]
 
 ---
 *Auto-generated at 04:00:57*
+
+## Siehe auch
+- [[40_Areas/dev-news-index.md|Dev-News Index]]

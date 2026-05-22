@@ -8,7 +8,7 @@ tags: [area, index, learning]
 
 # Learning Index
 
-> Auto-generated index. Updated: 2026-05-22 06:00
+> Auto-generated index. Updated: 2026-05-22 06:06
 
 ## Einträge
 
