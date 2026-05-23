@@ -1,31 +1,23 @@
-# Self-Improving Trading Agent — Current Strategy
-# VERSIONED. Every change bumps version. Prior saved to history/v{NNNN}.yaml
-# RULE: Exactly ONE parameter may change per reflection cycle.
-
-version: "01"
-name: "EMA_RSI_Cross"
-type: "ema_rsi_cross"
-asset: "BTC/USDT"
-timeframe: "1h"
-
-# ── Core Parameters ──
+version: '0002'
+name: EMA_RSI_Cross
+type: ema_rsi_cross
+asset: BTC/USDT
+timeframe: 1h
 params:
-  ema_fast: 9              # fast EMA period
-  ema_slow: 21             # slow EMA period
-  ema_trend: 200           # macro trend filter (K.I.S.S.)
-  rsi_period: 14           # RSI lookback
-  rsi_long_min: 45         # min RSI for long confirmation
-  rsi_short_max: 55        # max RSI for short confirmation
-  atr_period: 14           # ATR lookback
-  atr_sl_mult: 2.0           # ATR multiplier for SL
-  atr_tp_mult: 4.0           # ATR multiplier for TP
-  risk_per_trade: 0.01       # 1% equity risk per trade
-  volume_confirm: true       # require volume > 20-SMA
-  max_atr_pct: 0.03          # skip if ATR% > 3%
-
-# ── Execution ──
+  ema_fast: 9
+  ema_slow: 21
+  ema_trend: 200
+  rsi_period: 14
+  rsi_long_min: 45
+  rsi_short_max: 55
+  atr_period: 14
+  atr_sl_mult: 2.0
+  atr_tp_mult: 4.0
+  risk_per_trade: 0.01
+  volume_confirm: false
+  max_atr_pct: 0.03
 backtest:
   initial_equity: 10000
-  fee_rate: 0.0006           # Bybit taker fee
-  slippage: 0.0002           # 0.02% realistic slippage
-  max_positions: 1             # one trade at a time
+  fee_rate: 0.0006
+  slippage: 0.0002
+  max_positions: 1
