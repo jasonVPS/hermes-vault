@@ -1,7 +1,7 @@
 ---
 title: "Self-Introspection Report 2026-05-23"
 date: "2026-05-23"
-tags: [system, self-modification, meta, tech]
+tags: [system, self-modification, meta]
 ---
 
 # Self-Introspection Report -- 2026-05-23
@@ -10,12 +10,14 @@ tags: [system, self-modification, meta, tech]
 - Config files tracked: 2
 - Memory files tracked: 0
 - Skills installed: 96
-- Cronjobs active: 14
+- Cronjobs active: 15
 
 ## Drift Detection
-**1 changes detected since last run:**
+**3 changes detected since last run:**
 
-- 🔄 Skills changed: software-development/hermes-evolution
+- 🔄 Skills changed: devops/vps-cron-maintenance, productivity/quantitative-trading-agent, software-development/hermes-evolution
+- 🔄 Skills Registry updated
+- 🔄 Job count changed: 14 -> 15
 
 ## Proposed Actions
 
@@ -51,7 +53,7 @@ tags: [system, self-modification, meta, tech]
 - `data-science/jupyter-live-kernel` (d93c4b4f50e66c0c)
 - `devops/kanban-orchestrator` (c60c7fcfb64157d7)
 - `devops/kanban-worker` (aef52e7513b68e0f)
-- `devops/vps-cron-maintenance` (768510b257719953)
+- `devops/vps-cron-maintenance` (a22c7bb3f463fea2)
 - `devops/webhook-subscriptions` (dfb4ddad9b7911db)
 - `dogfood` (36b1a710c61727c2)
 - `email/himalaya` (d8830e10696feefd)
@@ -91,7 +93,7 @@ tags: [system, self-modification, meta, tech]
 - `productivity/obsidian-auto-sync` (117d5a44fdf6e695)
 - `productivity/ocr-and-documents` (720a1f1a534167ef)
 - `productivity/powerpoint` (bb2084f5da312eec)
-- `productivity/quantitative-trading-agent` (7fae97ffccca9b4e)
+- `productivity/quantitative-trading-agent` (2ff317f670e86f9f)
 - `productivity/teams-meeting-pipeline` (472e8772146f571f)
 - `productivity/vault-curation` (1bf356a721578866)
 - `red-teaming/godmode` (5ab1757d1b638258)
@@ -105,7 +107,7 @@ tags: [system, self-modification, meta, tech]
 - `social-media/xurl` (46a50c6f6d3fd233)
 - `software-development/debugging-hermes-tui-commands` (55d5811c0b2d872d)
 - `software-development/hermes-agent-skill-authoring` (4b564cbaf9f6ed6f)
-- `software-development/hermes-evolution` (ecfed70e0d5fc87d)
+- `software-development/hermes-evolution` (6a93e43395013911)
 - `software-development/node-inspect-debugger` (f2f72c0c9e67143e)
 - `software-development/plan` (9a4de28156f74cc1)
 - `software-development/python-debugpy` (ce7e38367ea54fb8)
@@ -118,7 +120,4 @@ tags: [system, self-modification, meta, tech]
 - `yuanbao` (239e4875f511124f)
 
 ---
-*Auto-generated at 05:00:58*
-
-## Siehe auch
-- [[_meta/index/MOC|Master of Ceremonies]]
+*Auto-generated at 23:31:28*
