@@ -1,4 +1,4 @@
-version: '0003'
+version: '0002'
 name: EMA_RSI_Cross_Evolved
 type: ema_rsi_cross
 asset: BTC/USDT
@@ -13,7 +13,7 @@ params:
   atr_period: 14
   atr_sl_mult: 2.6
   atr_tp_mult: 4.5
-  risk_per_trade: 0.006
+  risk_per_trade: 0.008
   volume_confirm: true
   max_atr_pct: 0.03
 backtest:
