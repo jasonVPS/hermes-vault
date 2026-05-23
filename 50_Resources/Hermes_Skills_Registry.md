@@ -4,9 +4,17 @@ tags: [ai, dev, productivity]
 
 # Hermes Skills Registry
 
-Aktualisiert: 2026-05-20
+Aktualisiert: 2026-05-23
+
+> **Trading Agent:** Self-Improving Pipeline aktiv unter `30_Projects/Trading-Agent/self_improving/`. Enthält: Gate Selector, Score Engine, Reflect Engine, Worker. Cronjob `trading-agent-sweep` läuft täglich 06:00 UTC.
 
 > **Hinweis:** Alle Skills (Builtin + Custom) sind konsolidiert unter `/opt/data/skills/`. Custom Skills aus `~/.hermes/skills/` wurden migriert.
+
+## Trading Agent Skills (im Projekt-Baum, nicht .agents/skills)
+
+| Skill | Kategorie | Status | Zweck | Quelle |
+|-------|-----------|--------|-------|--------|
+| **self_improving/** | trading | active | Gate Selector + Score + Reflect + Worker | Selbst gebaut |
 
 ## Custom Skills (selbst erstellt/importiert)
 
