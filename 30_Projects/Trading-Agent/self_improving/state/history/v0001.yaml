@@ -1,8 +1,4 @@
-# Self-Improving Trading Agent — Current Strategy
-# VERSIONED. Every change bumps version. Prior saved to history/v{NNNN}.yaml
-# RULE: Exactly ONE parameter may change per reflection cycle.
-
-version: "01"
+version: "0001"
 name: "EMA_RSI_Cross"
 type: "ema_rsi_cross"
 asset: "BTC/USDT"

@@ -29,6 +29,7 @@ STRATEGY_PATH = STATE_DIR / "strategy.yaml"
 GOAL_PATH = STATE_DIR / "goal.yaml"
 TRADES_PATH = STATE_DIR / "trades.jsonl"
 SCORES_PATH = STATE_DIR / "scores.jsonl"
+HYPOTHESES_PATH = STATE_DIR / "hypotheses.jsonl"
 
 # ── Strategy runner (adapted from backtest_compare.py) ─────────
 
@@ -263,16 +264,17 @@ def count_trades_since_reflect() -> int:
 
 
 def append_trades(trades: list, version: str):
+    now = datetime.now().astimezone().isoformat()
     with open(TRADES_PATH, 'a') as f:
         for t in trades:
             rec = {
-                "timestamp": datetime.utcnow().isoformat() + "Z",
+                "timestamp": now,
                 "version": version,
                 "entry_time": str(t.entry_time),
                 "dir": t.dir,
                 "entry": round(t.entry_price, 2),
                 "exit": round(t.exit_price, 2) if t.exit_price else None,
-                "pnl_pct": round(t.pnl_pct * 100, 4),
+                "pnl_pct": round(float(t.pnl_pct) * 100, 4),
                 "exit_reason": t.exit_reason,
             }
             f.write(json.dumps(rec) + "\n")
@@ -280,10 +282,15 @@ def append_trades(trades: list, version: str):
 
 def append_score(score_result: dict, version: str):
     with open(SCORES_PATH, 'a') as f:
+        # Convert numpy booleans & floats to native Python types
         rec = {
-            "timestamp": datetime.utcnow().isoformat() + "Z",
+            "timestamp": datetime.now(datetime.now().astimezone().tzinfo).isoformat(),
             "version": version,
-            **score_result
+            "total": float(score_result["total"]),
+            "passed_gate": bool(score_result.get("passed_gate", False)),
+            "components": {k: float(v) for k, v in score_result.get("components", {}).items()},
+            "actuals": {k: float(v) if isinstance(v, (int, float, np.number)) else v 
+                        for k, v in score_result.get("actuals", {}).items()},
         }
         f.write(json.dumps(rec) + "\n")
 

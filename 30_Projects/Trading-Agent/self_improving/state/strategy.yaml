@@ -11,10 +11,10 @@ params:
   rsi_long_min: 45
   rsi_short_max: 55
   atr_period: 14
-  atr_sl_mult: 2.0
+  atr_sl_mult: 1.8
   atr_tp_mult: 4.0
   risk_per_trade: 0.01
-  volume_confirm: false
+  volume_confirm: true
   max_atr_pct: 0.03
 backtest:
   initial_equity: 10000
