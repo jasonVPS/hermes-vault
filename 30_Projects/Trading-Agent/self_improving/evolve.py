@@ -12,7 +12,8 @@ from datetime import datetime
 import numpy as np
 
 from core.data_cleaner import load_raw, clean_wicks
-from self_improving.gate_selector import ema_rsi_strategy, Engine, MIN_PF, MIN_SHARPE, MIN_WR
+from self_improving.common_engine import BacktestEngine
+from self_improving.gate_selector import ema_rsi_strategy, MIN_PF, MIN_SHARPE, MIN_WR
 
 ROOT = Path("/opt/data/home/hermes-vault/30_Projects/Trading-Agent/self_improving")
 STATE_DIR = ROOT / "state"
@@ -57,7 +58,7 @@ def test_params(p, df):
     ind, sig = ema_rsi_strategy(
         p["fast"], p["slow"], p["trend"], 14, p["rsi_long"], p["rsi_short"], p["sl"], p["tp"]
     )
-    e = Engine(ind, sig, 0.0006, 0.0002, 10000)
+    e = BacktestEngine(ind, sig, 0.0006, 0.0002, 10000)
     m = e.run(df, min_bars=p["trend"] + 10)
     m['params'] = p
     gate = (m['profit_factor'] >= MIN_PF and m['sharpe'] >= MIN_SHARPE and m['winrate'] >= MIN_WR)
