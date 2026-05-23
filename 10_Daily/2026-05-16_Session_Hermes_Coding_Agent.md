@@ -1,5 +1,5 @@
 ---
-tags: [ai, dev, productivity]
+tags: [ai, dev, productivity, tech]
 ---
 
 # 2026-05-16 — Session: Hermes Coding Agent Orchestrierung

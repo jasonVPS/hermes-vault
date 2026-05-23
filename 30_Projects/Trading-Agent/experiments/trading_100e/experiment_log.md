@@ -1,3 +1,7 @@
+---
+tags: [finance]
+---
+
 # Experiment: 100€ → 200€ in 30 Tagen
 
 ## Status: ❌ LOCKED (Gate Check Failed)
@@ -118,3 +122,6 @@ Der Learning Engine hat folgende Anpassungen vorgenommen:
 - Vault Agent: ✅ Aktiv (dokumentiert automatisch)
 
 **Experiment läuft weiter** – aber mit rigoroser Disziplin.
+
+## Siehe auch
+- [[40_Areas/finance-index|Finance Index]]

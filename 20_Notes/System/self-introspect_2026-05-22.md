@@ -1,7 +1,7 @@
 ---
 title: "Self-Introspection Report 2026-05-22"
 date: "2026-05-22"
-tags: [system, self-modification, meta], dev
+tags: [system, self-modification, meta, dev, tech]
 ---
 
 # Self-Introspection Report -- 2026-05-22

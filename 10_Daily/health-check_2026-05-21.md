@@ -1,7 +1,7 @@
 ---
 title: "Health Check 2026-05-21"
 date: "2026-05-21"
-tags: [health-check, system, vault], health
+tags: [health-check, system, vault, health, tech]
 ---
 
 # 🟢 Daily Health Check — 2026-05-21

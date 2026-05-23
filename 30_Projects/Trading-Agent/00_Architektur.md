@@ -1,3 +1,7 @@
+---
+tags: [finance]
+---
+
 # Trading Agent - Architektur
 
 **Status:** In Entwicklung
@@ -118,3 +122,6 @@ class BrokerInterface:
 ---
 *Erstellt: 2026-05-22*
 *Autor: Hermes Agent*
+
+## Siehe auch
+- [[40_Areas/finance-index|Finance Index]]

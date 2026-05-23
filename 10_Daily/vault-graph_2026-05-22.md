@@ -1,7 +1,7 @@
 ---
 title: "Vault Knowledge Graph 2026-05-22"
 date: "2026-05-22"
-tags: [system, vault, graph], dev
+tags: [system, vault, graph, dev, tech]
 ---
 
 # Vault Knowledge Graph -- 2026-05-22

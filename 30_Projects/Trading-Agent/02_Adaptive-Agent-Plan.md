@@ -1,3 +1,7 @@
+---
+tags: [finance]
+---
+
 # Adaptive Trading Agent - Lernziel
 
 Wir bauen keinen statischen Bot. Wir bauen einen Agenten, der:
@@ -27,3 +31,6 @@ Adaptiver Kreislauf:
 ```
 
 ## Nächster Schritt: Bybit Demo verbinden
+
+## Siehe auch
+- [[40_Areas/finance-index|Finance Index]]

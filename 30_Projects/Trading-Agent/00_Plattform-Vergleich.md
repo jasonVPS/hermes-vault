@@ -1,3 +1,7 @@
+---
+tags: [finance]
+---
+
 # Trading Agent - Plattform-Vergleich
 
 **Status:** Research abgeschlossen, Implementierung steht an
@@ -174,3 +178,6 @@ kraken = ccxt.kraken({'sandbox': True})
 ---
 *Erstellt: 2026-05-22*
 *Autor: Hermes Agent | Projekt: Trading-Agent*
+
+## Siehe auch
+- [[40_Areas/finance-index|Finance Index]]

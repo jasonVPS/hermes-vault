@@ -1,3 +1,7 @@
+---
+tags: [finance]
+---
+
 # Live Trading - Plattform-Vergleich
 
 **Status:** Research abgeschlossen
@@ -256,3 +260,6 @@ else:
 ---
 *Erstellt: 2026-05-22*
 *Autor: Hermes Agent*
+
+## Siehe auch
+- [[40_Areas/finance-index|Finance Index]]
