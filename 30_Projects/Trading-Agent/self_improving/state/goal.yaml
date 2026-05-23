@@ -1,0 +1,24 @@
+# Self-Improving Trading Agent — Goal Definition
+# LOCKED by operator. Agent may NOT change these.
+# Agent reads this to score every strategy iteration.
+
+asset: "BTC/USDT"
+timeframe: "1h"
+
+target_return_30d_pct: 5.0    # success: +5% per 30 Tage
+max_drawdown_pct: 8.0         # failure: 8% drawdown = bail
+min_sharpe: 0.3               # quality bar (Gate Agent Kriterium)
+min_winrate: 0.42             # WR >= 42% (Gate Agent Kriterium)
+min_profit_factor: 1.2        # PF >= 1.2 (Gate Agent Kriterium)
+
+failure_below: -0.04           # score floor — steeply negative below this
+reflection_every: 5            # cycle cadence: every N trades reflect & adapt
+one_variable_only: true        # scientific-method guardrail
+
+# Scoring weights (sum to 1.0)
+score_weights:
+  return_vs_target: 0.30
+  drawdown_vs_max: 0.25
+  sharpe_vs_min: 0.20
+  winrate_vs_min: 0.15
+  profit_factor_vs_min: 0.10
