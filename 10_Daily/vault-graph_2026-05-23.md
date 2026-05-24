@@ -1,7 +1,7 @@
 ---
 title: "Vault Knowledge Graph 2026-05-23"
 date: "2026-05-23"
-tags: [system, vault, graph]
+tags: [graph, system, tech, vault]
 ---
 
 # Vault Knowledge Graph -- 2026-05-23
@@ -49,3 +49,7 @@ tags: [system, vault, graph]
 
 ---
 *Auto-generated at 23:31:27*
+
+## Siehe auch
+
+- [[40_Areas/tech-index]]

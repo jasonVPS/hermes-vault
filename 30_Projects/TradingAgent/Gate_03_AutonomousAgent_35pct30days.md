@@ -1,3 +1,7 @@
+---
+tags: [finance, tech, trading]
+---
+
 # Gate 03: Autonomous Trading Agent - 35% in 30 Tagen
 
 **Status:** IN PROGRESS - Regeln müssen stehen bevor Code ausgeführt wird (Gate Agent).
@@ -134,3 +138,8 @@ Data Fetcher → Data Cleaner → Strategy Engine → Risk Manager → Execution
 ---
 
 **Entscheidung:** Nach Genehmigung dieser Regilen (Gate-Criteria erfüllt) → Sofortiger Code-Build des autonomen Agenten.
+
+## Siehe auch
+
+- [[40_Areas/finance-index]]
+- [[30_Projects/Trading-Agent/00_ROADMAP]]

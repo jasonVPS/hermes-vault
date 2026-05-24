@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-23
+updated: 2026-05-24
 type: index
 status: permanent
 tags: [area, index, productivity]
@@ -8,7 +8,7 @@ tags: [area, index, productivity]
 
 # Productivity Index
 
-> Auto-generated index. Updated: 2026-05-23 06:02
+> Auto-generated index. Updated: 2026-05-24 06:00
 
 ## Einträge
 

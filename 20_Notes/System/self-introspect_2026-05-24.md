@@ -1,7 +1,7 @@
 ---
 title: "Self-Introspection Report 2026-05-24"
 date: "2026-05-24"
-tags: [system, self-modification, meta]
+tags: [meta, self-modification, system, tech]
 ---
 
 # Self-Introspection Report -- 2026-05-24
@@ -119,3 +119,7 @@ tags: [system, self-modification, meta]
 
 ---
 *Auto-generated at 05:00:52*
+
+## Siehe auch
+
+- [[40_Areas/tech-index]]

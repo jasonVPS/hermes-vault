@@ -1,3 +1,7 @@
+---
+tags: [finance, tech, trading]
+---
+
 # Trading Agent — Neustart ROADMAP
 
 **Status:** Phase 0 — Planung
@@ -166,3 +170,8 @@ Trades                 ≥ 30        (Statistisch bedeutsam)
 ---
 
 *Phase 0 bereit für Review. Keine Code-Zeile ohne vorherigen Plan.*
+
+## Siehe auch
+
+- [[40_Areas/finance-index]]
+- [[30_Projects/TradingAgent/Gate_03_AutonomousAgent_35pct30days]]

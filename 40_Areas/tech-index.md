@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-23
+updated: 2026-05-24
 type: index
 status: permanent
 tags: [area, index, tech]
@@ -8,7 +8,7 @@ tags: [area, index, tech]
 
 # Tech Index
 
-> Auto-generated index. Updated: 2026-05-23 06:02
+> Auto-generated index. Updated: 2026-05-24 06:00
 
 ## Einträge
 
@@ -133,6 +133,7 @@ tags: [area, index, tech]
 - [[multi-agent-second-brain.md|multi-agent-second-brain]]
 - [[10_Daily/reflection_2026-05-21_09-30.md|Background Reflection 2026-05-21 09:30]]
 - [[10_Daily/reflection_2026-05-21_10-32.md|Background Cognition Reflection 2026-05-21_10-32]]
+- [[10_Daily/reflection_2026-05-23_20-30.md|Background Cognition Reflection — 2026-05-23 20:30]]
 - [[10_Daily/reflection_2026-05-21_06-00.md|reflection_2026-05-21_06-00]]
 - [[10_Daily/reflection_2026-05-21_00-40.md|reflection_2026-05-21_00-40]]
 - [[10_Daily/reflection_2026-05-21_13-20.md|reflection_2026-05-21_13-20]]
@@ -192,7 +193,6 @@ tags: [area, index, tech]
 - [[10_Daily/reflection_2026-05-20_22-30.md|reflection_2026-05-20_22-30]]
 - [[10_Daily/reflection_2026-05-21_08-10.md|Reflection 2026-05-21 08:10]]
 - [[10_Daily/reflection_2026-05-22_12-30.md|reflection_2026-05-22_12-30]]
-- [[10_Daily/vault-graph_2026-05-23.md|Vault Knowledge Graph 2026-05-23]]
 - [[10_Daily/reflection_2026-05-20_18-50.md|reflection_2026-05-20_18-50]]
 - [[10_Daily/reflection_2026-05-22_13-30.md|reflection_2026-05-22_13-30]]
 - [[10_Daily/reflection_2026-05-20_19-00.md|reflection_2026-05-20_19-00]]
@@ -212,6 +212,7 @@ tags: [area, index, tech]
 - [[10_Daily/reflection_2026-05-21_11-40.md|reflection_2026-05-21_11-40]]
 - [[10_Daily/reflection_2026-05-22_06-30.md|reflection_2026-05-22_06-30]]
 - [[10_Daily/reflection_2026-05-21_10-00.md|Reflection 2026-05-21 10:00]]
+- [[10_Daily/reflection_2026-05-23_10-10.md|Background Cognition Reflection 2026-05-23 10:10]]
 - [[10_Daily/reflection_2026-05-21_07-40.md|Background Cognition Reflection]]
 - [[10_Daily/reflection_2026-05-21_04-40.md|reflection_2026-05-21_04-40]]
 - [[10_Daily/reflection_2026-05-20_18-21.md|reflection_2026-05-20_18-21]]
@@ -304,10 +305,8 @@ tags: [area, index, tech]
 - [[90_Archive/2026/setup-artifacts/Hermes-Test-Notiz.md|Hermes-Test-Notiz]]
 - [[90_Archive/2026/setup-artifacts/Workflow Test.md|Workflow Test]]
 - [[90_Archive/2026/setup-artifacts/multi-agent-second-brain.md|multi-agent-second-brain]]
-- [[20_Notes/System/metrics_2026-05-23.md|Hermes Metrics Report 2026-05-23]]
 - [[20_Notes/System/self-introspect_2026-05-20.md|Self-Introspection Report 2026-05-20]]
 - [[20_Notes/System/metrics_2026-05-20.md|Hermes Metrics Report 2026-05-20]]
-- [[20_Notes/System/self-introspect_2026-05-23.md|Self-Introspection Report 2026-05-23]]
 - [[20_Notes/System/metrics_2026-05-22.md|Hermes Metrics Report 2026-05-22]]
 - [[20_Notes/System/self-introspect_2026-05-22.md|Self-Introspection Report 2026-05-22]]
 - [[20_Notes/System/metrics_2026-05-21.md|Hermes Metrics Report 2026-05-21]]
