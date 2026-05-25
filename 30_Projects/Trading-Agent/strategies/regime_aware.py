@@ -1,6 +1,6 @@
 """
-Parameterized Swing Strategy v5.
-All key variables exposed for optimization.
+Multi-Timeframe Regime-Aware Strategy v6.
+Uses 4h trend confirmation for 1h entries.
 """
 import pandas as pd
 from data.features import add_indicators, classify_regime
@@ -24,16 +24,23 @@ class RegimeAwareStrategy:
         self.enable_range = enable_range
         self.enable_transition = enable_transition
 
-    def generate_signals(self, df: pd.DataFrame) -> pd.Series:
-        df = add_indicators(df)
-        df["regime"] = classify_regime(df)
-        signals = pd.Series("HOLD", index=df.index)
+    def generate_signals(self, df_1h: pd.DataFrame, df_4h: pd.DataFrame) -> pd.Series:
+        # Process both timeframes
+        df_1h = add_indicators(df_1h)
+        df_1h["regime"] = classify_regime(df_1h)
+        df_4h = add_indicators(df_4h)
 
-        for i in range(200, len(df)):
-            row = df.iloc[i]
-            prev = df.iloc[i-1] if i >= 1 else row
-            prev2 = df.iloc[i-2] if i >= 2 else prev
-            prev3 = df.iloc[i-3] if i >= 3 else prev2
+        # Resample 4h EMA confirmation to 1h
+        df_4h_1h = df_4h.reindex(df_1h.index, method="ffill")
+        
+        signals = pd.Series("HOLD", index=df_1h.index)
+
+        for i in range(200, len(df_1h)):
+            row = df_1h.iloc[i]
+            row_4h = df_4h_1h.iloc[i] if i < len(df_4h_1h) else row
+            prev = df_1h.iloc[i-1] if i >= 1 else row
+            prev2 = df_1h.iloc[i-2] if i >= 2 else prev
+            prev3 = df_1h.iloc[i-3] if i >= 3 else prev2
 
             # Regime filter
             regime = row.get("regime", "unknown")
@@ -50,8 +57,10 @@ class RegimeAwareStrategy:
             direction = None
 
             # LONG
-            in_uptrend = row["close"] > row["ema21"] and row["ema21"] > row["ema200"]
-            if in_uptrend:
+            in_uptrend_1h = row["close"] > row["ema21"] and row["ema21"] > row["ema200"]
+            in_uptrend_4h = row_4h["close"] > row_4h["ema21"] and row_4h["ema21"] > row_4h["ema200"]
+            
+            if in_uptrend_1h and in_uptrend_4h:
                 pull = prev3.get("rsi14", 50) > (self.rsi_long_entry + 10) and prev2.get("rsi14", prev3.get("rsi14")) < prev3.get("rsi14", 50)
                 bounce = prev.get("rsi14", 50) < self.rsi_long_entry and row["rsi14"] > prev.get("rsi14", 50) + self.rsi_bounce_min
                 vol = row.get("vol_sma50", row["volume"])
@@ -60,8 +69,10 @@ class RegimeAwareStrategy:
                     direction = "LONG"
 
             # SHORT
-            in_downtrend = row["close"] < row["ema21"] and row["ema21"] < row["ema200"]
-            if in_downtrend:
+            in_downtrend_1h = row["close"] < row["ema21"] and row["ema21"] < row["ema200"]
+            in_downtrend_4h = row_4h["close"] < row_4h["ema21"] and row_4h["ema21"] < row_4h["ema200"]
+            
+            if in_downtrend_1h and in_downtrend_4h:
                 pull = prev3.get("rsi14", 50) < (self.rsi_short_entry - 10) and prev2.get("rsi14", prev3.get("rsi14")) > prev3.get("rsi14", 50)
                 bounce = prev.get("rsi14", 50) > self.rsi_short_entry and row["rsi14"] < prev.get("rsi14", 50) - self.rsi_bounce_min
                 vol = row.get("vol_sma50", row["volume"])
