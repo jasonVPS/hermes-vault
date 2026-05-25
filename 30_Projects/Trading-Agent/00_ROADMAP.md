@@ -70,9 +70,12 @@ Trading-Agent/
 ## Phase-Plan (9 Phasen)
 
 ### Phase 0: Foundation ← WIR SIND HIER
-- [ ] ROADMAP.md schreiben
-- [ ] Ordnerstruktur anlegen
-- [ ] 01_Gate.md definieren (Gate unverhandelbar)
+- [x] ROADMAP.md schreiben
+- [x] Ordnerstruktur anlegen
+- [x] 01_Gate.md definieren (Gate unverhandelbar)
+- [x] 02_Backtest-Engine.md definieren (Single Source of Truth)
+- [ ] **01_Gate.md und 02_Backtest-Engine.md im Vault reviewen**
+- [ ] Phase 0 Exit-Test: `test_engine.py` Skeleton
 
 ### Phase 1: Data Layer
 - [ ] `data/fetcher.py` — Binance Spot OHLCV, 6M Lookback, 1h + 4h
