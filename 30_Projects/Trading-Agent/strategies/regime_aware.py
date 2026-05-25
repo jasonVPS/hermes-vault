@@ -7,11 +7,11 @@ from data.features import add_indicators, classify_regime
 
 class RegimeAwareStrategy:
     def __init__(self,
-                 rsi_long_entry: float = 45.0,
-                 rsi_short_entry: float = 55.0,
-                 rsi_bounce_min: float = 2.0,
-                 adx_min: float = 20.0,
-                 vol_multiplier: float = 0.5):
+                 rsi_long_entry: float = 50.0,
+                 rsi_short_entry: float = 65.0,
+                 rsi_bounce_min: float = 1.0,
+                 adx_min: float = 15.0,
+                 vol_multiplier: float = 0.3):
         self.rsi_long_entry = rsi_long_entry
         self.rsi_short_entry = rsi_short_entry
         self.rsi_bounce_min = rsi_bounce_min
@@ -37,18 +37,20 @@ class RegimeAwareStrategy:
             # LONG
             in_uptrend = row["close"] > row["ema21"] and row["ema21"] > row["ema200"]
             if in_uptrend:
-                pull = prev3.get("rsi14", 50) > (self.rsi_long_entry + 10) and prev2.get("rsi14", 50) < prev3.get("rsi14", 50)
+                pull = prev3.get("rsi14", 50) > (self.rsi_long_entry + 10) and prev2.get("rsi14", prev3.get("rsi14")) < prev3.get("rsi14", 50)
                 bounce = prev.get("rsi14", 50) < self.rsi_long_entry and row["rsi14"] > prev.get("rsi14", 50) + self.rsi_bounce_min
-                vol_ok = row["volume"] > row.get("vol_sma50", row["volume"]) * self.vol_multiplier
+                vol = row.get("vol_sma50", row["volume"])
+                vol_ok = row["volume"] > vol * self.vol_multiplier
                 if pull and bounce and vol_ok:
                     direction = "LONG"
 
             # SHORT
             in_downtrend = row["close"] < row["ema21"] and row["ema21"] < row["ema200"]
             if in_downtrend:
-                pull = prev3.get("rsi14", 50) < (self.rsi_short_entry - 10) and prev2.get("rsi14", 50) > prev3.get("rsi14", 50)
+                pull = prev3.get("rsi14", 50) < (self.rsi_short_entry - 10) and prev2.get("rsi14", prev3.get("rsi14")) > prev3.get("rsi14", 50)
                 bounce = prev.get("rsi14", 50) > self.rsi_short_entry and row["rsi14"] < prev.get("rsi14", 50) - self.rsi_bounce_min
-                vol_ok = row["volume"] > row.get("vol_sma50", row["volume"]) * self.vol_multiplier
+                vol = row.get("vol_sma50", row["volume"])
+                vol_ok = row["volume"] > vol * self.vol_multiplier
                 if pull and bounce and vol_ok:
                     direction = "SHORT"
 
