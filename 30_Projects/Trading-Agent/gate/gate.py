@@ -59,6 +59,7 @@ def run_gate() -> Dict:
 
     for asset in ASSETS:
         print(f"Evaluating {asset}...")
+        all_data[asset]["symbol"] = asset
         r = evaluate(all_data[asset])
         results.append(r)
         if not r["pass"]:
