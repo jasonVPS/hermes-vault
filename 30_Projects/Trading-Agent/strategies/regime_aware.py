@@ -1,18 +1,15 @@
 """
-Regime-Aware Strategy: Trendfolge in Trend, Mean-Reversion in Range.
+Stricter Regime-Aware Strategy v2.
+Tighter filters, higher quality signals.
 """
 import pandas as pd
-import numpy as np
 from data.features import add_indicators, classify_regime
 
 class RegimeAwareStrategy:
-    """
-    - Trend (ADX > 25): Trendfolge — Long wenn EMA9 > EMA21 > EMA100 + RSI 50-65
-    - Range (ADX < 20): Mean Reversion — Long wenn RSI < 30 + Preis nahe Lower BB
-    - Transition: Keine Trades
-    """
-    def __init__(self):
-        pass
+    def __init__(self, adx_threshold: float = 25.0, min_rsi: float = 40.0, max_rsi: float = 60.0):
+        self.adx_threshold = adx_threshold
+        self.min_rsi = min_rsi
+        self.max_rsi = max_rsi
 
     def generate_signals(self, df: pd.DataFrame) -> pd.Series:
         df = add_indicators(df)
@@ -21,18 +18,35 @@ class RegimeAwareStrategy:
 
         for i in range(200, len(df)):
             row = df.iloc[i]
-            prev = df.iloc[i-1]
+            atr = row.get("atr14", row["high"] - row["low"])
+            if atr <= 0:
+                continue
+
+            # Skip transition regime
+            if row["regime"] == "transition":
+                continue
+
+            in_zone = False
+            direction = None
 
             if row["regime"] == "trend":
-                # Trendfolge
+                # Strong trend requirement
+                if row["adx14"] < self.adx_threshold + 5:
+                    continue
+
+                # LONG: EMA stack in uptrend + RSI in zone
                 if (row["ema8"] > row["ema21"] > row["ema200"] and
-                    50 < row["rsi14"] < 65 and
+                    45 < row["rsi14"] < 62 and
                     row["close"] > row["ema8"]):
-                    signals.iloc[i] = "LONG"
+                    direction = "LONG"
+                    in_zone = True
+
+                # SHORT: EMA stack in downtrend + RSI in zone
                 elif (row["ema8"] < row["ema21"] < row["ema200"] and
-                      35 < row["rsi14"] < 50 and
+                      38 < row["rsi14"] < 55 and
                       row["close"] < row["ema8"]):
-                    signals.iloc[i] = "SHORT"
+                    direction = "SHORT"
+                    in_zone = True
 
             elif row["regime"] == "range":
                 # Mean Reversion — Bollinger Bands
@@ -41,9 +55,15 @@ class RegimeAwareStrategy:
                 lower_bb = sma - 2 * std
                 upper_bb = sma + 2 * std
 
+                # Require price OUTSIDE BB AND RSI extreme
                 if row["close"] < lower_bb and row["rsi14"] < 30:
-                    signals.iloc[i] = "LONG"
+                    direction = "LONG"
+                    in_zone = True
                 elif row["close"] > upper_bb and row["rsi14"] > 70:
-                    signals.iloc[i] = "SHORT"
+                    direction = "SHORT"
+                    in_zone = True
+
+            if in_zone and direction:
+                signals.iloc[i] = direction
 
         return signals
