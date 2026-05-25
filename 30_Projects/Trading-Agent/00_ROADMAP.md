@@ -95,7 +95,7 @@ Trading-Agent/
 
 ### Phase 4: Multi-Asset Gate v2
 - [ ] Gate: **ALLE** von BTC, ETH, SOL müssen PASS
-- [ ] Gate-Criteria: PF ≥ 1.50 | Sharpe ≥ 0.50 | WR ≥ 45% | Max DD ≤ 15%
+- Gate-Criteria: PF ≥ 1.50 | Sharpe ≥ 1.00 | WR ≥ 50% | Max DD ≤ 15%
 - [ ] Walk-Forward: Out-of-Sample letzte 30 Tage müssen PASS
 - [ ] Bei FAIL: Kein Paper, keine Evolve. Rückkehr zu Phase 3.
 

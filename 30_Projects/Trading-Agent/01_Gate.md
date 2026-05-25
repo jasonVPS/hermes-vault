@@ -13,8 +13,8 @@ Gate-Version: 1.0
 
 ```
 Profit Factor (PF)      ≥ 1.50     (Gross Profit / |Gross Loss|)
-Sharpe Ratio             ≥ 0.50     (Daily returns, risk-free = 0)
-Win Rate                 ≥ 45.0%    (Nicht nur statistischer Rausch-Trade)
+Sharpe Ratio             ≥ 1.00     (Daily returns, risk-free = 0)
+Win Rate                 ≥ 50.0%    (Nicht nur statistischer Rausch-Trade)
 Max Drawdown             ≤ 15.0%    (Peak-to-Trough auf Equity Curve)
 Trades                   ≥ 30       (Statistisch bedeutsames Sample)
 ```
