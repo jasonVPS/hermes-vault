@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 import time
 
 BASE_URL = "https://api.binance.com/api/v3/klines"
-ASSETS = ["BTCUSDT", "ETHUSDT", "SOLUSDT", "DOGEUSDT", "HYPEUSDT"]
+ASSETS = ["BTCUSDT", "ETHUSDT", "DOGEUSDT", "SOLUSDT"]
 TF_MAP = {"1h": "1h", "4h": "4h"}
 LIMIT = 500  # max per call
 

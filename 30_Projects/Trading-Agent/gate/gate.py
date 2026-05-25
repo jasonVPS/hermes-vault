@@ -18,7 +18,7 @@ RULES = {
     "trades": {"min": 30, "label": "Trade Count"},
 }
 
-ASSETS = ["BTCUSDT", "ETHUSDT", "DOGEUSDT", "SOLUSDT", "HYPEUSDT"]
+ASSETS = ["BTCUSDT", "ETHUSDT", "DOGEUSDT", "SOLUSDT"]
 
 def evaluate(asset_data: Dict) -> Dict:
     """Run backtest and return results + PASS/FAIL per metric."""
