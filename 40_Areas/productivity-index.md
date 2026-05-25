@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-24
+updated: 2026-05-25
 type: index
 status: permanent
 tags: [area, index, productivity]
@@ -8,10 +8,11 @@ tags: [area, index, productivity]
 
 # Productivity Index
 
-> Auto-generated index. Updated: 2026-05-24 06:00
+> Auto-generated index. Updated: 2026-05-25 06:01
 
 ## Einträge
 
+- [[20_Notes/RSS/2026-05-25/The_AI_paradox_More_automation_more_humans_more_work__Dan_Shipper.md|The AI paradox: More automation, more humans, more work | Dan Shipper]]
 - [[20_Notes/RSS/2026-05-23/Megalodon_GitHub_Attack_Targets_5561_Repos_with_Malicious_CICD_Workflows.md|Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows]]
 - [[_meta/LINKING-STRATEGY.md|LINKING-STRATEGY]]
 - [[30_Projects/vault-automatisierung.md|vault-automatisierung]]

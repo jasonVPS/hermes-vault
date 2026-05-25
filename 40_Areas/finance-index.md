@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-24
+updated: 2026-05-25
 type: index
 status: permanent
 tags: [area, finance, index]
@@ -8,7 +8,7 @@ tags: [area, finance, index]
 
 # Finance Index
 
-> Auto-generated index. Updated: 2026-05-24 06:00
+> Auto-generated index. Updated: 2026-05-25 06:01
 
 ## Einträge
 
@@ -28,6 +28,8 @@ tags: [area, finance, index]
 - [[20_Notes/RSS/2026-05-19/Elevating_Austria_Google_invests_in_its_first_data_center_in_the_Alps.md|Elevating Austria: Google invests in its first data center in the Alps.]]
 - [[20_Notes/RSS/2026-05-19/Bringing_people_together_at_AI_for_the_Economy_Forum.md|Bringing people together at AI for the Economy Forum]]
 - [[20_Notes/RSS/2026-05-18/Import_AI_442_Winners_and_losers_in_the_AI_economy_math_proof_automation_and_ind.md|Import AI 442: Winners and losers in the AI economy; math proof automation; and industrialization of cyber espionage]]
+- [[30_Projects/TradingAgent/Gate_03_AutonomousAgent_35pct30days.md|Gate_03_AutonomousAgent_35pct30days]]
+- [[30_Projects/Trading-Agent/00_ROADMAP.md|00_ROADMAP]]
 ## Siehe auch
 - [[_meta/index/MOC|Master of Ceremonies]]
 - [[_meta/LINKING-STRATEGY|Lazy Linking Strategie]]
