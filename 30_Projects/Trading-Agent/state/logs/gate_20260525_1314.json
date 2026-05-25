@@ -1,0 +1,1551 @@
+{
+  "global_pass": false,
+  "timestamp": "2026-05-25 13:14:20.443005+00:00",
+  "results": [
+    {
+      "asset": "BTCUSDT",
+      "pass": false,
+      "metrics": {
+        "pf": 1.27,
+        "sharpe": 0.166,
+        "win_rate": 0.4,
+        "max_dd_pct": 7.73,
+        "trades": 15,
+        "avg_trade": 52.27,
+        "total_return_pct": 7.84
+      },
+      "checks": {
+        "pf": {
+          "value": 1.27,
+          "pass": false,
+          "reason": "1.27 < 1.5"
+        },
+        "sharpe": {
+          "value": 0.166,
+          "pass": false,
+          "reason": "0.166 < 1.0"
+        },
+        "win_rate": {
+          "value": 0.4,
+          "pass": false,
+          "reason": "0.4 < 0.5"
+        },
+        "max_dd_pct": {
+          "value": 7.73,
+          "pass": true
+        },
+        "trades": {
+          "value": 15,
+          "pass": false,
+          "reason": "15 < 30"
+        }
+      },
+      "trades": [
+        {
+          "entry_time": "2025-12-17 16:00:00+00:00",
+          "exit_time": "2025-12-18 13:00:00+00:00",
+          "direction": "SHORT",
+          "entry": 87233.44,
+          "sl": 89075.02,
+          "tp": 83550.27,
+          "exit_price": 89075.02,
+          "pnl": -299.9994259938197,
+          "pnl_pct": -2.9999942599381972,
+          "regime": "trend",
+          "context": {
+            "rsi": 46.38,
+            "ema_spread": -145.62,
+            "adx": 35.15,
+            "size": 0.16290328196104403,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-01-04 14:00:00+00:00",
+          "exit_time": "2026-01-05 00:00:00+00:00",
+          "direction": "LONG",
+          "entry": 91264.0,
+          "sl": 90804.12,
+          "tp": 92183.77,
+          "exit_price": 92183.77,
+          "pnl": 582.0028428188724,
+          "pnl_pct": 6.000028952353973,
+          "regime": "trend",
+          "context": {
+            "rsi": 56.17,
+            "ema_spread": -255.24,
+            "adx": 45.78,
+            "size": 0.6327699781672265,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-01-21 17:00:00+00:00",
+          "exit_time": "2026-01-21 19:00:00+00:00",
+          "direction": "SHORT",
+          "entry": 87602.39,
+          "sl": 89018.33,
+          "tp": 84770.52,
+          "exit_price": 89018.33,
+          "pnl": -308.4606854716874,
+          "pnl_pct": -3.000005669779635,
+          "regime": "trend",
+          "context": {
+            "rsi": 36.71,
+            "ema_spread": 472.52,
+            "adx": 29.19,
+            "size": 0.21784869801805648,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-03-10 01:00:00+00:00",
+          "exit_time": "2026-03-10 08:00:00+00:00",
+          "direction": "LONG",
+          "entry": 69157.36,
+          "sl": 68212.64,
+          "tp": 71046.8,
+          "exit_price": 71046.8,
+          "pnl": 598.4110284331953,
+          "pnl_pct": 5.999984604788409,
+          "regime": "trend",
+          "context": {
+            "rsi": 65.12,
+            "ema_spread": -426.83,
+            "adx": 39.04,
+            "size": 0.31671343278071523,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-03-10 15:00:00+00:00",
+          "exit_time": "2026-03-10 18:00:00+00:00",
+          "direction": "LONG",
+          "entry": 71467.81,
+          "sl": 70157.81,
+          "tp": 74087.8,
+          "exit_price": 70157.81,
+          "pnl": -317.15923955329544,
+          "pnl_pct": -3.0000059285134313,
+          "regime": "trend",
+          "context": {
+            "rsi": 65.89,
+            "ema_spread": -708.06,
+            "adx": 45.24,
+            "size": 0.24210628973534,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-03-16 17:00:00+00:00",
+          "exit_time": "2026-03-17 01:00:00+00:00",
+          "direction": "LONG",
+          "entry": 73760.63,
+          "sl": 72711.88,
+          "tp": 75858.12,
+          "exit_price": 75858.12,
+          "pnl": 615.2871254376503,
+          "pnl_pct": 5.999994677842208,
+          "regime": "trend",
+          "context": {
+            "rsi": 60.02,
+            "ema_spread": -409.98,
+            "adx": 29.71,
+            "size": 0.29334448576043415,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-03-25 17:00:00+00:00",
+          "exit_time": "2026-03-26 05:00:00+00:00",
+          "direction": "LONG",
+          "entry": 71324.01,
+          "sl": 70414.32,
+          "tp": 73143.39,
+          "exit_price": 70414.32,
+          "pnl": -326.10306936200686,
+          "pnl_pct": -3.000005703654302,
+          "regime": "transition",
+          "context": {
+            "rsi": 41.33,
+            "ema_spread": -155.08,
+            "adx": 23.66,
+            "size": 0.35847713986304264,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-04-01 15:00:00+00:00",
+          "exit_time": "2026-04-02 01:00:00+00:00",
+          "direction": "LONG",
+          "entry": 68593.56,
+          "sl": 67799.73,
+          "tp": 70181.22,
+          "exit_price": 67799.73,
+          "pnl": -316.3190910068025,
+          "pnl_pct": -2.999997474554194,
+          "regime": "trend",
+          "context": {
+            "rsi": 63.11,
+            "ema_spread": -265.68,
+            "adx": 29.43,
+            "size": 0.39847207967298015,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-04-08 16:00:00+00:00",
+          "exit_time": "2026-04-09 22:00:00+00:00",
+          "direction": "LONG",
+          "entry": 71309.99,
+          "sl": 70423.35,
+          "tp": 73083.27,
+          "exit_price": 73083.27,
+          "pnl": 613.6602383729431,
+          "pnl_pct": 6.000006543577421,
+          "regime": "trend",
+          "context": {
+            "rsi": 55.61,
+            "ema_spread": -378.06,
+            "adx": 48.14,
+            "size": 0.34605941440322086,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-04-22 22:00:00+00:00",
+          "exit_time": "2026-04-23 00:00:00+00:00",
+          "direction": "LONG",
+          "entry": 78762.68,
+          "sl": 78092.67,
+          "tp": 80102.71,
+          "exit_price": 78092.67,
+          "pnl": -325.2371746452385,
+          "pnl_pct": -2.999977705066592,
+          "regime": "trend",
+          "context": {
+            "rsi": 53.17,
+            "ema_spread": -471.89,
+            "adx": 47.21,
+            "size": 0.48542137377836303,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-05-01 22:00:00+00:00",
+          "exit_time": "2026-05-04 01:00:00+00:00",
+          "direction": "LONG",
+          "entry": 78200.0,
+          "sl": 77555.01,
+          "tp": 79489.98,
+          "exit_price": 79489.98,
+          "pnl": 630.9670440300517,
+          "pnl_pct": 6.000019884669538,
+          "regime": "trend",
+          "context": {
+            "rsi": 54.99,
+            "ema_spread": -388.86,
+            "adx": 50.01,
+            "size": 0.4891293229585371,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-05-04 02:00:00+00:00",
+          "exit_time": "2026-05-04 10:00:00+00:00",
+          "direction": "LONG",
+          "entry": 79769.43,
+          "sl": 78931.58,
+          "tp": 81445.12,
+          "exit_price": 78931.58,
+          "pnl": -334.4128727610686,
+          "pnl_pct": -3.000012424536746,
+          "regime": "trend",
+          "context": {
+            "rsi": 78.09,
+            "ema_spread": -352.87,
+            "adx": 42.68,
+            "size": 0.3991321510545708,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-05-05 01:00:00+00:00",
+          "exit_time": "2026-05-05 13:00:00+00:00",
+          "direction": "LONG",
+          "entry": 80170.66,
+          "sl": 79454.91,
+          "tp": 81602.16,
+          "exit_price": 81602.16,
+          "pnl": 648.7582920093267,
+          "pnl_pct": 6.0000008211817475,
+          "regime": "trend",
+          "context": {
+            "rsi": 61.78,
+            "ema_spread": -258.56,
+            "adx": 26.71,
+            "size": 0.4532017408378112,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-05-06 16:00:00+00:00",
+          "exit_time": "2026-05-07 01:00:00+00:00",
+          "direction": "LONG",
+          "entry": 81704.25,
+          "sl": 80945.45,
+          "tp": 83221.84,
+          "exit_price": 80945.45,
+          "pnl": -343.84325032151105,
+          "pnl_pct": -3.000012214501515,
+          "regime": "trend",
+          "context": {
+            "rsi": 46.94,
+            "ema_spread": -155.85,
+            "adx": 25.67,
+            "size": 0.45314081486756685,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-05-10 23:00:00+00:00",
+          "exit_time": "2026-05-11 02:00:00+00:00",
+          "direction": "LONG",
+          "entry": 82044.49,
+          "sl": 81268.8,
+          "tp": 83595.87,
+          "exit_price": 81268.8,
+          "pnl": -333.526035310547,
+          "pnl_pct": -2.9999953447569903,
+          "regime": "trend",
+          "context": {
+            "rsi": 73.15,
+            "ema_spread": -312.2,
+            "adx": 46.96,
+            "size": 0.4299733596031224,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        }
+      ]
+    },
+    {
+      "asset": "ETHUSDT",
+      "pass": false,
+      "metrics": {
+        "pf": 0.895,
+        "sharpe": -0.041,
+        "win_rate": 0.318,
+        "max_dd_pct": 20.89,
+        "trades": 22,
+        "avg_trade": -21.74,
+        "total_return_pct": -4.78
+      },
+      "checks": {
+        "pf": {
+          "value": 0.895,
+          "pass": false,
+          "reason": "0.895 < 1.5"
+        },
+        "sharpe": {
+          "value": -0.041,
+          "pass": false,
+          "reason": "-0.041 < 1.0"
+        },
+        "win_rate": {
+          "value": 0.318,
+          "pass": false,
+          "reason": "0.318 < 0.5"
+        },
+        "max_dd_pct": {
+          "value": 20.89,
+          "pass": false,
+          "reason": "20.89 > 15.0"
+        },
+        "trades": {
+          "value": 22,
+          "pass": false,
+          "reason": "22 < 30"
+        }
+      },
+      "trades": [
+        {
+          "entry_time": "2025-12-10 23:00:00+00:00",
+          "exit_time": "2025-12-11 00:00:00+00:00",
+          "direction": "LONG",
+          "entry": 3346.5,
+          "sl": 3276.34,
+          "tp": 3486.83,
+          "exit_price": 3276.34,
+          "pnl": -299.9867476527242,
+          "pnl_pct": -2.999867476527242,
+          "regime": "trend",
+          "context": {
+            "rsi": 41.39,
+            "ema_spread": -14.26,
+            "adx": 34.86,
+            "size": 4.275751819451608,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2025-12-12 02:00:00+00:00",
+          "exit_time": "2025-12-12 15:00:00+00:00",
+          "direction": "LONG",
+          "entry": 3234.7,
+          "sl": 3171.53,
+          "tp": 3361.04,
+          "exit_price": 3171.53,
+          "pnl": -291.00888148975025,
+          "pnl_pct": -3.0000874629664027,
+          "regime": "transition",
+          "context": {
+            "rsi": 62.95,
+            "ema_spread": -3.51,
+            "adx": 24.54,
+            "size": 4.606757661702581,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2025-12-26 15:00:00+00:00",
+          "exit_time": "2025-12-27 23:00:00+00:00",
+          "direction": "SHORT",
+          "entry": 2917.34,
+          "sl": 2956.38,
+          "tp": 2839.27,
+          "exit_price": 2956.38,
+          "pnl": -282.288698131576,
+          "pnl_pct": -3.000197332311883,
+          "regime": "trend",
+          "context": {
+            "rsi": 35.12,
+            "ema_spread": 1.83,
+            "adx": 32.22,
+            "size": 7.230755587386686,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-01-04 14:00:00+00:00",
+          "exit_time": "2026-01-04 15:00:00+00:00",
+          "direction": "LONG",
+          "entry": 3140.75,
+          "sl": 3121.9,
+          "tp": 3178.45,
+          "exit_price": 3121.9,
+          "pnl": -273.83607451570066,
+          "pnl_pct": -3.000379154289046,
+          "regime": "trend",
+          "context": {
+            "rsi": 48.09,
+            "ema_spread": -5.45,
+            "adx": 25.14,
+            "size": 14.527112706403287,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-01-05 07:00:00+00:00",
+          "exit_time": "2026-01-05 17:00:00+00:00",
+          "direction": "LONG",
+          "entry": 3157.68,
+          "sl": 3127.03,
+          "tp": 3218.97,
+          "exit_price": 3218.97,
+          "pnl": 531.1688184082462,
+          "pnl_pct": 5.99995529720782,
+          "regime": "trend",
+          "context": {
+            "rsi": 48.52,
+            "ema_spread": -7.57,
+            "adx": 26.09,
+            "size": 8.66648422920944,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-01-14 13:00:00+00:00",
+          "exit_time": "2026-01-14 16:00:00+00:00",
+          "direction": "LONG",
+          "entry": 3296.43,
+          "sl": 3260.68,
+          "tp": 3367.92,
+          "exit_price": 3367.92,
+          "pnl": 563.0401846865578,
+          "pnl_pct": 5.999971011332943,
+          "regime": "trend",
+          "context": {
+            "rsi": 50.45,
+            "ema_spread": -23.72,
+            "adx": 48.96,
+            "size": 7.875789406722002,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-01-18 00:00:00+00:00",
+          "exit_time": "2026-01-18 14:00:00+00:00",
+          "direction": "LONG",
+          "entry": 3310.56,
+          "sl": 3295.1,
+          "tp": 3341.47,
+          "exit_price": 3341.47,
+          "pnl": 596.7398419775474,
+          "pnl_pct": 5.999140712381465,
+          "regime": "trend",
+          "context": {
+            "rsi": 43.58,
+            "ema_spread": -2.62,
+            "adx": 30.38,
+            "size": 19.305721189826922,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-01-28 10:00:00+00:00",
+          "exit_time": "2026-01-28 15:00:00+00:00",
+          "direction": "LONG",
+          "entry": 3017.45,
+          "sl": 2984.48,
+          "tp": 3083.38,
+          "exit_price": 2984.48,
+          "pnl": -316.34757865975644,
+          "pnl_pct": -3.0003103745613315,
+          "regime": "trend",
+          "context": {
+            "rsi": 63.75,
+            "ema_spread": -16.79,
+            "adx": 28.6,
+            "size": 9.595013001509201,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-03-01 11:00:00+00:00",
+          "exit_time": "2026-03-01 19:00:00+00:00",
+          "direction": "LONG",
+          "entry": 1984.81,
+          "sl": 1949.44,
+          "tp": 2055.55,
+          "exit_price": 1949.44,
+          "pnl": -306.82950892843576,
+          "pnl_pct": -3.0000496993327848,
+          "regime": "trend",
+          "context": {
+            "rsi": 49.53,
+            "ema_spread": -15.13,
+            "adx": 26.64,
+            "size": 8.674851821556027,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-03-10 01:00:00+00:00",
+          "exit_time": "2026-03-10 16:00:00+00:00",
+          "direction": "LONG",
+          "entry": 2015.37,
+          "sl": 1979.56,
+          "tp": 2086.99,
+          "exit_price": 2086.99,
+          "pnl": 595.2742174817389,
+          "pnl_pct": 6.00035417170521,
+          "regime": "trend",
+          "context": {
+            "rsi": 55.51,
+            "ema_spread": -8.57,
+            "adx": 29.74,
+            "size": 8.311564053082098,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-03-12 01:00:00+00:00",
+          "exit_time": "2026-03-12 02:00:00+00:00",
+          "direction": "LONG",
+          "entry": 2055.78,
+          "sl": 2027.97,
+          "tp": 2111.41,
+          "exit_price": 2027.97,
+          "pnl": -315.4356998125787,
+          "pnl_pct": -2.9995999650015306,
+          "regime": "transition",
+          "context": {
+            "rsi": 41.99,
+            "ema_spread": -5.16,
+            "adx": 24.7,
+            "size": 11.34252786093408,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-03-12 16:00:00+00:00",
+          "exit_time": "2026-03-13 12:00:00+00:00",
+          "direction": "LONG",
+          "entry": 2072.33,
+          "sl": 2033.65,
+          "tp": 2149.7,
+          "exit_price": 2149.7,
+          "pnl": 612.0400454053749,
+          "pnl_pct": 6.000104436195644,
+          "regime": "trend",
+          "context": {
+            "rsi": 60.31,
+            "ema_spread": -7.19,
+            "adx": 31.24,
+            "size": 7.910560235302777,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-03-25 17:00:00+00:00",
+          "exit_time": "2026-03-26 05:00:00+00:00",
+          "direction": "LONG",
+          "entry": 2173.83,
+          "sl": 2143.76,
+          "tp": 2233.97,
+          "exit_price": 2143.76,
+          "pnl": -324.3695445496765,
+          "pnl_pct": -2.9999412439693622,
+          "regime": "transition",
+          "context": {
+            "rsi": 43.21,
+            "ema_spread": -5.32,
+            "adx": 24.34,
+            "size": 10.787148139330883,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-04-01 04:00:00+00:00",
+          "exit_time": "2026-04-01 17:00:00+00:00",
+          "direction": "LONG",
+          "entry": 2102.91,
+          "sl": 2072.35,
+          "tp": 2164.03,
+          "exit_price": 2164.03,
+          "pnl": 629.2553006719552,
+          "pnl_pct": 5.999672756899434,
+          "regime": "trend",
+          "context": {
+            "rsi": 62.58,
+            "ema_spread": -14.4,
+            "adx": 37.39,
+            "size": 10.295407406281932,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-04-06 19:00:00+00:00",
+          "exit_time": "2026-04-06 22:00:00+00:00",
+          "direction": "LONG",
+          "entry": 2144.84,
+          "sl": 2119.59,
+          "tp": 2195.33,
+          "exit_price": 2119.59,
+          "pnl": -333.5847037023677,
+          "pnl_pct": -3.000559783473524,
+          "regime": "trend",
+          "context": {
+            "rsi": 54.39,
+            "ema_spread": -13.46,
+            "adx": 36.04,
+            "size": 13.211275394153175,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-04-08 16:00:00+00:00",
+          "exit_time": "2026-04-08 23:00:00+00:00",
+          "direction": "LONG",
+          "entry": 2215.44,
+          "sl": 2180.06,
+          "tp": 2286.2,
+          "exit_price": 2180.06,
+          "pnl": -323.5292677212464,
+          "pnl_pct": -3.000132963745621,
+          "regime": "trend",
+          "context": {
+            "rsi": 48.08,
+            "ema_spread": -13.66,
+            "adx": 46.68,
+            "size": 9.1444111848854,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-05-03 23:00:00+00:00",
+          "exit_time": "2026-05-04 00:00:00+00:00",
+          "direction": "LONG",
+          "entry": 2343.89,
+          "sl": 2319.83,
+          "tp": 2392.02,
+          "exit_price": 2319.83,
+          "pnl": -313.76994558336196,
+          "pnl_pct": -2.999626153032915,
+          "regime": "trend",
+          "context": {
+            "rsi": 46.28,
+            "ema_spread": -5.99,
+            "adx": 47.24,
+            "size": 13.04114487046395,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-05-04 02:00:00+00:00",
+          "exit_time": "2026-05-04 10:00:00+00:00",
+          "direction": "LONG",
+          "entry": 2351.21,
+          "sl": 2317.9,
+          "tp": 2417.83,
+          "exit_price": 2317.9,
+          "pnl": -304.41239444102393,
+          "pnl_pct": -3.0001620426061715,
+          "regime": "trend",
+          "context": {
+            "rsi": 74.48,
+            "ema_spread": -11.82,
+            "adx": 45.27,
+            "size": 9.13876897151079,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-05-05 11:00:00+00:00",
+          "exit_time": "2026-05-05 22:00:00+00:00",
+          "direction": "LONG",
+          "entry": 2378.42,
+          "sl": 2357.92,
+          "tp": 2419.43,
+          "exit_price": 2357.92,
+          "pnl": -295.19179865154945,
+          "pnl_pct": -2.999270662658148,
+          "regime": "trend",
+          "context": {
+            "rsi": 60.34,
+            "ema_spread": -7.44,
+            "adx": 26.64,
+            "size": 14.399599934221925,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-05-08 13:00:00+00:00",
+          "exit_time": "2026-05-08 17:00:00+00:00",
+          "direction": "SHORT",
+          "entry": 2284.53,
+          "sl": 2304.13,
+          "tp": 2245.34,
+          "exit_price": 2304.13,
+          "pnl": -286.4485630924352,
+          "pnl_pct": -3.000426693807076,
+          "regime": "trend",
+          "context": {
+            "rsi": 36.44,
+            "ema_spread": 6.34,
+            "adx": 28.21,
+            "size": 14.614722606756967,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-05-10 23:00:00+00:00",
+          "exit_time": "2026-05-11 03:00:00+00:00",
+          "direction": "LONG",
+          "entry": 2373.78,
+          "sl": 2343.2,
+          "tp": 2434.94,
+          "exit_price": 2343.2,
+          "pnl": -277.8320437106588,
+          "pnl_pct": -3.000190850383424,
+          "regime": "trend",
+          "context": {
+            "rsi": 65.13,
+            "ema_spread": -11.37,
+            "adx": 36.73,
+            "size": 9.085416733507369,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-05-18 14:00:00+00:00",
+          "exit_time": "2026-05-22 19:00:00+00:00",
+          "direction": "SHORT",
+          "entry": 2130.9,
+          "sl": 2159.85,
+          "tp": 2072.99,
+          "exit_price": 2072.99,
+          "pnl": 539.0042925063369,
+          "pnl_pct": 6.0005062541947245,
+          "regime": "trend",
+          "context": {
+            "rsi": 36.01,
+            "ema_spread": 11.6,
+            "adx": 41.01,
+            "size": 9.307620316116976,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        }
+      ]
+    },
+    {
+      "asset": "DOGEUSDT",
+      "pass": false,
+      "metrics": {
+        "pf": 2.459,
+        "sharpe": 0.38,
+        "win_rate": 0.211,
+        "max_dd_pct": 16.43,
+        "trades": 19,
+        "avg_trade": 245.06,
+        "total_return_pct": 46.56
+      },
+      "checks": {
+        "pf": {
+          "value": 2.459,
+          "pass": true
+        },
+        "sharpe": {
+          "value": 0.38,
+          "pass": false,
+          "reason": "0.38 < 1.0"
+        },
+        "win_rate": {
+          "value": 0.211,
+          "pass": false,
+          "reason": "0.211 < 0.5"
+        },
+        "max_dd_pct": {
+          "value": 16.43,
+          "pass": false,
+          "reason": "16.43 > 15.0"
+        },
+        "trades": {
+          "value": 19,
+          "pass": false,
+          "reason": "19 < 30"
+        }
+      },
+      "trades": [
+        {
+          "entry_time": "2025-12-17 16:00:00+00:00",
+          "exit_time": "2025-12-18 14:00:00+00:00",
+          "direction": "SHORT",
+          "entry": 0.13,
+          "sl": 0.13,
+          "tp": 0.12,
+          "exit_price": 0.13,
+          "pnl": 0.0,
+          "pnl_pct": 0.0,
+          "regime": "trend",
+          "context": {
+            "rsi": 33.7,
+            "ema_spread": 0.0,
+            "adx": 31.12,
+            "size": 76978.05074123498,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-01-03 09:00:00+00:00",
+          "exit_time": "2026-01-04 03:00:00+00:00",
+          "direction": "LONG",
+          "entry": 0.14,
+          "sl": 0.14,
+          "tp": 0.15,
+          "exit_price": 0.15,
+          "pnl": 863.5054864112302,
+          "pnl_pct": 8.635054864112302,
+          "regime": "trend",
+          "context": {
+            "rsi": 60.18,
+            "ema_spread": -0.0,
+            "adx": 37.05,
+            "size": 86350.54864112318,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-01-14 13:00:00+00:00",
+          "exit_time": "2026-01-14 16:00:00+00:00",
+          "direction": "LONG",
+          "entry": 0.15,
+          "sl": 0.14,
+          "tp": 0.15,
+          "exit_price": 0.15,
+          "pnl": 0.0,
+          "pnl_pct": 0.0,
+          "regime": "trend",
+          "context": {
+            "rsi": 40.28,
+            "ema_spread": -0.0,
+            "adx": 37.53,
+            "size": 157048.43557640223,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-01-14 20:00:00+00:00",
+          "exit_time": "2026-01-15 18:00:00+00:00",
+          "direction": "LONG",
+          "entry": 0.15,
+          "sl": 0.14,
+          "tp": 0.15,
+          "exit_price": 0.14,
+          "pnl": -1017.1141752915422,
+          "pnl_pct": -9.362670056767715,
+          "regime": "transition",
+          "context": {
+            "rsi": 46.78,
+            "ema_spread": -0.0,
+            "adx": 24.55,
+            "size": 101711.41752915441,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-01-19 22:00:00+00:00",
+          "exit_time": "2026-01-19 23:00:00+00:00",
+          "direction": "SHORT",
+          "entry": 0.13,
+          "sl": 0.13,
+          "tp": 0.13,
+          "exit_price": 0.13,
+          "pnl": 0.0,
+          "pnl_pct": 0.0,
+          "regime": "trend",
+          "context": {
+            "rsi": 43.24,
+            "ema_spread": 0.0,
+            "adx": 28.0,
+            "size": 187723.5041540504,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-01-21 17:00:00+00:00",
+          "exit_time": "2026-01-21 18:00:00+00:00",
+          "direction": "SHORT",
+          "entry": 0.12,
+          "sl": 0.12,
+          "tp": 0.11,
+          "exit_price": 0.12,
+          "pnl": 0.0,
+          "pnl_pct": 0.0,
+          "regime": "trend",
+          "context": {
+            "rsi": 39.91,
+            "ema_spread": 0.0,
+            "adx": 31.22,
+            "size": 94807.66555431175,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-02-08 10:00:00+00:00",
+          "exit_time": "2026-02-11 09:00:00+00:00",
+          "direction": "SHORT",
+          "entry": 0.1,
+          "sl": 0.1,
+          "tp": 0.09,
+          "exit_price": 0.09,
+          "pnl": 1728.9426972239162,
+          "pnl_pct": 17.559150785236348,
+          "regime": "transition",
+          "context": {
+            "rsi": 40.71,
+            "ema_spread": 0.0,
+            "adx": 22.61,
+            "size": 172894.26972239147,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-02-26 02:00:00+00:00",
+          "exit_time": "2026-02-26 05:00:00+00:00",
+          "direction": "LONG",
+          "entry": 0.1,
+          "sl": 0.1,
+          "tp": 0.11,
+          "exit_price": 0.1,
+          "pnl": 0.0,
+          "pnl_pct": 0.0,
+          "regime": "trend",
+          "context": {
+            "rsi": 54.66,
+            "ema_spread": -0.0,
+            "adx": 38.32,
+            "size": 119363.791762328,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-03-08 12:00:00+00:00",
+          "exit_time": "2026-03-08 13:00:00+00:00",
+          "direction": "SHORT",
+          "entry": 0.09,
+          "sl": 0.09,
+          "tp": 0.09,
+          "exit_price": 0.09,
+          "pnl": 0.0,
+          "pnl_pct": 0.0,
+          "regime": "trend",
+          "context": {
+            "rsi": 38.69,
+            "ema_spread": 0.0,
+            "adx": 35.4,
+            "size": 258436.72986896554,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-03-10 21:00:00+00:00",
+          "exit_time": "2026-03-13 11:00:00+00:00",
+          "direction": "LONG",
+          "entry": 0.09,
+          "sl": 0.09,
+          "tp": 0.1,
+          "exit_price": 0.1,
+          "pnl": 1332.9386227959933,
+          "pnl_pct": 11.515336160798464,
+          "regime": "trend",
+          "context": {
+            "rsi": 41.61,
+            "ema_spread": -0.0,
+            "adx": 41.89,
+            "size": 133293.8622795992,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-03-13 16:00:00+00:00",
+          "exit_time": "2026-03-13 17:00:00+00:00",
+          "direction": "LONG",
+          "entry": 0.1,
+          "sl": 0.1,
+          "tp": 0.1,
+          "exit_price": 0.1,
+          "pnl": 0.0,
+          "pnl_pct": 0.0,
+          "regime": "trend",
+          "context": {
+            "rsi": 47.8,
+            "ema_spread": -0.0,
+            "adx": 42.28,
+            "size": 163714.65460933806,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-03-25 17:00:00+00:00",
+          "exit_time": "2026-03-25 18:00:00+00:00",
+          "direction": "LONG",
+          "entry": 0.1,
+          "sl": 0.1,
+          "tp": 0.1,
+          "exit_price": 0.1,
+          "pnl": 0.0,
+          "pnl_pct": 0.0,
+          "regime": "trend",
+          "context": {
+            "rsi": 46.37,
+            "ema_spread": -0.0,
+            "adx": 32.88,
+            "size": 271234.2252268655,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-03-29 23:00:00+00:00",
+          "exit_time": "2026-03-30 00:00:00+00:00",
+          "direction": "SHORT",
+          "entry": 0.09,
+          "sl": 0.09,
+          "tp": 0.09,
+          "exit_price": 0.09,
+          "pnl": 0.0,
+          "pnl_pct": 0.0,
+          "regime": "trend",
+          "context": {
+            "rsi": 45.57,
+            "ema_spread": 0.0,
+            "adx": 31.49,
+            "size": 274087.5349512972,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-04-01 20:00:00+00:00",
+          "exit_time": "2026-04-02 02:00:00+00:00",
+          "direction": "LONG",
+          "entry": 0.09,
+          "sl": 0.09,
+          "tp": 0.1,
+          "exit_price": 0.09,
+          "pnl": 0.0,
+          "pnl_pct": 0.0,
+          "regime": "trend",
+          "context": {
+            "rsi": 47.91,
+            "ema_spread": -0.0,
+            "adx": 28.63,
+            "size": 319037.21545780107,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-04-14 07:00:00+00:00",
+          "exit_time": "2026-04-17 12:00:00+00:00",
+          "direction": "LONG",
+          "entry": 0.09,
+          "sl": 0.09,
+          "tp": 0.1,
+          "exit_price": 0.1,
+          "pnl": 3921.3274986902184,
+          "pnl_pct": 30.37840624182747,
+          "regime": "trend",
+          "context": {
+            "rsi": 60.73,
+            "ema_spread": -0.0,
+            "adx": 40.74,
+            "size": 392132.74986902147,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-04-22 18:00:00+00:00",
+          "exit_time": "2026-04-22 19:00:00+00:00",
+          "direction": "LONG",
+          "entry": 0.1,
+          "sl": 0.1,
+          "tp": 0.1,
+          "exit_price": 0.1,
+          "pnl": 0.0,
+          "pnl_pct": 0.0,
+          "regime": "trend",
+          "context": {
+            "rsi": 46.52,
+            "ema_spread": -0.0,
+            "adx": 29.59,
+            "size": 409177.1645046446,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-05-08 17:00:00+00:00",
+          "exit_time": "2026-05-09 01:00:00+00:00",
+          "direction": "SHORT",
+          "entry": 0.11,
+          "sl": 0.11,
+          "tp": 0.1,
+          "exit_price": 0.11,
+          "pnl": 0.0,
+          "pnl_pct": 0.0,
+          "regime": "trend",
+          "context": {
+            "rsi": 61.17,
+            "ema_spread": 0.0,
+            "adx": 27.7,
+            "size": 361166.5959159427,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-05-10 23:00:00+00:00",
+          "exit_time": "2026-05-11 00:00:00+00:00",
+          "direction": "LONG",
+          "entry": 0.11,
+          "sl": 0.11,
+          "tp": 0.12,
+          "exit_price": 0.11,
+          "pnl": 0.0,
+          "pnl_pct": 0.0,
+          "regime": "trend",
+          "context": {
+            "rsi": 69.62,
+            "ema_spread": -0.0,
+            "adx": 31.99,
+            "size": 193469.99050692268,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-05-15 01:00:00+00:00",
+          "exit_time": "2026-05-16 07:00:00+00:00",
+          "direction": "LONG",
+          "entry": 0.12,
+          "sl": 0.11,
+          "tp": 0.12,
+          "exit_price": 0.11,
+          "pnl": -2173.451343702704,
+          "pnl_pct": -12.91445623743814,
+          "regime": "trend",
+          "context": {
+            "rsi": 53.14,
+            "ema_spread": -0.0,
+            "adx": 33.84,
+            "size": 217345.1343702705,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        }
+      ]
+    },
+    {
+      "asset": "SOLUSDT",
+      "pass": false,
+      "metrics": {
+        "pf": 0.855,
+        "sharpe": -0.066,
+        "win_rate": 0.308,
+        "max_dd_pct": 12.71,
+        "trades": 13,
+        "avg_trade": -31.12,
+        "total_return_pct": -4.05
+      },
+      "checks": {
+        "pf": {
+          "value": 0.855,
+          "pass": false,
+          "reason": "0.855 < 1.5"
+        },
+        "sharpe": {
+          "value": -0.066,
+          "pass": false,
+          "reason": "-0.066 < 1.0"
+        },
+        "win_rate": {
+          "value": 0.308,
+          "pass": false,
+          "reason": "0.308 < 0.5"
+        },
+        "max_dd_pct": {
+          "value": 12.71,
+          "pass": true
+        },
+        "trades": {
+          "value": 13,
+          "pass": false,
+          "reason": "13 < 30"
+        }
+      },
+      "trades": [
+        {
+          "entry_time": "2025-12-09 23:00:00+00:00",
+          "exit_time": "2025-12-10 22:00:00+00:00",
+          "direction": "LONG",
+          "entry": 138.77,
+          "sl": 135.49,
+          "tp": 145.33,
+          "exit_price": 135.49,
+          "pnl": -300.1555041298655,
+          "pnl_pct": -3.001555041298655,
+          "regime": "trend",
+          "context": {
+            "rsi": 49.08,
+            "ema_spread": -1.61,
+            "adx": 28.56,
+            "size": 91.51082442983702,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2025-12-17 16:00:00+00:00",
+          "exit_time": "2025-12-18 19:00:00+00:00",
+          "direction": "SHORT",
+          "entry": 126.76,
+          "sl": 130.91,
+          "tp": 118.46,
+          "exit_price": 118.46,
+          "pnl": 582.0551331849047,
+          "pnl_pct": 6.00066458212525,
+          "regime": "transition",
+          "context": {
+            "rsi": 36.38,
+            "ema_spread": 0.23,
+            "adx": 24.43,
+            "size": 70.1271244801089,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-01-04 21:00:00+00:00",
+          "exit_time": "2026-01-05 01:00:00+00:00",
+          "direction": "LONG",
+          "entry": 134.04,
+          "sl": 132.75,
+          "tp": 136.62,
+          "exit_price": 136.62,
+          "pnl": 616.25457954856,
+          "pnl_pct": 5.9935868057603,
+          "regime": "trend",
+          "context": {
+            "rsi": 43.93,
+            "ema_spread": -0.19,
+            "adx": 31.17,
+            "size": 238.85836416610735,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-01-05 07:00:00+00:00",
+          "exit_time": "2026-01-05 13:00:00+00:00",
+          "direction": "LONG",
+          "entry": 135.63,
+          "sl": 133.88,
+          "tp": 139.13,
+          "exit_price": 133.88,
+          "pnl": -327.3231864105251,
+          "pnl_pct": -3.0034736171389307,
+          "regime": "transition",
+          "context": {
+            "rsi": 52.14,
+            "ema_spread": -0.52,
+            "adx": 23.56,
+            "size": 187.04182080601436,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-01-14 07:00:00+00:00",
+          "exit_time": "2026-01-15 15:00:00+00:00",
+          "direction": "LONG",
+          "entry": 144.7,
+          "sl": 142.58,
+          "tp": 148.94,
+          "exit_price": 142.58,
+          "pnl": -317.08369850763097,
+          "pnl_pct": -2.999609944023562,
+          "regime": "trend",
+          "context": {
+            "rsi": 53.01,
+            "ema_spread": -0.85,
+            "adx": 49.61,
+            "size": 149.56778231492194,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-01-21 17:00:00+00:00",
+          "exit_time": "2026-01-21 19:00:00+00:00",
+          "direction": "SHORT",
+          "entry": 125.58,
+          "sl": 128.26,
+          "tp": 120.22,
+          "exit_price": 128.26,
+          "pnl": -307.8714473226025,
+          "pnl_pct": -3.002526175103232,
+          "regime": "trend",
+          "context": {
+            "rsi": 45.58,
+            "ema_spread": 0.26,
+            "adx": 27.5,
+            "size": 114.87740571738931,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-01-30 21:00:00+00:00",
+          "exit_time": "2026-01-31 14:00:00+00:00",
+          "direction": "SHORT",
+          "entry": 117.01,
+          "sl": 119.65,
+          "tp": 111.73,
+          "exit_price": 111.73,
+          "pnl": 596.381829215616,
+          "pnl_pct": 5.9962725920696895,
+          "regime": "trend",
+          "context": {
+            "rsi": 54.62,
+            "ema_spread": -0.1,
+            "adx": 25.57,
+            "size": 112.95110401810906,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-02-21 22:00:00+00:00",
+          "exit_time": "2026-02-22 00:00:00+00:00",
+          "direction": "LONG",
+          "entry": 85.83,
+          "sl": 84.9,
+          "tp": 87.69,
+          "exit_price": 84.9,
+          "pnl": -315.65362264407327,
+          "pnl_pct": -2.99417479120288,
+          "regime": "trend",
+          "context": {
+            "rsi": 45.31,
+            "ema_spread": -0.37,
+            "adx": 28.44,
+            "size": 339.41249746674816,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-03-01 11:00:00+00:00",
+          "exit_time": "2026-03-01 17:00:00+00:00",
+          "direction": "LONG",
+          "entry": 85.23,
+          "sl": 83.48,
+          "tp": 88.74,
+          "exit_price": 83.48,
+          "pnl": -306.32312044182476,
+          "pnl_pct": -2.9953552318799614,
+          "regime": "trend",
+          "context": {
+            "rsi": 46.81,
+            "ema_spread": -0.79,
+            "adx": 32.42,
+            "size": 175.04178310961416,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-03-12 16:00:00+00:00",
+          "exit_time": "2026-03-13 00:00:00+00:00",
+          "direction": "LONG",
+          "entry": 86.57,
+          "sl": 84.74,
+          "tp": 90.23,
+          "exit_price": 90.23,
+          "pnl": 595.251405466025,
+          "pnl_pct": 6.00034825340736,
+          "regime": "transition",
+          "context": {
+            "rsi": 56.77,
+            "ema_spread": -0.16,
+            "adx": 23.52,
+            "size": 162.6369960289681,
+            "rr": 2.0
+          },
+          "status": "CLOSED_TP"
+        },
+        {
+          "entry_time": "2026-03-13 17:00:00+00:00",
+          "exit_time": "2026-03-14 06:00:00+00:00",
+          "direction": "LONG",
+          "entry": 89.6,
+          "sl": 87.57,
+          "tp": 93.66,
+          "exit_price": 87.57,
+          "pnl": -315.6733606359693,
+          "pnl_pct": -3.0019722215666773,
+          "regime": "trend",
+          "context": {
+            "rsi": 41.76,
+            "ema_spread": -0.58,
+            "adx": 28.76,
+            "size": 155.50411853988626,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-03-25 17:00:00+00:00",
+          "exit_time": "2026-03-26 02:00:00+00:00",
+          "direction": "LONG",
+          "entry": 92.21,
+          "sl": 90.89,
+          "tp": 94.84,
+          "exit_price": 90.89,
+          "pnl": -306.8573867072154,
+          "pnl_pct": -3.0084473372319995,
+          "regime": "trend",
+          "context": {
+            "rsi": 43.29,
+            "ema_spread": -0.31,
+            "adx": 25.59,
+            "size": 232.46771720243711,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        },
+        {
+          "entry_time": "2026-04-22 18:00:00+00:00",
+          "exit_time": "2026-04-22 23:00:00+00:00",
+          "direction": "LONG",
+          "entry": 87.83,
+          "sl": 86.83,
+          "tp": 89.82,
+          "exit_price": 86.83,
+          "pnl": -297.54016010566266,
+          "pnl_pct": -3.0075822436502753,
+          "regime": "trend",
+          "context": {
+            "rsi": 47.59,
+            "ema_spread": -0.42,
+            "adx": 44.54,
+            "size": 297.54016010566266,
+            "rr": 2.0
+          },
+          "status": "CLOSED_SL"
+        }
+      ]
+    }
+  ]
+}
