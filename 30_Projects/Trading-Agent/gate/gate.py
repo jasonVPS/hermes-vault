@@ -1,5 +1,6 @@
 """
 Multi-Asset Gate. Evaluates strategy on all assets, returns PASS/FAIL.
+Uses 4h multi-timeframe confirmation.
 """
 import json
 import sys
@@ -20,9 +21,18 @@ RULES = {
 
 ASSETS = ["BTCUSDT", "ETHUSDT", "DOGEUSDT", "SOLUSDT"]
 
+class StrategyWrapper:
+    """Wraps RegimeAwareStrategy and injects 4h data for MTF confirmation."""
+    def __init__(self, base, df_4h):
+        self.base = base
+        self.df_4h = df_4h
+    def generate_signals(self, df):
+        return self.base.generate_signals(df, self.df_4h)
+
 def evaluate(asset_data: Dict) -> Dict:
     """Run backtest and return results + PASS/FAIL per metric."""
-    strategy = RegimeAwareStrategy()
+    strat = RegimeAwareStrategy()
+    strategy = StrategyWrapper(strat, asset_data["4h"])
     engine = BacktestEngine(asset_data["1h"], strategy, initial_capital=10000.0)
     result = engine.run()
 
