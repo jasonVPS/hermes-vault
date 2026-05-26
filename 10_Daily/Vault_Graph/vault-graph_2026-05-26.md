@@ -7,14 +7,14 @@ tags: [system, vault, graph]
 # Vault Knowledge Graph -- 2026-05-26
 
 ## Stats
-- Total Notes: 1443
-- Total Links: 1723
+- Total Notes: 1444
+- Total Links: 1721
 - Broken Links: 0
 - Orphan Notes: 6
 
 ## Top Hub Notes
-1. [[10_Daily/Vault_Graph/vault-graph_2026-05-26]] -- 9 out, 0 in
-2. [[10_Daily/Vault_Graph/vault-graph_2026-05-20]] -- 7 out, 2 in
+1. [[10_Daily/Vault_Graph/vault-graph_2026-05-20]] -- 7 out, 2 in
+2. [[10_Daily/Vault_Graph/vault-graph_2026-05-26]] -- 7 out, 1 in
 3. [[00_Inbox/2026/05/2026-05-16-hermes-agents-obsidian-team]] -- 5 out, 7 in
 4. [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -- 4 out, 1 in
 5. [[10_Daily/Vault_Graph/vault-graph_2026-05-22]] -- 4 out, 1 in
@@ -40,4 +40,4 @@ tags: [system, vault, graph]
 - #security: 207 notes
 
 ---
-*Auto-generated at 09:29:58*
+*Auto-generated at 10:37:59*
