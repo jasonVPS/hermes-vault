@@ -8,7 +8,7 @@ Aktualisiert: 2026-05-23
 
 > **Hinweis:** Alle Skills (Builtin + Custom) sind konsolidiert unter `/opt/data/skills/`. Custom Skills aus `~/.hermes/skills/` wurden migriert.
 >
-> **Hinweis 2 (2026-05-26):** Fix-Agent und Skill-Drift-Check hinzugefügt. Auto-Sanitierung für Import-Skripte aktiv.
+> **Hinweis 2 (2026-05-26):** Fix-Agent (07:00 täglich), Skill-Drift-Check (08:00 sonntags) und **Vault Auto-Commit (alle 5 Min.)** aktiv. Letzterer committet und pushed alle Session-Änderungen automatisch. Skill-Drift-Check pingt nur bei echtem Drift (stdout-Pattern), sonst silent.
 
 ## Custom Skills (selbst erstellt/importiert)
 
