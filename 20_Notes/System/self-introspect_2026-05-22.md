@@ -121,4 +121,4 @@ tags: [system, self-modification, meta, dev, tech]
 *Auto-generated at 05:00:56*
 
 ## Siehe auch
-- [[40_Areas/dev-news-index.md|Dev-News Index]]
+- `Dev-News Index`

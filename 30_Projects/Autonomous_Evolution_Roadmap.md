@@ -69,7 +69,7 @@ Das Vault ist kein Filesystem, sondern ein **Wissensnetzwerk**.
 - **Script:** `vault-graph.py` (läuft täglich 04:00)
 - **Funktion:**
   - Parst alle `.md`-Files im Vault
-  - Extrahiert `[[Links]]`, Tags, Frontmatter
+  - Extrahiert ``Links``, Tags, Frontmatter
   - Berechnet: Orphan-Score, Hub-Score, Broken-Links
   - Generiert: Graph-Visualisierung (HTML/JSON)
   - Schreibt Report nach `20_Notes/System/vault-graph_YYYY-MM-DD.md`

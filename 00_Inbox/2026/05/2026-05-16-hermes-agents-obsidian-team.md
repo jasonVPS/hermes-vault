@@ -29,7 +29,7 @@ Transkript: YouTube blockiert API-Zugriff (Bot-Check). Versucht mit yt-dlp, curl
 - **Kontext:** Ich habe bisher nur einen Agenten (Hermes im Terminal). Das Video ist recherchiertes Material, keine Beschreibung meines aktuellen Setups.
 
 ## Anschlüsse gesucht
-- [[hermes-agent-setup]] (noch nicht vorhanden)
+- `hermes-agent-setup` (noch nicht vorhanden)
 - [[obsidian-git-sync]] (noch nicht vorhanden)
 - [[multi-agent-second-brain]] (noch nicht vorhanden)
 

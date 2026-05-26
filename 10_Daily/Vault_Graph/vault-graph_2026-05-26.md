@@ -8,32 +8,24 @@ tags: [system, vault, graph]
 
 ## Stats
 - Total Notes: 1443
-- Total Links: 1718
-- Broken Links: 694
-- Orphan Notes: 2
+- Total Links: 1723
+- Broken Links: 0
+- Orphan Notes: 6
 
 ## Top Hub Notes
-1. [[10_Daily/Vault_Graph/vault-graph_2026-05-20]] -- 7 out, 1 in
-2. [[00_Inbox/2026/05/2026-05-16-hermes-agents-obsidian-team]] -- 5 out, 6 in
-3. [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -- 4 out, 0 in
-4. [[10_Daily/Vault_Graph/vault-graph_2026-05-22]] -- 4 out, 0 in
-5. [[10_Daily/Vault_Graph/vault-graph_2026-05-24]] -- 4 out, 0 in
+1. [[10_Daily/Vault_Graph/vault-graph_2026-05-26]] -- 9 out, 0 in
+2. [[10_Daily/Vault_Graph/vault-graph_2026-05-20]] -- 7 out, 2 in
+3. [[00_Inbox/2026/05/2026-05-16-hermes-agents-obsidian-team]] -- 5 out, 7 in
+4. [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -- 4 out, 1 in
+5. [[10_Daily/Vault_Graph/vault-graph_2026-05-22]] -- 4 out, 1 in
 
 ## Orphan Notes
-- [[20_Notes/System/self-introspect_2026-05-26]]
-- [[20_Notes/System/metrics_2026-05-26]]
-
-## Broken Links
-- [[10_Daily/health-check_2026-05-21]] -> `40_Areas/health-index.md` (not found)
-- [[10_Daily/2026/05/2026-05-16]] -> `2026-05-16-session-hermes-coding-agent` (not found)
-- [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -> `10_Daily/reflection_2026-05-21_06-00` (not found)
-- [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -> `10_Daily/reflection_2026-05-21_09-30` (not found)
-- [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -> `10_Daily/reflection_2026-05-21_10-32` (not found)
-- [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -> `10_Daily/reflection_2026-05-21_13-20` (not found)
-- [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -> `10_Daily/reflection_2026-05-22_10-00` (not found)
-- [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -> `10_Daily/reflection_2026-05-22_15-20` (not found)
-- [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -> `10_Daily/reflection_2026-05-23_20-30` (not found)
-- [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -> `10_Daily/vault-graph_2026-05-20` (not found)
+- [[30_Projects/Trading-Agent/01_Gate]]
+- [[30_Projects/Trading-Agent/02_Backtest-Engine]]
+- [[30_Projects/Trading-Agent/state/logs/reflection_20260525_1308]]
+- [[30_Projects/Trading-Agent/state/logs/reflection_20260525_1314]]
+- [[20_Notes/System/metrics_2026-05-22]]
+- [[20_Notes/System/self-introspect_2026-05-22]]
 
 ## Top Tags
 - #rss: 1191 notes
@@ -48,4 +40,4 @@ tags: [system, vault, graph]
 - #security: 207 notes
 
 ---
-*Auto-generated at 09:17:22*
+*Auto-generated at 09:29:58*

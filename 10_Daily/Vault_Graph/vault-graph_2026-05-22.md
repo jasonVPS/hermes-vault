@@ -13,8 +13,8 @@ tags: [system, vault, graph, dev, tech]
 - Orphan Notes: 1
 
 ## Top Hub Notes
-1. [[10_Daily/vault-graph_2026-05-21]] -- 15 out, 1 in
-2. [[10_Daily/vault-graph_2026-05-20]] -- 12 out, 3 in
+1. `10_Daily/vault-graph_2026-05-21` -- 15 out, 1 in
+2. `10_Daily/vault-graph_2026-05-20` -- 12 out, 3 in
 3. [[00_Inbox/2026/05/2026-05-16-hermes-agents-obsidian-team]] -- 5 out, 3 in
 4. [[20_Notes/RSS/2026-05-17/AINews_Agents_for_Everything_Else_Codex_for_Knowledge_Work_Claude_for_Creative_W]] -- 4 out, 2 in
 5. [[20_Notes/RSS/2026-05-17/AINews_GPT-Realtime-2_-Translate_and_-Whisper_new_SOTA_realtime_voice_APIs]] -- 4 out, 2 in
@@ -23,16 +23,16 @@ tags: [system, vault, graph, dev, tech]
 - [[20_Notes/System/metrics_2026-05-21]]
 
 ## Broken Links
-- [[10_Daily/reflection_2026-05-21_06-00]] -> `wiki-links` (not found)
-- [[10_Daily/reflection_2026-05-22_00-20]] -> `...` (not found)
-- [[10_Daily/reflection_2026-05-22_00-20]] -> `internal_links` (not found)
-- [[10_Daily/reflection_2026-05-22_00-20]] -> `link` (not found)
-- [[10_Daily/reflection_2026-05-20_19-30]] -> `...` (not found)
-- [[10_Daily/reflection_2026-05-21_04-10]] -> `reflection_*` (not found)
-- [[10_Daily/reflection_2026-05-21_08-10]] -> `...` (not found)
-- [[10_Daily/reflection_2026-05-20_18-21]] -> `WikiLink` (not found)
-- [[10_Daily/reflection_2026-05-20_18-41]] -> `WikiLinks` (not found)
-- [[10_Daily/reflection_2026-05-21_01-40]] -> `link` (not found)
+- `10_Daily/reflection_2026-05-21_06-00` -> `wiki-links` (not found)
+- `10_Daily/reflection_2026-05-22_00-20` -> `...` (not found)
+- `10_Daily/reflection_2026-05-22_00-20` -> `internal_links` (not found)
+- `10_Daily/reflection_2026-05-22_00-20` -> `link` (not found)
+- `10_Daily/reflection_2026-05-20_19-30` -> `...` (not found)
+- `10_Daily/reflection_2026-05-21_04-10` -> `reflection_*` (not found)
+- `10_Daily/reflection_2026-05-21_08-10` -> `...` (not found)
+- `10_Daily/reflection_2026-05-20_18-21` -> `WikiLink` (not found)
+- `10_Daily/reflection_2026-05-20_18-41` -> `WikiLinks` (not found)
+- `10_Daily/reflection_2026-05-21_01-40` -> `link` (not found)
 
 ## Top Tags
 - #rss: 1018 notes
@@ -50,4 +50,4 @@ tags: [system, vault, graph, dev, tech]
 *Auto-generated at 04:00:57*
 
 ## Siehe auch
-- [[40_Areas/dev-news-index.md|Dev-News Index]]
+- `Dev-News Index`

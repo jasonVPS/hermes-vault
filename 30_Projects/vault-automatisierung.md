@@ -28,9 +28,9 @@ tags: [automation, productivity, project, tech, vault]
 - [ ] Duplikat-Erkennung verbessern
 
 ## Ressourcen
-- [[50_Resources/scripts/feed-to-vault.py|Feed Script]]
-- [[50_Resources/scripts/vault-curator-full.py|Curator Script]]
-- [[50_Resources/scripts/update-indices.py|Index Updater]]
+- `Feed Script`
+- `Curator Script`
+- `Index Updater`
 - [[_meta/LINKING-STRATEGY]]
 
 ## Notizen
