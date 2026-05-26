@@ -7,6 +7,8 @@ tags: [ai, dev, productivity]
 Aktualisiert: 2026-05-23
 
 > **Hinweis:** Alle Skills (Builtin + Custom) sind konsolidiert unter `/opt/data/skills/`. Custom Skills aus `~/.hermes/skills/` wurden migriert.
+>
+> **Hinweis 2 (2026-05-26):** Fix-Agent und Skill-Drift-Check hinzugefügt. Auto-Sanitierung für Import-Skripte aktiv.
 
 ## Custom Skills (selbst erstellt/importiert)
 
