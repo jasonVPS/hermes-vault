@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-25
+updated: 2026-05-26
 type: index
 status: permanent
 tags: [area, finance, index]
@@ -8,10 +8,11 @@ tags: [area, finance, index]
 
 # Finance Index
 
-> Auto-generated index. Updated: 2026-05-25 06:01
+> Auto-generated index. Updated: 2026-05-26 06:02
 
 ## Einträge
 
+- [[20_Notes/RSS/2026-05-26/Lazarus_Deploys_RemotePE_Memory-Only_RAT_Against_Financial_and_Crypto_Firms.md|Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms]]
 - [[20_Notes/RSS/2026-05-22/FTC_to_Require_Cox_Media_Group_Two_Other_Firms_to_Pay_Nearly_1_Million_to_Settle.md|FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service]]
 - [[20_Notes/RSS/2026-05-21/Were_announcing_new_community_investments_in_Missouri.md|We’re announcing new community investments in Missouri.]]
 - [[20_Notes/RSS/2026-05-20/GitHub_Investigating_TeamPCP_Claimed_Breach_of_4000_Internal_Repositories.md|GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories]]
@@ -29,7 +30,10 @@ tags: [area, finance, index]
 - [[20_Notes/RSS/2026-05-19/Bringing_people_together_at_AI_for_the_Economy_Forum.md|Bringing people together at AI for the Economy Forum]]
 - [[20_Notes/RSS/2026-05-18/Import_AI_442_Winners_and_losers_in_the_AI_economy_math_proof_automation_and_ind.md|Import AI 442: Winners and losers in the AI economy; math proof automation; and industrialization of cyber espionage]]
 - [[30_Projects/TradingAgent/Gate_03_AutonomousAgent_35pct30days.md|Gate_03_AutonomousAgent_35pct30days]]
+- [[30_Projects/Trading-Agent/01_Gate.md|01_Gate]]
+- [[30_Projects/Trading-Agent/02_Backtest-Engine.md|02_Backtest-Engine]]
 - [[30_Projects/Trading-Agent/00_ROADMAP.md|00_ROADMAP]]
+- [[30_Projects/Trading-Agent/state/logs/reflection_20260525_1314.md|reflection_20260525_1314]]
 ## Siehe auch
 - [[_meta/index/MOC|Master of Ceremonies]]
 - [[_meta/LINKING-STRATEGY|Lazy Linking Strategie]]

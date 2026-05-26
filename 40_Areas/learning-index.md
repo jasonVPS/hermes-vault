@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-25
+updated: 2026-05-26
 type: index
 status: permanent
 tags: [area, index, learning]
@@ -8,10 +8,11 @@ tags: [area, index, learning]
 
 # Learning Index
 
-> Auto-generated index. Updated: 2026-05-25 06:01
+> Auto-generated index. Updated: 2026-05-26 06:02
 
 ## Einträge
 
+- [[20_Notes/RSS/2026-05-26/KnowledgeDeliver_LMS_Flaw_Exploited_to_Deploy_Godzilla_and_Cobalt_Strike.md|KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike]]
 - [[_meta/LINKING-STRATEGY.md|LINKING-STRATEGY]]
 - [[40_Areas/dev-news-index.md|Developer-News & Tools]]
 - [[_meta/SELF-IMPROVEMENT.md|SELF-IMPROVEMENT]]
