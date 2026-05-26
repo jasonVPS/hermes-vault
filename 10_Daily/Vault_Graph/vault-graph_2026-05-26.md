@@ -7,47 +7,45 @@ tags: [system, vault, graph]
 # Vault Knowledge Graph -- 2026-05-26
 
 ## Stats
-- Total Notes: 1423
-- Total Links: 1743
-- Broken Links: 611
-- Orphan Notes: 4
+- Total Notes: 1443
+- Total Links: 1718
+- Broken Links: 694
+- Orphan Notes: 2
 
 ## Top Hub Notes
-1. [[10_Daily/vault-graph_2026-05-23]] -- 15 out, 3 in
-2. [[10_Daily/vault-graph_2026-05-21]] -- 15 out, 5 in
-3. [[10_Daily/vault-graph_2026-05-24]] -- 15 out, 1 in
-4. [[10_Daily/vault-graph_2026-05-22]] -- 14 out, 3 in
-5. [[10_Daily/vault-graph_2026-05-25]] -- 13 out, 0 in
+1. [[10_Daily/Vault_Graph/vault-graph_2026-05-20]] -- 7 out, 1 in
+2. [[00_Inbox/2026/05/2026-05-16-hermes-agents-obsidian-team]] -- 5 out, 6 in
+3. [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -- 4 out, 0 in
+4. [[10_Daily/Vault_Graph/vault-graph_2026-05-22]] -- 4 out, 0 in
+5. [[10_Daily/Vault_Graph/vault-graph_2026-05-24]] -- 4 out, 0 in
 
 ## Orphan Notes
-- [[30_Projects/Trading-Agent/01_Gate]]
-- [[30_Projects/Trading-Agent/02_Backtest-Engine]]
-- [[30_Projects/Trading-Agent/state/logs/reflection_20260525_1308]]
-- [[30_Projects/Trading-Agent/state/logs/reflection_20260525_1314]]
+- [[20_Notes/System/self-introspect_2026-05-26]]
+- [[20_Notes/System/metrics_2026-05-26]]
 
 ## Broken Links
-- [[10_Daily/reflection_2026-05-21_09-30]] -> `40_Areas/productivity-index.md` (not found)
-- [[10_Daily/reflection_2026-05-21_10-32]] -> `40_Areas/productivity-index.md` (not found)
-- [[10_Daily/reflection_2026-05-23_20-30]] -> `...` (not found)
-- [[10_Daily/reflection_2026-05-21_06-00]] -> `wiki-links` (not found)
-- [[10_Daily/reflection_2026-05-21_13-20]] -> `40_Areas/productivity-index.md` (not found)
-- [[10_Daily/reflection_2026-05-23_10-40]] -> `10_Daily/2026/05/2026-05-23` (not found)
-- [[10_Daily/reflection_2026-05-22_15-20]] -> `...` (not found)
-- [[10_Daily/reflection_2026-05-22_15-20]] -> `link` (not found)
-- [[10_Daily/reflection_2026-05-22_15-20]] -> `wiki-link` (not found)
-- [[10_Daily/reflection_2026-05-22_15-20]] -> `wiki-links` (not found)
+- [[10_Daily/health-check_2026-05-21]] -> `40_Areas/health-index.md` (not found)
+- [[10_Daily/2026/05/2026-05-16]] -> `2026-05-16-session-hermes-coding-agent` (not found)
+- [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -> `10_Daily/reflection_2026-05-21_06-00` (not found)
+- [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -> `10_Daily/reflection_2026-05-21_09-30` (not found)
+- [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -> `10_Daily/reflection_2026-05-21_10-32` (not found)
+- [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -> `10_Daily/reflection_2026-05-21_13-20` (not found)
+- [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -> `10_Daily/reflection_2026-05-22_10-00` (not found)
+- [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -> `10_Daily/reflection_2026-05-22_15-20` (not found)
+- [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -> `10_Daily/reflection_2026-05-23_20-30` (not found)
+- [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -> `10_Daily/vault-graph_2026-05-20` (not found)
 
 ## Top Tags
-- #rss: 1177 notes
-- #ai: 961 notes
-- #m: 736 notes
-- #social: 736 notes
-- #twitter: 736 notes
-- #x: 736 notes
-- #tech: 348 notes
-- #dev: 342 notes
-- #capture: 318 notes
-- #security: 204 notes
+- #rss: 1191 notes
+- #ai: 971 notes
+- #m: 740 notes
+- #social: 740 notes
+- #twitter: 740 notes
+- #x: 740 notes
+- #tech: 351 notes
+- #dev: 346 notes
+- #capture: 328 notes
+- #security: 207 notes
 
 ---
-*Auto-generated at 04:00:51*
+*Auto-generated at 09:17:22*
