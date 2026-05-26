@@ -32,6 +32,7 @@ Automatisch generierte Queue für Background Cognition Action Items. Status: `op
 | FQ-002 | sanitization | nitter-to-vault.py | 2026-05-26 | Sanitizer implementiert und getestet |
 | FQ-003 | cleanup | vault broken-links | 2026-05-26 | 720 Links in 98 Dateien neutralisiert. Broken: 694 → 0 |
 | FQ-004 | cleanup | vault orphans | 2026-05-26 | Index-Seiten erstellt (Metrics, Self-Introspection, Reflection). Orphans: 6 → 0 |
+| FQ-005 | skill-update | skill-drift-check | 2026-05-26 | Alert-on-Drift eingeführt. Auto-Repair ausgeschlossen. Skill-Überwachung: silent + ping on change |
 | FQ-006 | architecture | fix-agent | 2026-05-26 | Fix-Agent Cronjob erstellt und getestet |
 
 ---
