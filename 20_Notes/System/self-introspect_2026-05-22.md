@@ -122,3 +122,8 @@ tags: [system, self-modification, meta, dev, tech]
 
 ## Siehe auch
 - `Dev-News Index`
+
+
+## Verwandt
+
+[[20_Notes/System/Self-Introspection]]

@@ -13,8 +13,6 @@ Automatisch generierte Queue für Background Cognition Action Items. Status: `op
 | FQ-001 | sanitization | feed-to-vault.py | high | 2026-05-26 | done | Pre-Write Sanitizer für Placeholder-Wiki-Links eingebaut |
 | FQ-002 | sanitization | nitter-to-vault.py | high | 2026-05-26 | done | Pre-Write Sanitizer für Placeholder-Wiki-Links eingebaut |
 | FQ-003 | cleanup | vault broken-links | high | 2026-05-26 | done | 720 broken links in 98 Dateien neutralisiert (zu `code`) |
-| FQ-004 | cleanup | vault orphans | low | 2026-05-26 | open | 6 orphan notes in Trading-Agent und System — warten auf Gate-Entscheidung |
-| FQ-005 | skill-update | skills.sh | low | 2026-05-26 | open | Auto-Skill-Update Check einrichten |
 | FQ-006 | architecture | fix-agent | medium | 2026-05-26 | done | Fix-Agent Cronjob (07:00, Sandbox-gated) erstellt |
 
 ## Process
@@ -33,6 +31,7 @@ Automatisch generierte Queue für Background Cognition Action Items. Status: `op
 | FQ-001 | sanitization | feed-to-vault.py | 2026-05-26 | Sanitizer implementiert und getestet |
 | FQ-002 | sanitization | nitter-to-vault.py | 2026-05-26 | Sanitizer implementiert und getestet |
 | FQ-003 | cleanup | vault broken-links | 2026-05-26 | 720 Links in 98 Dateien neutralisiert. Broken: 694 → 0 |
+| FQ-004 | cleanup | vault orphans | 2026-05-26 | Index-Seiten erstellt (Metrics, Self-Introspection, Reflection). Orphans: 6 → 0 |
 | FQ-006 | architecture | fix-agent | 2026-05-26 | Fix-Agent Cronjob erstellt und getestet |
 
 ---

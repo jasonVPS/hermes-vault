@@ -8,6 +8,11 @@ tags: [finance, tech, trading]
 **Erstellt:** 2026-05-23
 
 ---
+## Zentrale Dokumente
+
+- [[01_Gate]] — Gate-Definition (Hard Rules)
+- [[02_Backtest-Engine]] — Single Source of Truth Engine Spec
+- [[04_Reflection]] — Reflection-Protokoll
 
 ## Lektionen aus dem alten Projekt (100€→200€ Experiment)
 

@@ -7,25 +7,20 @@ tags: [system, vault, graph]
 # Vault Knowledge Graph -- 2026-05-26
 
 ## Stats
-- Total Notes: 1444
-- Total Links: 1721
+- Total Notes: 1447
+- Total Links: 1746
 - Broken Links: 0
-- Orphan Notes: 6
+- Orphan Notes: 0
 
 ## Top Hub Notes
-1. [[10_Daily/Vault_Graph/vault-graph_2026-05-20]] -- 7 out, 2 in
-2. [[10_Daily/Vault_Graph/vault-graph_2026-05-26]] -- 7 out, 1 in
-3. [[00_Inbox/2026/05/2026-05-16-hermes-agents-obsidian-team]] -- 5 out, 7 in
-4. [[10_Daily/Vault_Graph/vault-graph_2026-05-23]] -- 4 out, 1 in
-5. [[10_Daily/Vault_Graph/vault-graph_2026-05-22]] -- 4 out, 1 in
+1. [[10_Daily/Vault_Graph/vault-graph_2026-05-26]] -- 11 out, 1 in
+2. [[10_Daily/Vault_Graph/vault-graph_2026-05-20]] -- 7 out, 2 in
+3. [[20_Notes/System/Metrics]] -- 7 out, 1 in
+4. [[20_Notes/System/Self-Introspection]] -- 7 out, 1 in
+5. [[30_Projects/Trading-Agent/00_ROADMAP]] -- 5 out, 2 in
 
 ## Orphan Notes
-- [[30_Projects/Trading-Agent/01_Gate]]
-- [[30_Projects/Trading-Agent/02_Backtest-Engine]]
-- [[30_Projects/Trading-Agent/state/logs/reflection_20260525_1308]]
-- [[30_Projects/Trading-Agent/state/logs/reflection_20260525_1314]]
-- [[20_Notes/System/metrics_2026-05-22]]
-- [[20_Notes/System/self-introspect_2026-05-22]]
+- None
 
 ## Top Tags
 - #rss: 1191 notes
@@ -40,4 +35,4 @@ tags: [system, vault, graph]
 - #security: 207 notes
 
 ---
-*Auto-generated at 10:37:59*
+*Auto-generated at 10:40:39*
