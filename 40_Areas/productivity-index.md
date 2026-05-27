@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-26
+updated: 2026-05-27
 type: index
 status: permanent
 tags: [area, index, productivity]
@@ -8,104 +8,110 @@ tags: [area, index, productivity]
 
 # Productivity Index
 
-> Auto-generated index. Updated: 2026-05-26 06:02
+> Auto-generated index. Updated: 2026-05-27 06:03
 
 ## Einträge
 
-- `The AI paradox: More automation, more humans, more wor`
-- `Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows`
-- `LINKING-STRATEGY`
-- `vault-automatisierung`
-- `decision-log`
-- `Developer-News & Tools`
-- `Cybersecurity-News`
-- `Archiv-Index`
-- `AUTONOMY`
-- `EXPANSION-RULES`
-- `USER`
-- `VAULT-RULES`
-- `obsidian-git-sync`
-- `registry`
-- `youtube-capture`
-- `ERROR-LOG`
-- `structure`
-- `registry`
-- `youtube-capture`
-- `What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface`
+- [[20_Notes/RSS/2026-05-25/The_AI_paradox_More_automation_more_humans_more_work__Dan_Shipper.md|The AI paradox: More automation, more humans, more work | Dan Shipper]]
+- [[20_Notes/RSS/2026-05-23/Megalodon_GitHub_Attack_Targets_5561_Repos_with_Malicious_CICD_Workflows.md|Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows]]
+- [[_meta/LINKING-STRATEGY.md|LINKING-STRATEGY]]
+- [[30_Projects/vault-automatisierung.md|vault-automatisierung]]
+- [[40_Areas/decision-log.md|decision-log]]
+- [[40_Areas/dev-news-index.md|Developer-News & Tools]]
+- [[40_Areas/security-news-index.md|Cybersecurity-News]]
+- [[90_Archive/90_Archive-Index.md|Archiv-Index]]
+- [[_meta/AUTONOMY.md|AUTONOMY]]
+- [[_meta/EXPANSION-RULES.md|EXPANSION-RULES]]
+- [[_meta/USER.md|USER]]
+- [[_meta/VAULT-RULES.md|VAULT-RULES]]
+- [[20_Notes/obsidian-git-sync.md|obsidian-git-sync]]
+- [[_meta/skill-workflows/registry.md|registry]]
+- [[_meta/skill-workflows/youtube-capture.md|youtube-capture]]
+- [[_meta/errors/ERROR-LOG.md|ERROR-LOG]]
+- [[_meta/index/structure.md|structure]]
+- [[_meta/skills/registry.md|registry]]
+- [[_meta/skills/youtube-capture.md|youtube-capture]]
+- [[20_Notes/RSS/2026-05-17/What_45_Days_of_Watching_Your_Own_Tools_Will_Tell_You_About_Your_Real_Attack_Sur.md|What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface]]
 - [[20_Notes/RSS/2026-05-17/Webinar_How_Modern_Attack_Paths_Cross_Code_Pipelines_and_Cloud.md|[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud]]
 - [[20_Notes/RSS/2026-05-17/AINews_Thinking_Machines_Native_Interaction_Models_-_TML-Interaction-Small_276B-.md|[AINews] Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD]]
-- `n8n Partners with SAP to bring Visual AI Workflow Orchestration to Enterprise`
-- `Spec-driven development: The AI engineering workflow at Notio`
-- `How n8n is powering the next wave of AI automation at Mercedes-Benz`
-- `Quoting New York Times Editors’ Note`
-- `Quoting New York Times Editors’ Note`
+- [[20_Notes/RSS/2026-05-18/n8n_Partners_with_SAP_to_bring_Visual_AI_Workflow_Orchestration_to_Enterprise.md|n8n Partners with SAP to bring Visual AI Workflow Orchestration to Enterprise]]
+- [[20_Notes/RSS/2026-05-19/Spec-driven_development_The_AI_engineering_workflow_at_Notion__Ryan_Nystrom.md|Spec-driven development: The AI engineering workflow at Notion | Ryan Nystrom]]
+- [[20_Notes/RSS/2026-05-18/How_n8n_is_powering_the_next_wave_of_AI_automation_at_Mercedes-Benz.md|How n8n is powering the next wave of AI automation at Mercedes-Benz]]
+- [[20_Notes/RSS/2026-05-17/Quoting_New_York_Times_Editors_Note.md|Quoting New York Times Editors’ Note]]
+- [[20_Notes/RSS/2026-05-18/Quoting_New_York_Times_Editors_Note.md|Quoting New York Times Editors’ Note]]
 - [[20_Notes/RSS/2026-05-17/AINews_GPT-Realtime-2_-Translate_and_-Whisper_new_SOTA_realtime_voice_APIs.md|[AINews] GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs]]
 - [[20_Notes/RSS/2026-05-18/AINews_GPT-Realtime-2_-Translate_and_-Whisper_new_SOTA_realtime_voice_APIs.md|[AINews] GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs]]
-- `🎙️ This week on How I AI: The internal AI tool that’s transforming how Stripe designs products`
-- `The internal AI tool that’s transforming how Stripe designs product`
-- `LLM Tool Calling: How It Works and How To Implement It`
-- `Build and Update Workflows with n8n's MCP Server`
-- `Turn your best AI prompts into one-click tools in Chrome`
-- `Workflow Automation vs. Orchestration: Architectural Differences That Matter at Scale`
-- `Import AI 442: Winners and losers in the AI economy; math proof automation; and industrialization of cyber espionage`
-- `Import AI 440: Red queen AI; AI regulating AI; o-ring automation`
-- `Workflow Test`
-- `multi-agent-second-brain`
-- `Background Reflection 2026-05-21 09:30`
-- `Background Cognition Reflection 2026-05-21_10-32`
-- `reflection_2026-05-21_13-20`
-- `Reflection 2026-05-22 00:20`
-- `Background Cognition Reflection 2026-05-21 08:00`
-- `reflection_2026-05-22_04-00`
-- `reflection_2026-05-21_11-51`
-- `reflection_2026-05-21_06-10`
-- `Reflection 2026-05-21 15:30`
-- `Background Cognition Reflection 2026-05-22 05:40`
-- `reflection_2026-05-21_14-30`
-- `reflection_2026-05-21_21-20`
-- `reflection_2026-05-21_07-30`
-- `reflection_2026-05-22_06-00`
-- `reflection_2026-05-21_23-52`
-- `Reflection 2026-05-21 22:30`
-- `reflection_2026-05-21_06-40`
-- `Background Reflection 2026-05-21 18:20`
-- `Reflection 2026-05-22 04:30`
-- `Reflection 2026-05-21 08:10`
-- `reflection_2026-05-21_18-10`
-- `reflection_2026-05-21_22-20`
-- `Background Cognition Reflection`
-- `reflection_2026-05-22_01-40`
-- `Background Cognition — 2026-05-21 14:40`
-- `reflection_2026-05-21_11-40`
-- `Reflection 2026-05-21 10:00`
-- `Background Cognition Reflection`
-- `Background Reflection 2026-05-21 21:00`
-- `reflection_2026-05-21_20-03`
-- `2026-05-16_Session_Hermes_Coding_Agent`
-- `reflection_2026-05-22_05-00`
-- `Background Cognition Reflection`
-- `reflection_2026-05-21_13-50`
-- `Background Cognition Reflection 2026-05-21 07:22`
-- `Background Cognition Reflection`
-- `Background Cognition Reflection`
-- `Reflection 2026-05-21 09:00`
-- `Background Cognition — 2026-05-21 11:10`
-- `Reflection 2026-05-21 08:50`
-- `reflection_2026-05-22_01-50`
-- `reflection_2026-05-22_03-10`
-- `reflection_2026-05-21_17-51`
-- `Reflection 2026-05-21 09:10`
-- `Background Reflection 2026-05-21 09:40`
-- `Background Cognition — 2026-05-21 14:10`
-- `Background Cognition Reflection — 2026-05-21 10:50`
-- `Background Reflection — 2026-05-21 11:20`
-- `Reflection 2026-05-21 23:10`
-- `reflection_2026-05-22_01-30`
-- `Background Reflection 2026-05-21 09:23`
-- `Hermes_Skills_Registry`
-- `Hermes Beobachter-Protokoll`
-- `Workflow Test`
-- `multi-agent-second-brain`
+- [[20_Notes/RSS/2026-05-19/This_week_on_How_I_AI_The_internal_AI_tool_thats_transforming_how_Stripe_designs.md|🎙️ This week on How I AI: The internal AI tool that’s transforming how Stripe designs products]]
+- [[20_Notes/RSS/2026-05-19/The_internal_AI_tool_thats_transforming_how_Stripe_designs_products__Owen_Willia.md|The internal AI tool that’s transforming how Stripe designs products | Owen Williams]]
+- [[20_Notes/RSS/2026-05-18/LLM_Tool_Calling_How_It_Works_and_How_To_Implement_It.md|LLM Tool Calling: How It Works and How To Implement It]]
+- [[20_Notes/RSS/2026-05-18/Build_and_Update_Workflows_with_n8ns_MCP_Server.md|Build and Update Workflows with n8n's MCP Server]]
+- [[20_Notes/RSS/2026-05-19/Turn_your_best_AI_prompts_into_one-click_tools_in_Chrome.md|Turn your best AI prompts into one-click tools in Chrome]]
+- [[20_Notes/RSS/2026-05-18/Workflow_Automation_vs_Orchestration_Architectural_Differences_That_Matter_at_Sc.md|Workflow Automation vs. Orchestration: Architectural Differences That Matter at Scale]]
+- [[20_Notes/RSS/2026-05-18/Import_AI_442_Winners_and_losers_in_the_AI_economy_math_proof_automation_and_ind.md|Import AI 442: Winners and losers in the AI economy; math proof automation; and industrialization of cyber espionage]]
+- [[20_Notes/RSS/2026-05-18/Import_AI_440_Red_queen_AI_AI_regulating_AI_o-ring_automation.md|Import AI 440: Red queen AI; AI regulating AI; o-ring automation]]
+- [[Workflow Test.md|Workflow Test]]
+- [[multi-agent-second-brain.md|multi-agent-second-brain]]
+- [[50_Resources/Hermes_Skills_Registry.md|Hermes_Skills_Registry]]
+- [[20_Notes/Hermes Beobachter-Protokoll.md|Hermes Beobachter-Protokoll]]
+- [[90_Archive/2026/setup-artifacts/Workflow Test.md|Workflow Test]]
+- [[90_Archive/2026/setup-artifacts/multi-agent-second-brain.md|multi-agent-second-brain]]
+- [[10_Daily/Reflections/reflection_2026-05-21_09-30.md|Background Reflection 2026-05-21 09:30]]
+- [[10_Daily/Reflections/reflection_2026-05-26_11-00.md|Background Cognition Reflection 2026-05-26 11-00]]
+- [[10_Daily/Reflections/reflection_2026-05-21_10-32.md|Background Cognition Reflection 2026-05-21_10-32]]
+- [[10_Daily/Reflections/reflection_2026-05-21_13-20.md|reflection_2026-05-21_13-20]]
+- [[10_Daily/Reflections/reflection_2026-05-22_00-20.md|Reflection 2026-05-22 00:20]]
+- [[10_Daily/Reflections/reflection_2026-05-21_08-00.md|Background Cognition Reflection 2026-05-21 08:00]]
+- [[10_Daily/Reflections/reflection_2026-05-22_04-00.md|reflection_2026-05-22_04-00]]
+- [[10_Daily/Reflections/reflection_2026-05-21_11-51.md|reflection_2026-05-21_11-51]]
+- [[10_Daily/Reflections/reflection_2026-05-21_06-10.md|reflection_2026-05-21_06-10]]
+- [[10_Daily/Reflections/reflection_2026-05-26_09-50.md|Background Cognition Reflection 2026-05-26 09-50]]
+- [[10_Daily/Reflections/reflection_2026-05-21_15-30.md|Reflection 2026-05-21 15:30]]
+- [[10_Daily/Reflections/reflection_2026-05-22_05-40.md|Background Cognition Reflection 2026-05-22 05:40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_14-30.md|reflection_2026-05-21_14-30]]
+- [[10_Daily/Reflections/reflection_2026-05-21_21-20.md|reflection_2026-05-21_21-20]]
+- [[10_Daily/Reflections/reflection_2026-05-21_07-30.md|reflection_2026-05-21_07-30]]
+- [[10_Daily/Reflections/reflection_2026-05-22_06-00.md|reflection_2026-05-22_06-00]]
+- [[10_Daily/Reflections/reflection_2026-05-21_23-52.md|reflection_2026-05-21_23-52]]
+- [[10_Daily/Reflections/reflection_2026-05-21_22-30.md|Reflection 2026-05-21 22:30]]
+- [[10_Daily/Reflections/reflection_2026-05-21_06-40.md|reflection_2026-05-21_06-40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_18-20.md|Background Reflection 2026-05-21 18:20]]
+- [[10_Daily/Reflections/reflection_2026-05-26_05-30.md|reflection_2026-05-26_05-30]]
+- [[10_Daily/Reflections/reflection_2026-05-22_04-30.md|Reflection 2026-05-22 04:30]]
+- [[10_Daily/Reflections/reflection_2026-05-21_08-10.md|Reflection 2026-05-21 08:10]]
+- [[10_Daily/Reflections/reflection_2026-05-21_18-10.md|reflection_2026-05-21_18-10]]
+- [[10_Daily/Reflections/reflection_2026-05-21_22-20.md|reflection_2026-05-21_22-20]]
+- [[10_Daily/Reflections/reflection_2026-05-21_11-30.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-22_01-40.md|reflection_2026-05-22_01-40]]
+- [[10_Daily/Reflections/reflection_2026-05-25_07-40.md|reflection_2026-05-25_07-40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_14-40.md|Background Cognition — 2026-05-21 14:40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_11-40.md|reflection_2026-05-21_11-40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_10-00.md|Reflection 2026-05-21 10:00]]
+- [[10_Daily/Reflections/reflection_2026-05-21_07-40.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-21_21-00.md|Background Reflection 2026-05-21 21:00]]
+- [[10_Daily/Reflections/reflection_2026-05-21_20-03.md|reflection_2026-05-21_20-03]]
+- [[10_Daily/Reflections/2026-05-16_Session_Hermes_Coding_Agent.md|2026-05-16_Session_Hermes_Coding_Agent]]
+- [[10_Daily/Reflections/reflection_2026-05-22_05-00.md|reflection_2026-05-22_05-00]]
+- [[10_Daily/Reflections/reflection_2026-05-21_07-50.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-21_13-50.md|reflection_2026-05-21_13-50]]
+- [[10_Daily/Reflections/reflection_2026-05-21_07-22.md|Background Cognition Reflection 2026-05-21 07:22]]
+- [[10_Daily/Reflections/reflection_2026-05-26_21-40.md|Background Cognition Reflection 2026-05-26 21:40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_20-20.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-21_21-10.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-21_09-00.md|Reflection 2026-05-21 09:00]]
+- [[10_Daily/Reflections/reflection_2026-05-21_11-10.md|Background Cognition — 2026-05-21 11:10]]
+- [[10_Daily/Reflections/reflection_2026-05-21_08-50.md|Reflection 2026-05-21 08:50]]
+- [[10_Daily/Reflections/reflection_2026-05-22_01-50.md|reflection_2026-05-22_01-50]]
+- [[10_Daily/Reflections/reflection_2026-05-22_03-10.md|reflection_2026-05-22_03-10]]
+- [[10_Daily/Reflections/reflection_2026-05-21_17-51.md|reflection_2026-05-21_17-51]]
+- [[10_Daily/Reflections/reflection_2026-05-21_09-10.md|Reflection 2026-05-21 09:10]]
+- [[10_Daily/Reflections/reflection_2026-05-21_09-40.md|Background Reflection 2026-05-21 09:40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_14-10.md|Background Cognition — 2026-05-21 14:10]]
+- [[10_Daily/Reflections/reflection_2026-05-21_10-50.md|Background Cognition Reflection — 2026-05-21 10:50]]
+- [[10_Daily/Reflections/reflection_2026-05-21_11-20.md|Background Reflection — 2026-05-21 11:20]]
+- [[10_Daily/Reflections/reflection_2026-05-21_23-10.md|Reflection 2026-05-21 23:10]]
+- [[10_Daily/Reflections/reflection_2026-05-22_01-30.md|reflection_2026-05-22_01-30]]
+- [[10_Daily/Reflections/reflection_2026-05-21_09-23.md|Background Reflection 2026-05-21 09:23]]
+- [[10_Daily/2026/05/2026-05-23.md|2026-05-23]]
 ## Siehe auch
 - [[_meta/index/MOC|Master of Ceremonies]]
 - [[_meta/LINKING-STRATEGY|Lazy Linking Strategie]]

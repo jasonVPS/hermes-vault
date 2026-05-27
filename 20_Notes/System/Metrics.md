@@ -1,7 +1,7 @@
 ---
 title: "System Metrics Index"
 date: "2026-05-26"
-tags: [system, metrics, meta, index]
+tags: [system, metrics, meta, index, tech]
 ---
 
 # System Metrics Index
@@ -16,3 +16,7 @@ tags: [system, metrics, meta, index]
 - [[20_Notes/System/metrics_2026-05-24]]
 - [[20_Notes/System/metrics_2026-05-25]]
 - [[20_Notes/System/metrics_2026-05-26]]
+
+## Siehe auch
+- [[40_Areas/tech-index|Tech News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

@@ -1,7 +1,7 @@
 ---
 title: "Skill Drift Check 2026-05-26"
 date: "2026-05-26"
-tags: [system, skills, drift, meta]
+tags: [system, skills, drift, meta, tech]
 ---
 
 # Skill Drift Check — 2026-05-26
@@ -24,3 +24,7 @@ tags: [system, skills, drift, meta]
 
 ---
 *Auto-generated at 10:45:27*
+
+## Siehe auch
+- [[40_Areas/tech-index|Tech News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

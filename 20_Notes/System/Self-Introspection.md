@@ -1,7 +1,7 @@
 ---
 title: "Self-Introspection Index"
 date: "2026-05-26"
-tags: [system, introspection, meta, index]
+tags: [system, introspection, meta, index, tech]
 ---
 
 # Self-Introspection Index
@@ -16,3 +16,7 @@ tags: [system, introspection, meta, index]
 - [[20_Notes/System/self-introspect_2026-05-24]]
 - [[20_Notes/System/self-introspect_2026-05-25]]
 - [[20_Notes/System/self-introspect_2026-05-26]]
+
+## Siehe auch
+- [[40_Areas/tech-index|Tech News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

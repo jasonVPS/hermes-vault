@@ -1,7 +1,7 @@
 ---
 title: "Self-Introspection Report 2026-05-26"
 date: "2026-05-26"
-tags: [system, self-modification, meta]
+tags: [system, self-modification, meta, tech]
 ---
 
 # Self-Introspection Report -- 2026-05-26
@@ -119,3 +119,7 @@ tags: [system, self-modification, meta]
 
 ---
 *Auto-generated at 05:00:43*
+
+## Siehe auch
+- [[40_Areas/tech-index|Tech News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

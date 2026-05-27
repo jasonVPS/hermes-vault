@@ -1,7 +1,7 @@
 ---
 title: "Vault Knowledge Graph 2026-05-27"
 date: "2026-05-27"
-tags: [system, vault, graph]
+tags: [system, vault, graph, tech]
 ---
 
 # Vault Knowledge Graph -- 2026-05-27
@@ -36,3 +36,7 @@ tags: [system, vault, graph]
 
 ---
 *Auto-generated at 04:00:21*
+
+## Siehe auch
+- [[40_Areas/tech-index|Tech News Index]]
+- [[_meta/index/MOC|Master of Ceremonies]]

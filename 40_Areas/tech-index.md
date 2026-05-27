@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-26
+updated: 2026-05-27
 type: index
 status: permanent
 tags: [area, index, tech]
@@ -8,362 +8,376 @@ tags: [area, index, tech]
 
 # Tech Index
 
-> Auto-generated index. Updated: 2026-05-26 06:02
+> Auto-generated index. Updated: 2026-05-27 06:03
 
 ## Einträge
 
-- `Quoting Corey Quinn`
-- `The Alert Firehose Finally Meets Its Match`
-- `reflection_2026-05-24_14-10`
-- `datasette 1.0a30`
-- `Mad House — Usborne Creepy Computer Games`
-- `datasette-agent 0.1a4`
-- `Quoting Armin Ronacher`
-- `datasette-fixtures 0.1a0`
-- `Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer`
-- `On the <dl>`
-- `The memory shortage is causing a repricing of consumer electronics`
-- `Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks`
-- `Goodbye, Lenny's Reads!`
-- `Weekly Dose of Optimism #194`
-- `Catch up on the Dialogues stage at Google I/O 2026.`
-- `2026.21: The Data Center Veto`
-- `Giving Agents Computers — Ivan Burazin, Daytona`
-- `datasette-agent 0.1a3`
-- `datasette-agent-sprites 0.1a0`
-- `When Identity is the Attack Path`
-- `Datasette Agent`
-- `datasette-agent-charts 0.1a2`
-- `An Interview with Parallel Founder Parag Agarwal About Valuing Content on the Agentic Web`
-- `100 things we announced at I/O 2026`
-- `How fast is 10 tokens per second really?`
-- `A new experiment brings better group meetings to Google Beam`
-- `Quoting SpaceX S-1`
-- `datasette-agent-charts 0.1a1`
-- `What launched at Google I/O 2026 (30-minute day 1 recap)`
-- `I/O 2026`
-- `New ways to create and get things done in Google Workspace`
-- `Personal Day`
-- `The Lenny and Friends Summit is back!`
-- `NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’`
-- `The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion`
-- `Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose`
-- `Data Center Discontent, Understanding the Opposition, Fixing the Problem`
-- `INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests`
-- `Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose`
-- `2026-05-18`
-- `vault-automatisierung`
-- `2026-05-17`
-- `Cowboy Space Corporation`
-- `Quoting Julia Evans`
-- `MOC`
-- `2026-05-16`
-- `I can’t believe this trial is real...`
-- `2026.20: Shifting Alliances in a Changing World`
-- `Weekly Dose of Optimism #193`
-- `inaturalist-clumper 0.1`
-- `Western Gull, Rock Pigeon`
-- `datasette-agent 0.1a2`
-- `An Interview with Ben Thompson at the MoffettNathanson Media, Internet & Communications Conference`
-- `The Most Incredible Transformation I’ve Ever Seen — Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions (#865)`
-- `datasette-ip-rate-limit 0.1a0`
-- `Quoting Mitchell Hashimoto`
-- `datasette-agent 0.1a1`
-- `The Deployment Company, Back to the 70s, Apple and Intel`
-- `Riding the Leopard`
-- `Welcome to the Datasette blog`
-- `CSP Allow-list Experiment`
-- `Quoting Boris Mann`
-- `datasette 1.0a29`
-- `Quoting Mo Bitar`
-- `The Inference Shift`
-- `Quoting James Shore`
-- `How to build a company that withstands any er`
-- `Quoting Andrew Quinn`
-- `Quoting Luke Curley`
-- `Weekly Dose of Optimism #192`
-- `The Practice of Self-Inquiry: 10 Questions for People Who Are Too Hard on Themselves`
-- `2026.19: Earning & Spending`
-- `Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission`
-- `Every operating system concept in one video…`
-- `Big Words`
-- `Advanced RAG: Data Cleaning and Retrieval Techniques`
-- `Microsoft Earnings, Apple Earnings`
-- `5 gardening tips you can try right in Search`
-- `Vibe coding and agentic engineering are getting closer than I'd like`
-- `Amazon’s Durability`
-- `Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.`
-- `datasette-referrer-policy 0.1`
-- `Weekly Dose of Optimism #191`
-- `Deploy n8n agents that show up as members of the team inside Microsoft apps`
-- `ReAct Agent: Architecture, Implementation, and Tradeoffs`
-- `Human-in-the-Loop vs. Human-on-the-Loop: When To Use Each System`
-- `Celebrating 20 years of Google Translate: Fun facts, tips and new features to try`
-- `Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived`
-- `Snapchat CEO: Why distribution has become the most important moa`
-- `Weekly Dose of Optimism #190`
-- `Making Sense of the Early Universe`
-- `The Great Blue Frontier`
-- `We're launching two specialized TPUs for the agentic era.`
-- `3 new ways Ads Advisor is making Google Ads safer and faster`
-- `7 ways to travel smarter this summer, with help from Google`
-- `Weekly Dose of Optimism #189`
-- `Weekly Dose of Optimism #188`
-- `Orchestration vs. Choreography: Which One to Choose – or Use Both?`
-- `Weekly Dose of Optimism #187`
-- `Bad Analogies`
-- `He just crawled through hell to fix the browser…`
-- `Weekly Dose of Optimism #186`
-- `Electromagnetism Secretly Runs the World`
-- `Weekly Dose of Optimism #185`
-- `Weekly Dose of Optimism #184`
-- `The Shape of the Thing`
-- `Weekly Dose of Optimism #183`
-- `Costless Sacrifice`
-- `Weekly Dose of Optimism #182`
-- `The sights and sounds of Bhutan`
-- `Tales from Toddlerhood`
-- `On Working with Wizards`
-- `Mass Intelligence`
-- `The Bitter Lesson versus The Garbage Can`
-- `Personality and Persuasion`
-- `All My Thoughts After 40 Hours in the Vision Pro`
-- `10 Thoughts from the Fourth Trimester`
-- `A Short History of My Last Six Years`
-- `The Trump-Biden Debate`
-- `The Big and the Small`
-- `You Won’t Believe My Morning`
-- `It’s 2020 and you’re in the future`
-- `test_sync`
-- `README`
-- `notiz-name`
-- `Erste Notiz`
-- `Hermes Test Notiz`
-- `Workflow Test`
-- `multi-agent-second-brain`
-- `Background Reflection 2026-05-21 09:30`
-- `Background Cognition Reflection 2026-05-21_10-32`
-- `Background Cognition Reflection — 2026-05-23 20:30`
-- `reflection_2026-05-21_06-00`
-- `reflection_2026-05-21_00-40`
-- `reflection_2026-05-21_13-20`
-- `reflection_2026-05-23_10-40`
-- `reflection_2026-05-20_21-40`
-- `Background Cognition Reflection 2026-05-22 15:20`
-- `Background Cognition Reflection`
-- `Background Cognition Reflection`
-- `Health Check 2026-05-22`
-- `reflection_2026-05-22_07-00`
-- `reflection_2026-05-22_10-00`
-- `Background Cognition Reflection 2026-05-20 21:30`
-- `reflection_2026-05-20_14-30`
-- `reflection_2026-05-20_23-43`
-- `reflection_2026-05-20_13-00`
-- `Reflection 2026-05-22 00:20`
-- `reflection_2026-05-21_01-50`
-- `Background Cognition Reflection`
-- `reflection_2026-05-21_00-50`
-- `Background Cognition Reflection 2026-05-21 08:00`
-- `Background Cognition Reflection 2026-05-24 14:21`
-- `Background Cognition Reflection 2026-05-22 22:50`
-- `Reflection 2026-05-23 05:20`
-- `reflection_2026-05-22_04-00`
-- `reflection_2026-05-20_14-10`
-- `reflection_2026-05-21_11-51`
-- `reflection_2026-05-21_06-10`
-- `reflection_2026-05-20_21-50`
-- `reflection_2026-05-22_13-50`
-- `Reflection 2026-05-21 15:30`
-- `reflection_2026-05-20_19-30`
-- `Background Cognition — 2026-05-23 04:30`
-- `Background Cognition Reflection 2026-05-22 05:40`
-- `reflection_2026-05-21_14-30`
-- `reflection_2026-05-22_16-20`
-- `reflection_2026-05-21_21-20`
-- `Background Cognition Reflection 2026-05-20 19:20`
-- `reflection_2026-05-21_00-20`
-- `reflection_2026-05-21_07-30`
-- `reflection 2026-05-24 06-10`
-- `Background Cognition Reflection 2026-05-20 21:20`
-- `reflection_2026-05-21_04-50`
-- `reflection_2026-05-22_07-10`
-- `Reflection 2026-05-22 14:30`
-- `reflection_2026-05-23_23-30`
-- `Background Cognition Reflection 2026-05-21 04:10`
-- `reflection_2026-05-22_06-00`
-- `reflection_2026-05-21_23-52`
-- `Reflection 2026-05-21 22:30`
-- `reflection_2026-05-22_08-00`
-- `reflection_2026-05-21_06-40`
-- `Background Reflection 2026-05-21 18:20`
-- `reflection_2026-05-20_17-30`
-- `reflection_2026-05-22_20-00`
-- `Background Cognition Reflection 2026-05-21 08:30`
-- `Background Reflection 2026-05-22 07:31`
-- `Reflection 2026-05-22_20-10`
-- `Background Cognition Reflection — 2026-05-22 23:40`
-- `Background Reflection 2026-05-22 11:20`
-- `Reflection 2026-05-22 04:30`
-- `reflection_2026-05-20_13-30`
-- `reflection_2026-05-20_22-30`
-- `Reflection 2026-05-21 08:10`
-- `reflection_2026-05-22_12-30`
-- `Vault Knowledge Graph 2026-05-23`
-- `reflection_2026-05-20_18-50`
-- `reflection_2026-05-22_13-30`
-- `reflection_2026-05-20_19-00`
-- `reflection_2026-05-21_18-10`
-- `Vault Knowledge Graph 2026-05-20`
-- `reflection_2026-05-21_22-20`
-- `Background Cognition Reflection`
-- `reflection_2026-05-20_20-41`
-- `Background Cognition Reflection`
-- `Background Cognition Reflection`
-- `reflection_2026-05-22_01-40`
-- `Background Cognition Reflection`
-- `reflection_2026-05-20_20-50`
-- `Background Cognition — 2026-05-21 14:40`
-- `Reflection 2026-05-20 20:20`
-- `Reflection 2026-05-20 22:21`
-- `Health Check 2026-05-20`
-- `Background Cognition Reflection 2026-05-24 16-34`
-- `reflection_2026-05-21_11-40`
-- `reflection_2026-05-22_06-30`
-- `Reflection 2026-05-21 10:00`
-- `Background Cognition Reflection 2026-05-23 10:10`
-- `Background Cognition Reflection`
-- `reflection_2026-05-21_04-40`
-- `reflection_2026-05-20_18-21`
-- `Background Cognition 11:50`
-- `reflection_2026-05-20_18-41`
-- `reflection_2026-05-22_12-40`
-- `Health Check 2026-05-24`
-- `reflection_2026-05-21_00-02`
-- `Background Reflection 2026-05-21 21:00`
-- `reflection_2026-05-23_02-50`
-- `reflection_2026-05-21_03-20`
-- `Background Cognition Reflection — 2026-05-21 01:40`
-- `reflection_2026-05-21_20-03`
-- `Vault Knowledge Graph 2026-05-25`
-- `Background Cognition — 2026-05-22 12:00`
-- `2026-05-16_Session_Hermes_Coding_Agent`
-- `reflection_2026-05-21_05-00`
-- `reflection_2026-05-20_19-51`
-- `reflection_2026-05-20_20-30`
-- `reflection_2026-05-20_19-10`
-- `reflection_2026-05-23_10-00`
-- `Background Cognition Reflection 2026-05-22 17:30`
-- `reflection_2026-05-21_02-10`
-- `reflection_2026-05-22_05-00`
-- `Reflection 2026-05-22 08:52`
-- `Background Cognition Reflection`
-- `reflection_2026-05-21_04-30`
-- `reflection_2026-05-22_15-51`
-- `reflection_2026-05-21_13-50`
-- `Background Cognition Reflection`
-- `Background Cognition Reflection — 2026-05-24 21:50`
-- `reflection_2026-05-21_03-50`
-- `Background Cognition Reflection 2026-05-21 07:22`
-- `Reflection 2026-05-23 04-10`
-- `reflection_2026-05-20_21-00`
-- `reflection_2026-05-23_14-10`
-- `Background Cognition Reflection`
-- `Background Cognition Reflection 2026-05-23 07-40`
-- `Reflection 2026-05-22 18:20`
-- `reflection_2026-05-22_11-40`
-- `reflection_2026-05-21_01-20`
-- `Background Cognition Reflection`
-- `reflection 2026-05-24 18-50`
-- `Background Cognition Reflection — 2026-05-23 00:30`
-- `reflection_2026-05-22_09-01`
-- `reflection_2026-05-23_12-10`
-- `Reflection 2026-05-21 09:00`
-- `Reflection 2026-05-22`
-- `reflection 2026-05-24 23-50`
-- `reflection_2026-05-21_00-30`
-- `reflection_2026-05-22_16-50`
-- `Background Cognition — 2026-05-21 11:10`
-- `reflection_2026-05-23_12-20`
-- `reflection_2026-05-21_00-10`
-- `reflection_2026-05-20_13-40`
-- `Reflection 2026-05-21 08:50`
-- `reflection_2026-05-22_14-20`
-- `reflection_2026-05-23_14-50`
-- `reflection 2026-05-24 17-30`
-- `reflection_2026-05-22_01-50`
-- `Health Check 2026-05-21`
-- `Vault Knowledge Graph 2026-05-21`
-- `reflection_2026-05-20_13-10`
-- `Background Cognition Reflection 2026-05-21 06:30`
-- `Background Cognition Reflection 2026-05-21`
-- `reflection_2026-05-22_13-00`
-- `reflection 2026-05-24 22-00`
-- `reflection_2026-05-20_18-10`
-- `reflection_2026-05-24_00-20`
-- `reflection_2026-05-22_06-20`
-- `Reflection 2026-05-23 03:51`
-- `Background Cognition Reflection 2026-05-21 01:30`
-- `Vault Knowledge Graph 2026-05-22`
-- `reflection_2026-05-22_08-10`
-- `Reflection 2026-05-22 07-50`
-- `reflection 2026-05-24 22-51`
-- `reflection_2026-05-20_18-01`
-- `Health Check 2026-05-23`
-- `Background Cognition Reflection 2026-05-23 08-40`
-- `reflection_2026-05-22_03-10`
-- `reflection_2026-05-21_17-51`
-- `reflection_2026-05-20_22-40`
-- `Reflection 2026-05-21 09:10`
-- `Vault Knowledge Graph 2026-05-24`
-- `reflection_2026-05-20_18-30`
-- `Background Reflection 2026-05-21 09:40`
-- `Background Cognition — 2026-05-21 14:10`
-- `reflection_2026-05-22_08-40`
-- `Reflection 2026-05-22 08:30`
-- `Background Reflection 2026-05-23 04-40`
-- `Background Cognition Reflection`
-- `reflection_2026-05-21_04-20`
-- `Background Cognition Reflection — 2026-05-21 10:50`
-- `Background Reflection — 2026-05-21 11:20`
-- `Background Cognition Reflection`
-- `Reflection 2026-05-21 23:10`
-- `reflection_2026-05-22_01-30`
-- `reflection_2026-05-23_12-40`
-- `Background Reflection 2026-05-21 09:23`
-- `reflection_2026-05-20_13-20`
-- `reflection_2026-05-23_14-20`
-- `reflection_2026-05-21_05-31`
-- `README`
-- `README`
-- `README`
-- `README`
-- `test_sync`
-- `README`
-- `notiz-name`
-- `Erste Notiz`
-- `Hermes-Test-Notiz`
-- `Workflow Test`
-- `multi-agent-second-brain`
-- `Hermes Metrics Report 2026-05-23`
-- `Self-Introspection Report 2026-05-20`
-- `Self-Introspection Report 2026-05-25`
-- `Hermes Metrics Report 2026-05-24`
-- `Hermes Metrics Report 2026-05-20`
-- `Self-Introspection Report 2026-05-23`
-- `Hermes Metrics Report 2026-05-22`
-- `Self-Introspection Report 2026-05-24`
-- `Self-Introspection Report 2026-05-22`
-- `Hermes Metrics Report 2026-05-21`
-- `Self-Introspection Report 2026-05-21`
-- `Hermes Metrics Report 2026-05-25`
-- `Multi-Agent Specialist Pool`
-- `Gate_03_AutonomousAgent_35pct30days`
-- `01_Gate`
-- `02_Backtest-Engine`
-- `00_ROADMAP`
-- `reflection_20260525_1314`
-- `daily-template`
-- `capture-template`
+- [[20_Notes/RSS/2026-05-26/Quoting_Corey_Quinn.md|Quoting Corey Quinn]]
+- [[20_Notes/RSS/2026-05-27/The_pressure.md|The pressure]]
+- [[20_Notes/RSS/2026-05-27/MFA_Prompt_Bombing_Why_Your_Second_Factor_Isnt_Saving_You.md|MFA Prompt Bombing: Why Your Second Factor Isn't Saving You]]
+- [[20_Notes/RSS/2026-05-27/10_weird_OSS_projects_you_need_right_now.md|10 weird OSS projects you need right now...]]
+- [[20_Notes/RSS/2026-05-27/Choosing_to_Stay_Human.md|Choosing to Stay Human]]
+- [[20_Notes/RSS/2026-05-27/Quoting_Paul_Graham.md|Quoting Paul Graham]]
+- [[20_Notes/RSS/2026-05-27/Microsoft_Copilot_Cowork_Exfiltrates_Files.md|Microsoft Copilot Cowork Exfiltrates Files]]
+- [[20_Notes/RSS/2026-05-26/The_Alert_Firehose_Finally_Meets_Its_Match.md|The Alert Firehose Finally Meets Its Match]]
+- [[20_Notes/RSS/2026-05-27/California_Brown_Pelican_Snowy_Egret_California_Sea_Lion_Harbor_Seal.md|California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal]]
+- [[10_Daily/Reflections/reflection_2026-05-24_14-10.md|reflection_2026-05-24_14-10]]
+- [[20_Notes/RSS/2026-05-25/datasette_10a30.md|datasette 1.0a30]]
+- [[20_Notes/RSS/2026-05-25/Mad_House__Usborne_Creepy_Computer_Games.md|Mad House — Usborne Creepy Computer Games]]
+- [[20_Notes/RSS/2026-05-25/datasette-agent_01a4.md|datasette-agent 0.1a4]]
+- [[20_Notes/RSS/2026-05-25/Quoting_Armin_Ronacher.md|Quoting Armin Ronacher]]
+- [[20_Notes/RSS/2026-05-25/datasette-fixtures_01a0.md|datasette-fixtures 0.1a0]]
+- [[20_Notes/RSS/2026-05-24/Laravel-Lang_PHP_Packages_Compromised_to_Deliver_Cross-Platform_Credential_Steal.md|Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer]]
+- [[20_Notes/RSS/2026-05-24/On_the_dl.md|On the <dl>]]
+- [[20_Notes/RSS/2026-05-23/The_memory_shortage_is_causing_a_repricing_of_consumer_electronics.md|The memory shortage is causing a repricing of consumer electronics]]
+- [[20_Notes/RSS/2026-05-23/Kimwolf_DDoS_Botnet_Operator_Arrested_in_Canada_Over_DDoS-for-Hire_Attacks.md|Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks]]
+- [[20_Notes/RSS/2026-05-23/Goodbye_Lennys_Reads.md|Goodbye, Lenny's Reads!]]
+- [[20_Notes/RSS/2026-05-23/Weekly_Dose_of_Optimism_194.md|Weekly Dose of Optimism #194]]
+- [[20_Notes/RSS/2026-05-23/Catch_up_on_the_Dialogues_stage_at_Google_IO_2026.md|Catch up on the Dialogues stage at Google I/O 2026.]]
+- [[20_Notes/RSS/2026-05-23/202621_The_Data_Center_Veto.md|2026.21: The Data Center Veto]]
+- [[20_Notes/RSS/2026-05-22/Giving_Agents_Computers__Ivan_Burazin_Daytona.md|Giving Agents Computers — Ivan Burazin, Daytona]]
+- [[20_Notes/RSS/2026-05-22/datasette-agent_01a3.md|datasette-agent 0.1a3]]
+- [[20_Notes/RSS/2026-05-22/datasette-agent-sprites_01a0.md|datasette-agent-sprites 0.1a0]]
+- [[20_Notes/RSS/2026-05-22/When_Identity_is_the_Attack_Path.md|When Identity is the Attack Path]]
+- [[20_Notes/RSS/2026-05-22/Datasette_Agent.md|Datasette Agent]]
+- [[20_Notes/RSS/2026-05-22/datasette-agent-charts_01a2.md|datasette-agent-charts 0.1a2]]
+- [[20_Notes/RSS/2026-05-22/An_Interview_with_Parallel_Founder_Parag_Agarwal_About_Valuing_Content_on_the_Ag.md|An Interview with Parallel Founder Parag Agarwal About Valuing Content on the Agentic Web]]
+- [[20_Notes/RSS/2026-05-21/100_things_we_announced_at_IO_2026.md|100 things we announced at I/O 2026]]
+- [[20_Notes/RSS/2026-05-21/How_fast_is_10_tokens_per_second_really.md|How fast is 10 tokens per second really?]]
+- [[20_Notes/RSS/2026-05-21/A_new_experiment_brings_better_group_meetings_to_Google_Beam.md|A new experiment brings better group meetings to Google Beam]]
+- [[20_Notes/RSS/2026-05-21/Quoting_SpaceX_S-1.md|Quoting SpaceX S-1]]
+- [[20_Notes/RSS/2026-05-22/datasette-agent-charts_01a1.md|datasette-agent-charts 0.1a1]]
+- [[20_Notes/RSS/2026-05-20/What_launched_at_Google_IO_2026_30-minute_day_1_recap.md|What launched at Google I/O 2026 (30-minute day 1 recap)]]
+- [[20_Notes/RSS/2026-05-20/IO_2026.md|I/O 2026]]
+- [[20_Notes/RSS/2026-05-20/New_ways_to_create_and_get_things_done_in_Google_Workspace.md|New ways to create and get things done in Google Workspace]]
+- [[20_Notes/RSS/2026-05-20/Personal_Day.md|Personal Day]]
+- [[20_Notes/RSS/2026-05-20/The_Lenny_and_Friends_Summit_is_back.md|The Lenny and Friends Summit is back!]]
+- [[20_Notes/RSS/2026-05-19/NVIDIA_CEO_Jensen_Huang_at_Dell_Technologies_World_Demand_Is_Going_Parabolic_Utt.md|NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’]]
+- [[20_Notes/RSS/2026-05-19/The_Next_War_Is_Already_Here_The_West_Isnt_Ready__Yaroslav_Azhnyuk_The_Fourth_La.md|The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion]]
+- [[20_Notes/RSS/2026-05-19/Glaucous-winged_Gull_Brown_Pelican_Snowy_Egret_Canada_Goose.md|Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose]]
+- [[20_Notes/RSS/2026-05-19/Data_Center_Discontent_Understanding_the_Opposition_Fixing_the_Problem.md|Data Center Discontent, Understanding the Opposition, Fixing the Problem]]
+- [[20_Notes/RSS/2026-05-19/INTERPOL_Operation_Ramz_Disrupts_MENA_Cybercrime_Networks_with_201_Arrests.md|INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests]]
+- [[20_Notes/RSS/2026-05-18/Glaucous-winged_Gull_Brown_Pelican_Snowy_Egret_Canada_Goose.md|Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose]]
+- [[10_Daily/2026/05/2026-05-18.md|2026-05-18]]
+- [[30_Projects/vault-automatisierung.md|vault-automatisierung]]
+- [[10_Daily/2026/05/2026-05-17.md|2026-05-17]]
+- [[20_Notes/RSS/2026-05-19/Cowboy_Space_Corporation.md|Cowboy Space Corporation]]
+- [[20_Notes/RSS/2026-05-18/Quoting_Julia_Evans.md|Quoting Julia Evans]]
+- [[_meta/index/MOC.md|MOC]]
+- [[10_Daily/2026/05/2026-05-16.md|2026-05-16]]
+- [[20_Notes/RSS/2026-05-19/I_cant_believe_this_trial_is_real.md|I can’t believe this trial is real...]]
+- [[20_Notes/RSS/2026-05-19/202620_Shifting_Alliances_in_a_Changing_World.md|2026.20: Shifting Alliances in a Changing World]]
+- [[20_Notes/RSS/2026-05-19/Weekly_Dose_of_Optimism_193.md|Weekly Dose of Optimism #193]]
+- [[20_Notes/RSS/2026-05-18/inaturalist-clumper_01.md|inaturalist-clumper 0.1]]
+- [[20_Notes/RSS/2026-05-18/Western_Gull_Rock_Pigeon.md|Western Gull, Rock Pigeon]]
+- [[20_Notes/RSS/2026-05-22/datasette-agent_01a2.md|datasette-agent 0.1a2]]
+- [[20_Notes/RSS/2026-05-19/An_Interview_with_Ben_Thompson_at_the_MoffettNathanson_Media_Internet__Communica.md|An Interview with Ben Thompson at the MoffettNathanson Media, Internet & Communications Conference]]
+- [[20_Notes/RSS/2026-05-19/The_Most_Incredible_Transformation_Ive_Ever_Seen__Jerzy_Gregorek_on_Autism_Cereb.md|The Most Incredible Transformation I’ve Ever Seen — Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions (#865)]]
+- [[20_Notes/RSS/2026-05-18/datasette-ip-rate-limit_01a0.md|datasette-ip-rate-limit 0.1a0]]
+- [[20_Notes/RSS/2026-05-18/Quoting_Mitchell_Hashimoto.md|Quoting Mitchell Hashimoto]]
+- [[20_Notes/RSS/2026-05-22/datasette-agent_01a1.md|datasette-agent 0.1a1]]
+- [[20_Notes/RSS/2026-05-19/The_Deployment_Company_Back_to_the_70s_Apple_and_Intel.md|The Deployment Company, Back to the 70s, Apple and Intel]]
+- [[20_Notes/RSS/2026-05-19/Riding_the_Leopard.md|Riding the Leopard]]
+- [[20_Notes/RSS/2026-05-18/Welcome_to_the_Datasette_blog.md|Welcome to the Datasette blog]]
+- [[20_Notes/RSS/2026-05-18/CSP_Allow-list_Experiment.md|CSP Allow-list Experiment]]
+- [[20_Notes/RSS/2026-05-18/Quoting_Boris_Mann.md|Quoting Boris Mann]]
+- [[20_Notes/RSS/2026-05-18/datasette_10a29.md|datasette 1.0a29]]
+- [[20_Notes/RSS/2026-05-18/Quoting_Mo_Bitar.md|Quoting Mo Bitar]]
+- [[20_Notes/RSS/2026-05-19/The_Inference_Shift.md|The Inference Shift]]
+- [[20_Notes/RSS/2026-05-18/Quoting_James_Shore.md|Quoting James Shore]]
+- [[20_Notes/RSS/2026-05-19/How_to_build_a_company_that_withstands_any_era__Eric_Ries_Lean_Startup_author.md|How to build a company that withstands any era | Eric Ries, Lean Startup author]]
+- [[20_Notes/RSS/2026-05-18/Quoting_Andrew_Quinn.md|Quoting Andrew Quinn]]
+- [[20_Notes/RSS/2026-05-18/Quoting_Luke_Curley.md|Quoting Luke Curley]]
+- [[20_Notes/RSS/2026-05-19/Weekly_Dose_of_Optimism_192.md|Weekly Dose of Optimism #192]]
+- [[20_Notes/RSS/2026-05-19/The_Practice_of_Self-Inquiry_10_Questions_for_People_Who_Are_Too_Hard_on_Themsel.md|The Practice of Self-Inquiry: 10 Questions for People Who Are Too Hard on Themselves]]
+- [[20_Notes/RSS/2026-05-19/202619_Earning__Spending.md|2026.19: Earning & Spending]]
+- [[20_Notes/RSS/2026-05-19/Powering_the_Next_American_Century_US_Energy_Secretary_Chris_Wright_and_NVIDIAs_.md|Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission]]
+- [[20_Notes/RSS/2026-05-19/Every_operating_system_concept_in_one_video.md|Every operating system concept in one video…]]
+- [[20_Notes/RSS/2026-05-18/Big_Words.md|Big Words]]
+- [[20_Notes/RSS/2026-05-18/Advanced_RAG_Data_Cleaning_and_Retrieval_Techniques.md|Advanced RAG: Data Cleaning and Retrieval Techniques]]
+- [[20_Notes/RSS/2026-05-19/Microsoft_Earnings_Apple_Earnings.md|Microsoft Earnings, Apple Earnings]]
+- [[20_Notes/RSS/2026-05-19/5_gardening_tips_you_can_try_right_in_Search.md|5 gardening tips you can try right in Search]]
+- [[20_Notes/RSS/2026-05-18/Vibe_coding_and_agentic_engineering_are_getting_closer_than_Id_like.md|Vibe coding and agentic engineering are getting closer than I'd like]]
+- [[20_Notes/RSS/2026-05-19/Amazons_Durability.md|Amazon’s Durability]]
+- [[20_Notes/RSS/2026-05-19/Google_is_partnering_with_XPRIZE_and_Range_Media_Partners_on_the_35_million_Futu.md|Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.]]
+- [[20_Notes/RSS/2026-05-18/datasette-referrer-policy_01.md|datasette-referrer-policy 0.1]]
+- [[20_Notes/RSS/2026-05-19/Weekly_Dose_of_Optimism_191.md|Weekly Dose of Optimism #191]]
+- [[20_Notes/RSS/2026-05-18/Deploy_n8n_agents_that_show_up_as_members_of_the_team_inside_Microsoft_apps.md|Deploy n8n agents that show up as members of the team inside Microsoft apps]]
+- [[20_Notes/RSS/2026-05-18/ReAct_Agent_Architecture_Implementation_and_Tradeoffs.md|ReAct Agent: Architecture, Implementation, and Tradeoffs]]
+- [[20_Notes/RSS/2026-05-18/Human-in-the-Loop_vs_Human-on-the-Loop_When_To_Use_Each_System.md|Human-in-the-Loop vs. Human-on-the-Loop: When To Use Each System]]
+- [[20_Notes/RSS/2026-05-19/Celebrating_20_years_of_Google_Translate_Fun_facts_tips_and_new_features_to_try.md|Celebrating 20 years of Google Translate: Fun facts, tips and new features to try]]
+- [[20_Notes/RSS/2026-05-19/Into_the_Omniverse_Manufacturings_Simulation-First_Era_Has_Arrived.md|Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived]]
+- [[20_Notes/RSS/2026-05-19/Snapchat_CEO_Why_distribution_has_become_the_most_important_moat__Evan_Spiegel.md|Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel]]
+- [[20_Notes/RSS/2026-05-19/Weekly_Dose_of_Optimism_190.md|Weekly Dose of Optimism #190]]
+- [[20_Notes/RSS/2026-05-19/Making_Sense_of_the_Early_Universe.md|Making Sense of the Early Universe]]
+- [[20_Notes/RSS/2026-05-19/The_Great_Blue_Frontier.md|The Great Blue Frontier]]
+- [[20_Notes/RSS/2026-05-19/Were_launching_two_specialized_TPUs_for_the_agentic_era.md|We're launching two specialized TPUs for the agentic era.]]
+- [[20_Notes/RSS/2026-05-19/3_new_ways_Ads_Advisor_is_making_Google_Ads_safer_and_faster.md|3 new ways Ads Advisor is making Google Ads safer and faster]]
+- [[20_Notes/RSS/2026-05-19/7_ways_to_travel_smarter_this_summer_with_help_from_Google.md|7 ways to travel smarter this summer, with help from Google]]
+- [[20_Notes/RSS/2026-05-19/Weekly_Dose_of_Optimism_189.md|Weekly Dose of Optimism #189]]
+- [[20_Notes/RSS/2026-05-19/Weekly_Dose_of_Optimism_188.md|Weekly Dose of Optimism #188]]
+- [[20_Notes/RSS/2026-05-18/Orchestration_vs_Choreography_Which_One_to_Choose__or_Use_Both.md|Orchestration vs. Choreography: Which One to Choose – or Use Both?]]
+- [[20_Notes/RSS/2026-05-19/Weekly_Dose_of_Optimism_187.md|Weekly Dose of Optimism #187]]
+- [[20_Notes/RSS/2026-05-19/Bad_Analogies.md|Bad Analogies]]
+- [[20_Notes/RSS/2026-05-19/He_just_crawled_through_hell_to_fix_the_browser.md|He just crawled through hell to fix the browser…]]
+- [[20_Notes/RSS/2026-05-19/Weekly_Dose_of_Optimism_186.md|Weekly Dose of Optimism #186]]
+- [[20_Notes/RSS/2026-05-19/Electromagnetism_Secretly_Runs_the_World.md|Electromagnetism Secretly Runs the World]]
+- [[20_Notes/RSS/2026-05-19/Weekly_Dose_of_Optimism_185.md|Weekly Dose of Optimism #185]]
+- [[20_Notes/RSS/2026-05-19/Weekly_Dose_of_Optimism_184.md|Weekly Dose of Optimism #184]]
+- [[20_Notes/RSS/2026-05-18/The_Shape_of_the_Thing.md|The Shape of the Thing]]
+- [[20_Notes/RSS/2026-05-19/Weekly_Dose_of_Optimism_183.md|Weekly Dose of Optimism #183]]
+- [[20_Notes/RSS/2026-05-19/Costless_Sacrifice.md|Costless Sacrifice]]
+- [[20_Notes/RSS/2026-05-19/Weekly_Dose_of_Optimism_182.md|Weekly Dose of Optimism #182]]
+- [[20_Notes/RSS/2026-05-19/The_sights_and_sounds_of_Bhutan.md|The sights and sounds of Bhutan]]
+- [[20_Notes/RSS/2026-05-19/Tales_from_Toddlerhood.md|Tales from Toddlerhood]]
+- [[20_Notes/RSS/2026-05-18/On_Working_with_Wizards.md|On Working with Wizards]]
+- [[20_Notes/RSS/2026-05-18/Mass_Intelligence.md|Mass Intelligence]]
+- [[20_Notes/RSS/2026-05-18/The_Bitter_Lesson_versus_The_Garbage_Can.md|The Bitter Lesson versus The Garbage Can]]
+- [[20_Notes/RSS/2026-05-18/Personality_and_Persuasion.md|Personality and Persuasion]]
+- [[20_Notes/RSS/2026-05-19/All_My_Thoughts_After_40_Hours_in_the_Vision_Pro.md|All My Thoughts After 40 Hours in the Vision Pro]]
+- [[20_Notes/RSS/2026-05-19/10_Thoughts_from_the_Fourth_Trimester.md|10 Thoughts from the Fourth Trimester]]
+- [[20_Notes/RSS/2026-05-19/A_Short_History_of_My_Last_Six_Years.md|A Short History of My Last Six Years]]
+- [[20_Notes/RSS/2026-05-19/The_Trump-Biden_Debate.md|The Trump-Biden Debate]]
+- [[20_Notes/RSS/2026-05-19/The_Big_and_the_Small.md|The Big and the Small]]
+- [[20_Notes/RSS/2026-05-19/You_Wont_Believe_My_Morning.md|You Won’t Believe My Morning]]
+- [[20_Notes/RSS/2026-05-19/Its_2020_and_youre_in_the_future.md|It’s 2020 and you’re in the future]]
+- [[test_sync.md|test_sync]]
+- [[README.md|README]]
+- [[notiz-name.md|notiz-name]]
+- [[Erste Notiz.md|Erste Notiz]]
+- [[Hermes-Test-Notiz.md|Hermes Test Notiz]]
+- [[Workflow Test.md|Workflow Test]]
+- [[multi-agent-second-brain.md|multi-agent-second-brain]]
+- [[50_Resources/README.md|README]]
+- [[30_Projects/README.md|README]]
+- [[20_Notes/README.md|README]]
+- [[40_Areas/README.md|README]]
+- [[90_Archive/2026/setup-artifacts/test_sync.md|test_sync]]
+- [[90_Archive/2026/setup-artifacts/README.md|README]]
+- [[90_Archive/2026/setup-artifacts/notiz-name.md|notiz-name]]
+- [[90_Archive/2026/setup-artifacts/Erste Notiz.md|Erste Notiz]]
+- [[90_Archive/2026/setup-artifacts/Hermes-Test-Notiz.md|Hermes-Test-Notiz]]
+- [[90_Archive/2026/setup-artifacts/Workflow Test.md|Workflow Test]]
+- [[90_Archive/2026/setup-artifacts/multi-agent-second-brain.md|multi-agent-second-brain]]
+- [[20_Notes/System/metrics_2026-05-23.md|Hermes Metrics Report 2026-05-23]]
+- [[20_Notes/System/metrics_2026-05-27.md|Hermes Metrics Report 2026-05-27]]
+- [[20_Notes/System/self-introspect_2026-05-20.md|Self-Introspection Report 2026-05-20]]
+- [[20_Notes/System/self-introspect_2026-05-25.md|Self-Introspection Report 2026-05-25]]
+- [[20_Notes/System/self-introspect_2026-05-26.md|Self-Introspection Report 2026-05-26]]
+- [[20_Notes/System/metrics_2026-05-24.md|Hermes Metrics Report 2026-05-24]]
+- [[20_Notes/System/metrics_2026-05-20.md|Hermes Metrics Report 2026-05-20]]
+- [[20_Notes/System/self-introspect_2026-05-23.md|Self-Introspection Report 2026-05-23]]
+- [[20_Notes/System/metrics_2026-05-22.md|Hermes Metrics Report 2026-05-22]]
+- [[20_Notes/System/Metrics.md|System Metrics Index]]
+- [[20_Notes/System/metrics_2026-05-26.md|Hermes Metrics Report 2026-05-26]]
+- [[20_Notes/System/self-introspect_2026-05-24.md|Self-Introspection Report 2026-05-24]]
+- [[20_Notes/System/self-introspect_2026-05-22.md|Self-Introspection Report 2026-05-22]]
+- [[20_Notes/System/metrics_2026-05-21.md|Hermes Metrics Report 2026-05-21]]
+- [[20_Notes/System/self-introspect_2026-05-21.md|Self-Introspection Report 2026-05-21]]
+- [[20_Notes/System/skill-drift_2026-05-26.md|Skill Drift Check 2026-05-26]]
+- [[20_Notes/System/self-introspect_2026-05-27.md|Self-Introspection Report 2026-05-27]]
+- [[20_Notes/System/Self-Introspection.md|Self-Introspection Index]]
+- [[20_Notes/System/metrics_2026-05-25.md|Hermes Metrics Report 2026-05-25]]
+- [[20_Notes/System/Agent-Pool/README.md|Multi-Agent Specialist Pool]]
+- [[30_Projects/TradingAgent/Gate_03_AutonomousAgent_35pct30days.md|Gate_03_AutonomousAgent_35pct30days]]
+- [[30_Projects/Trading-Agent/01_Gate.md|01_Gate]]
+- [[30_Projects/Trading-Agent/02_Backtest-Engine.md|02_Backtest-Engine]]
+- [[30_Projects/Trading-Agent/00_ROADMAP.md|00_ROADMAP]]
+- [[30_Projects/Trading-Agent/state/logs/reflection_20260525_1314.md|reflection_20260525_1314]]
+- [[_meta/templates/daily-template.md|daily-template]]
+- [[_meta/templates/capture-template.md|capture-template]]
+- [[10_Daily/Vault_Graph/vault-graph_2026-05-23.md|Vault Knowledge Graph 2026-05-23]]
+- [[10_Daily/Vault_Graph/vault-graph_2026-05-20.md|Vault Knowledge Graph 2026-05-20]]
+- [[10_Daily/Vault_Graph/vault-graph_2026-05-25.md|Vault Knowledge Graph 2026-05-25]]
+- [[10_Daily/Vault_Graph/vault-graph_2026-05-21.md|Vault Knowledge Graph 2026-05-21]]
+- [[10_Daily/Vault_Graph/vault-graph_2026-05-22.md|Vault Knowledge Graph 2026-05-22]]
+- [[10_Daily/Vault_Graph/vault-graph_2026-05-24.md|Vault Knowledge Graph 2026-05-24]]
+- [[10_Daily/Healthchecks/health-check_2026-05-22.md|Health Check 2026-05-22]]
+- [[10_Daily/Healthchecks/health-check_2026-05-20.md|Health Check 2026-05-20]]
+- [[10_Daily/Healthchecks/health-check_2026-05-24.md|Health Check 2026-05-24]]
+- [[10_Daily/Healthchecks/health-check_2026-05-21.md|Health Check 2026-05-21]]
+- [[10_Daily/Healthchecks/health-check_2026-05-23.md|Health Check 2026-05-23]]
+- [[10_Daily/Reflections/reflection_2026-05-21_09-30.md|Background Reflection 2026-05-21 09:30]]
+- [[10_Daily/Reflections/reflection_2026-05-21_10-32.md|Background Cognition Reflection 2026-05-21_10-32]]
+- [[10_Daily/Reflections/reflection_2026-05-23_20-30.md|Background Cognition Reflection — 2026-05-23 20:30]]
+- [[10_Daily/Reflections/reflection_2026-05-21_06-00.md|reflection_2026-05-21_06-00]]
+- [[10_Daily/Reflections/reflection_2026-05-21_00-40.md|reflection_2026-05-21_00-40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_13-20.md|reflection_2026-05-21_13-20]]
+- [[10_Daily/Reflections/reflection_2026-05-23_10-40.md|reflection_2026-05-23_10-40]]
+- [[10_Daily/Reflections/reflection_2026-05-20_21-40.md|reflection_2026-05-20_21-40]]
+- [[10_Daily/Reflections/reflection_2026-05-22_15-20.md|Background Cognition Reflection 2026-05-22 15:20]]
+- [[10_Daily/Reflections/reflection_2026-05-22_09-30.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-20_20-00.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-22_07-00.md|reflection_2026-05-22_07-00]]
+- [[10_Daily/Reflections/reflection_2026-05-22_10-00.md|reflection_2026-05-22_10-00]]
+- [[10_Daily/Reflections/reflection_2026-05-20_21-30.md|Background Cognition Reflection 2026-05-20 21:30]]
+- [[10_Daily/Reflections/reflection_2026-05-20_14-30.md|reflection_2026-05-20_14-30]]
+- [[10_Daily/Reflections/reflection_2026-05-20_23-43.md|reflection_2026-05-20_23-43]]
+- [[10_Daily/Reflections/reflection_2026-05-20_13-00.md|reflection_2026-05-20_13-00]]
+- [[10_Daily/Reflections/reflection_2026-05-22_00-20.md|Reflection 2026-05-22 00:20]]
+- [[10_Daily/Reflections/reflection_2026-05-21_01-50.md|reflection_2026-05-21_01-50]]
+- [[10_Daily/Reflections/reflection_2026-05-23_12-50.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-21_00-50.md|reflection_2026-05-21_00-50]]
+- [[10_Daily/Reflections/reflection_2026-05-21_08-00.md|Background Cognition Reflection 2026-05-21 08:00]]
+- [[10_Daily/Reflections/reflection_2026-05-24_14-21.md|Background Cognition Reflection 2026-05-24 14:21]]
+- [[10_Daily/Reflections/reflection_2026-05-22_22-50.md|Background Cognition Reflection 2026-05-22 22:50]]
+- [[10_Daily/Reflections/reflection_2026-05-23_05-20.md|Reflection 2026-05-23 05:20]]
+- [[10_Daily/Reflections/reflection_2026-05-22_04-00.md|reflection_2026-05-22_04-00]]
+- [[10_Daily/Reflections/reflection_2026-05-20_14-10.md|reflection_2026-05-20_14-10]]
+- [[10_Daily/Reflections/reflection_2026-05-21_11-51.md|reflection_2026-05-21_11-51]]
+- [[10_Daily/Reflections/reflection_2026-05-21_06-10.md|reflection_2026-05-21_06-10]]
+- [[10_Daily/Reflections/reflection_2026-05-20_21-50.md|reflection_2026-05-20_21-50]]
+- [[10_Daily/Reflections/reflection_2026-05-22_13-50.md|reflection_2026-05-22_13-50]]
+- [[10_Daily/Reflections/reflection_2026-05-21_15-30.md|Reflection 2026-05-21 15:30]]
+- [[10_Daily/Reflections/reflection_2026-05-20_19-30.md|reflection_2026-05-20_19-30]]
+- [[10_Daily/Reflections/reflection_2026-05-23_04-30.md|Background Cognition — 2026-05-23 04:30]]
+- [[10_Daily/Reflections/reflection_2026-05-22_05-40.md|Background Cognition Reflection 2026-05-22 05:40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_14-30.md|reflection_2026-05-21_14-30]]
+- [[10_Daily/Reflections/reflection_2026-05-22_16-20.md|reflection_2026-05-22_16-20]]
+- [[10_Daily/Reflections/reflection_2026-05-21_21-20.md|reflection_2026-05-21_21-20]]
+- [[10_Daily/Reflections/reflection_2026-05-20_19-20.md|Background Cognition Reflection 2026-05-20 19:20]]
+- [[10_Daily/Reflections/reflection_2026-05-21_00-20.md|reflection_2026-05-21_00-20]]
+- [[10_Daily/Reflections/reflection_2026-05-21_07-30.md|reflection_2026-05-21_07-30]]
+- [[10_Daily/Reflections/reflection_2026-05-24_06-10.md|reflection 2026-05-24 06-10]]
+- [[10_Daily/Reflections/reflection_2026-05-20_21-20.md|Background Cognition Reflection 2026-05-20 21:20]]
+- [[10_Daily/Reflections/reflection_2026-05-21_04-50.md|reflection_2026-05-21_04-50]]
+- [[10_Daily/Reflections/reflection_2026-05-22_07-10.md|reflection_2026-05-22_07-10]]
+- [[10_Daily/Reflections/reflection_2026-05-22_14-30.md|Reflection 2026-05-22 14:30]]
+- [[10_Daily/Reflections/reflection_2026-05-23_23-30.md|reflection_2026-05-23_23-30]]
+- [[10_Daily/Reflections/reflection_2026-05-21_04-10.md|Background Cognition Reflection 2026-05-21 04:10]]
+- [[10_Daily/Reflections/reflection_2026-05-22_06-00.md|reflection_2026-05-22_06-00]]
+- [[10_Daily/Reflections/reflection_2026-05-21_23-52.md|reflection_2026-05-21_23-52]]
+- [[10_Daily/Reflections/reflection_2026-05-21_22-30.md|Reflection 2026-05-21 22:30]]
+- [[10_Daily/Reflections/reflection_2026-05-22_08-00.md|reflection_2026-05-22_08-00]]
+- [[10_Daily/Reflections/reflection_2026-05-21_06-40.md|reflection_2026-05-21_06-40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_18-20.md|Background Reflection 2026-05-21 18:20]]
+- [[10_Daily/Reflections/reflection_2026-05-20_17-30.md|reflection_2026-05-20_17-30]]
+- [[10_Daily/Reflections/reflection_2026-05-22_20-00.md|reflection_2026-05-22_20-00]]
+- [[10_Daily/Reflections/reflection_2026-05-21_08-30.md|Background Cognition Reflection 2026-05-21 08:30]]
+- [[10_Daily/Reflections/reflection_2026-05-22_07-31.md|Background Reflection 2026-05-22 07:31]]
+- [[10_Daily/Reflections/reflection_2026-05-22_20-10.md|Reflection 2026-05-22_20-10]]
+- [[10_Daily/Reflections/reflection_2026-05-22_23-40.md|Background Cognition Reflection — 2026-05-22 23:40]]
+- [[10_Daily/Reflections/reflection_2026-05-22_11-20.md|Background Reflection 2026-05-22 11:20]]
+- [[10_Daily/Reflections/reflection_2026-05-22_04-30.md|Reflection 2026-05-22 04:30]]
+- [[10_Daily/Reflections/reflection_2026-05-20_13-30.md|reflection_2026-05-20_13-30]]
+- [[10_Daily/Reflections/reflection_2026-05-20_22-30.md|reflection_2026-05-20_22-30]]
+- [[10_Daily/Reflections/reflection_2026-05-21_08-10.md|Reflection 2026-05-21 08:10]]
+- [[10_Daily/Reflections/reflection_2026-05-22_12-30.md|reflection_2026-05-22_12-30]]
+- [[10_Daily/Reflections/reflection_2026-05-20_18-50.md|reflection_2026-05-20_18-50]]
+- [[10_Daily/Reflections/reflection_2026-05-22_13-30.md|reflection_2026-05-22_13-30]]
+- [[10_Daily/Reflections/reflection_2026-05-20_19-00.md|reflection_2026-05-20_19-00]]
+- [[10_Daily/Reflections/reflection_2026-05-21_18-10.md|reflection_2026-05-21_18-10]]
+- [[10_Daily/Reflections/reflection_2026-05-21_22-20.md|reflection_2026-05-21_22-20]]
+- [[10_Daily/Reflections/reflection_2026-05-23_11-20.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-20_20-41.md|reflection_2026-05-20_20-41]]
+- [[10_Daily/Reflections/reflection_2026-05-21_11-30.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-22_12-10.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-22_01-40.md|reflection_2026-05-22_01-40]]
+- [[10_Daily/Reflections/reflection_2026-05-22_10-50.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-20_20-50.md|reflection_2026-05-20_20-50]]
+- [[10_Daily/Reflections/reflection_2026-05-21_14-40.md|Background Cognition — 2026-05-21 14:40]]
+- [[10_Daily/Reflections/reflection_2026-05-20_20-20.md|Reflection 2026-05-20 20:20]]
+- [[10_Daily/Reflections/reflection_2026-05-20_22-21.md|Reflection 2026-05-20 22:21]]
+- [[10_Daily/Reflections/reflection_2026-05-24_16-34.md|Background Cognition Reflection 2026-05-24 16-34]]
+- [[10_Daily/Reflections/reflection_2026-05-21_11-40.md|reflection_2026-05-21_11-40]]
+- [[10_Daily/Reflections/reflection_2026-05-22_06-30.md|reflection_2026-05-22_06-30]]
+- [[10_Daily/Reflections/reflection_2026-05-21_10-00.md|Reflection 2026-05-21 10:00]]
+- [[10_Daily/Reflections/reflection_2026-05-23_10-10.md|Background Cognition Reflection 2026-05-23 10:10]]
+- [[10_Daily/Reflections/reflection_2026-05-21_07-40.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-21_04-40.md|reflection_2026-05-21_04-40]]
+- [[10_Daily/Reflections/reflection_2026-05-20_18-21.md|reflection_2026-05-20_18-21]]
+- [[10_Daily/Reflections/reflection_2026-05-22_11-50.md|Background Cognition 11:50]]
+- [[10_Daily/Reflections/reflection_2026-05-20_18-41.md|reflection_2026-05-20_18-41]]
+- [[10_Daily/Reflections/reflection_2026-05-22_12-40.md|reflection_2026-05-22_12-40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_00-02.md|reflection_2026-05-21_00-02]]
+- [[10_Daily/Reflections/reflection_2026-05-21_21-00.md|Background Reflection 2026-05-21 21:00]]
+- [[10_Daily/Reflections/reflection_2026-05-23_02-50.md|reflection_2026-05-23_02-50]]
+- [[10_Daily/Reflections/reflection_2026-05-21_03-20.md|reflection_2026-05-21_03-20]]
+- [[10_Daily/Reflections/reflection_2026-05-21_01-40.md|Background Cognition Reflection — 2026-05-21 01:40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_20-03.md|reflection_2026-05-21_20-03]]
+- [[10_Daily/Reflections/reflection_2026-05-22_12-00.md|Background Cognition — 2026-05-22 12:00]]
+- [[10_Daily/Reflections/2026-05-16_Session_Hermes_Coding_Agent.md|2026-05-16_Session_Hermes_Coding_Agent]]
+- [[10_Daily/Reflections/reflection_2026-05-21_05-00.md|reflection_2026-05-21_05-00]]
+- [[10_Daily/Reflections/reflection_2026-05-20_19-51.md|reflection_2026-05-20_19-51]]
+- [[10_Daily/Reflections/reflection_2026-05-20_20-30.md|reflection_2026-05-20_20-30]]
+- [[10_Daily/Reflections/reflection_2026-05-20_19-10.md|reflection_2026-05-20_19-10]]
+- [[10_Daily/Reflections/reflection_2026-05-23_10-00.md|reflection_2026-05-23_10-00]]
+- [[10_Daily/Reflections/reflection_2026-05-22_17-36.md|Background Cognition Reflection 2026-05-22 17:30]]
+- [[10_Daily/Reflections/reflection_2026-05-21_02-10.md|reflection_2026-05-21_02-10]]
+- [[10_Daily/Reflections/reflection_2026-05-22_05-00.md|reflection_2026-05-22_05-00]]
+- [[10_Daily/Reflections/reflection_2026-05-22_08-52.md|Reflection 2026-05-22 08:52]]
+- [[10_Daily/Reflections/reflection_2026-05-21_07-50.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-21_04-30.md|reflection_2026-05-21_04-30]]
+- [[10_Daily/Reflections/reflection_2026-05-22_15-51.md|reflection_2026-05-22_15-51]]
+- [[10_Daily/Reflections/reflection_2026-05-21_13-50.md|reflection_2026-05-21_13-50]]
+- [[10_Daily/Reflections/reflection_2026-05-23_00-20.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-24_21-50.md|Background Cognition Reflection — 2026-05-24 21:50]]
+- [[10_Daily/Reflections/reflection_2026-05-21_03-50.md|reflection_2026-05-21_03-50]]
+- [[10_Daily/Reflections/reflection_2026-05-21_07-22.md|Background Cognition Reflection 2026-05-21 07:22]]
+- [[10_Daily/Reflections/reflection_2026-05-23_04-10.md|Reflection 2026-05-23 04-10]]
+- [[10_Daily/Reflections/reflection_2026-05-20_21-00.md|reflection_2026-05-20_21-00]]
+- [[10_Daily/Reflections/reflection_2026-05-23_14-10.md|reflection_2026-05-23_14-10]]
+- [[10_Daily/Reflections/reflection_2026-05-21_20-20.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-23_07-40.md|Background Cognition Reflection 2026-05-23 07-40]]
+- [[10_Daily/Reflections/reflection_2026-05-22_18-20.md|Reflection 2026-05-22 18:20]]
+- [[10_Daily/Reflections/reflection_2026-05-22_11-40.md|reflection_2026-05-22_11-40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_01-20.md|reflection_2026-05-21_01-20]]
+- [[10_Daily/Reflections/reflection_2026-05-21_21-10.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-24_18-50.md|reflection 2026-05-24 18-50]]
+- [[10_Daily/Reflections/reflection_2026-05-23_00-30.md|Background Cognition Reflection — 2026-05-23 00:30]]
+- [[10_Daily/Reflections/reflection_2026-05-22_09-01.md|reflection_2026-05-22_09-01]]
+- [[10_Daily/Reflections/reflection_2026-05-23_12-10.md|reflection_2026-05-23_12-10]]
+- [[10_Daily/Reflections/reflection_2026-05-21_09-00.md|Reflection 2026-05-21 09:00]]
+- [[10_Daily/Reflections/reflection_2026-05-22_21-31.md|Reflection 2026-05-22]]
+- [[10_Daily/Reflections/reflection_2026-05-24_23-50.md|reflection 2026-05-24 23-50]]
+- [[10_Daily/Reflections/reflection_2026-05-21_00-30.md|reflection_2026-05-21_00-30]]
+- [[10_Daily/Reflections/reflection_2026-05-22_16-50.md|reflection_2026-05-22_16-50]]
+- [[10_Daily/Reflections/reflection_2026-05-21_11-10.md|Background Cognition — 2026-05-21 11:10]]
+- [[10_Daily/Reflections/reflection_2026-05-23_12-20.md|reflection_2026-05-23_12-20]]
+- [[10_Daily/Reflections/reflection_2026-05-21_00-10.md|reflection_2026-05-21_00-10]]
+- [[10_Daily/Reflections/reflection_2026-05-20_13-40.md|reflection_2026-05-20_13-40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_08-50.md|Reflection 2026-05-21 08:50]]
+- [[10_Daily/Reflections/reflection_2026-05-22_14-20.md|reflection_2026-05-22_14-20]]
+- [[10_Daily/Reflections/reflection_2026-05-23_14-50.md|reflection_2026-05-23_14-50]]
+- [[10_Daily/Reflections/reflection_2026-05-24_17-30.md|reflection 2026-05-24 17-30]]
+- [[10_Daily/Reflections/reflection_2026-05-22_01-50.md|reflection_2026-05-22_01-50]]
+- [[10_Daily/Reflections/reflection_2026-05-20_13-10.md|reflection_2026-05-20_13-10]]
+- [[10_Daily/Reflections/reflection_2026-05-21_06-30.md|Background Cognition Reflection 2026-05-21 06:30]]
+- [[10_Daily/Reflections/reflection_2026-05-21_08-40.md|Background Cognition Reflection 2026-05-21]]
+- [[10_Daily/Reflections/reflection_2026-05-22_13-00.md|reflection_2026-05-22_13-00]]
+- [[10_Daily/Reflections/reflection_2026-05-24_22-00.md|reflection 2026-05-24 22-00]]
+- [[10_Daily/Reflections/reflection_2026-05-20_18-10.md|reflection_2026-05-20_18-10]]
+- [[10_Daily/Reflections/reflection_2026-05-24_00-20.md|reflection_2026-05-24_00-20]]
+- [[10_Daily/Reflections/reflection_2026-05-22_06-20.md|reflection_2026-05-22_06-20]]
+- [[10_Daily/Reflections/reflection_2026-05-23_03-51.md|Reflection 2026-05-23 03:51]]
+- [[10_Daily/Reflections/reflection_2026-05-21_01-30.md|Background Cognition Reflection 2026-05-21 01:30]]
+- [[10_Daily/Reflections/reflection_2026-05-22_08-10.md|reflection_2026-05-22_08-10]]
+- [[10_Daily/Reflections/reflection_2026-05-22_07-50.md|Reflection 2026-05-22 07-50]]
+- [[10_Daily/Reflections/reflection_2026-05-24_22-51.md|reflection 2026-05-24 22-51]]
+- [[10_Daily/Reflections/reflection_2026-05-20_18-01.md|reflection_2026-05-20_18-01]]
+- [[10_Daily/Reflections/reflection_2026-05-23_08-40.md|Background Cognition Reflection 2026-05-23 08-40]]
+- [[10_Daily/Reflections/reflection_2026-05-22_03-10.md|reflection_2026-05-22_03-10]]
+- [[10_Daily/Reflections/reflection_2026-05-21_17-51.md|reflection_2026-05-21_17-51]]
+- [[10_Daily/Reflections/reflection_2026-05-20_22-40.md|reflection_2026-05-20_22-40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_09-10.md|Reflection 2026-05-21 09:10]]
+- [[10_Daily/Reflections/reflection_2026-05-20_18-30.md|reflection_2026-05-20_18-30]]
+- [[10_Daily/Reflections/reflection_2026-05-21_09-40.md|Background Reflection 2026-05-21 09:40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_14-10.md|Background Cognition — 2026-05-21 14:10]]
+- [[10_Daily/Reflections/reflection_2026-05-22_08-40.md|reflection_2026-05-22_08-40]]
+- [[10_Daily/Reflections/reflection_2026-05-22_08-30.md|Reflection 2026-05-22 08:30]]
+- [[10_Daily/Reflections/reflection_2026-05-23_04-40.md|Background Reflection 2026-05-23 04-40]]
+- [[10_Daily/Reflections/reflection_2026-05-22_10-40.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-21_04-20.md|reflection_2026-05-21_04-20]]
+- [[10_Daily/Reflections/reflection_2026-05-21_10-50.md|Background Cognition Reflection — 2026-05-21 10:50]]
+- [[10_Daily/Reflections/reflection_2026-05-21_11-20.md|Background Reflection — 2026-05-21 11:20]]
+- [[10_Daily/Reflections/reflection_2026-05-23_13-00.md|Background Cognition Reflection]]
+- [[10_Daily/Reflections/reflection_2026-05-21_23-10.md|Reflection 2026-05-21 23:10]]
+- [[10_Daily/Reflections/reflection_2026-05-22_01-30.md|reflection_2026-05-22_01-30]]
+- [[10_Daily/Reflections/reflection_2026-05-23_12-40.md|reflection_2026-05-23_12-40]]
+- [[10_Daily/Reflections/reflection_2026-05-21_09-23.md|Background Reflection 2026-05-21 09:23]]
+- [[10_Daily/Reflections/reflection_2026-05-20_13-20.md|reflection_2026-05-20_13-20]]
+- [[10_Daily/Reflections/reflection_2026-05-23_14-20.md|reflection_2026-05-23_14-20]]
+- [[10_Daily/Reflections/reflection_2026-05-21_05-31.md|reflection_2026-05-21_05-31]]
 ## Siehe auch
 - [[_meta/index/MOC|Master of Ceremonies]]
 - [[_meta/LINKING-STRATEGY|Lazy Linking Strategie]]
