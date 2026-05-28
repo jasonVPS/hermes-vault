@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-27
+updated: 2026-05-28
 type: index
 status: permanent
 tags: [area, finance, index]
@@ -8,7 +8,7 @@ tags: [area, finance, index]
 
 # Finance Index
 
-> Auto-generated index. Updated: 2026-05-27 06:03
+> Auto-generated index. Updated: 2026-05-28 06:05
 
 ## Einträge
 

@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-27
+updated: 2026-05-28
 type: index
 status: permanent
 tags: [area, index, tech]
@@ -8,10 +8,13 @@ tags: [area, index, tech]
 
 # Tech Index
 
-> Auto-generated index. Updated: 2026-05-27 06:03
+> Auto-generated index. Updated: 2026-05-28 06:05
 
 ## Einträge
 
+- [[20_Notes/RSS/2026-05-28/Thank_God_For_Data_Centers.md|Thank God For Data Centers]]
+- [[20_Notes/RSS/2026-05-28/The_SpaceX_IPO_and_Data_Centers_in_Space.md|The SpaceX IPO and Data Centers in Space]]
+- [[20_Notes/RSS/2026-05-27/Quoting_Kyle_Ferrana.md|Quoting Kyle Ferrana]]
 - [[20_Notes/RSS/2026-05-26/Quoting_Corey_Quinn.md|Quoting Corey Quinn]]
 - [[20_Notes/RSS/2026-05-27/The_pressure.md|The pressure]]
 - [[20_Notes/RSS/2026-05-27/MFA_Prompt_Bombing_Why_Your_Second_Factor_Isnt_Saving_You.md|MFA Prompt Bombing: Why Your Second Factor Isn't Saving You]]
@@ -188,10 +191,12 @@ tags: [area, index, tech]
 - [[_meta/templates/capture-template.md|capture-template]]
 - [[10_Daily/Vault_Graph/vault-graph_2026-05-23.md|Vault Knowledge Graph 2026-05-23]]
 - [[10_Daily/Vault_Graph/vault-graph_2026-05-20.md|Vault Knowledge Graph 2026-05-20]]
+- [[10_Daily/Vault_Graph/vault-graph_2026-05-27.md|Vault Knowledge Graph 2026-05-27]]
 - [[10_Daily/Vault_Graph/vault-graph_2026-05-25.md|Vault Knowledge Graph 2026-05-25]]
 - [[10_Daily/Vault_Graph/vault-graph_2026-05-21.md|Vault Knowledge Graph 2026-05-21]]
 - [[10_Daily/Vault_Graph/vault-graph_2026-05-22.md|Vault Knowledge Graph 2026-05-22]]
 - [[10_Daily/Vault_Graph/vault-graph_2026-05-24.md|Vault Knowledge Graph 2026-05-24]]
+- [[10_Daily/Vault_Graph/vault-graph_2026-05-26.md|Vault Knowledge Graph 2026-05-26]]
 - [[10_Daily/Healthchecks/health-check_2026-05-22.md|Health Check 2026-05-22]]
 - [[10_Daily/Healthchecks/health-check_2026-05-20.md|Health Check 2026-05-20]]
 - [[10_Daily/Healthchecks/health-check_2026-05-24.md|Health Check 2026-05-24]]
